@@ -175,11 +175,14 @@ def answer(text, comment_id=""):
 
 def handle(comments, me, seen, dry, send):
     """Reply to the comments we haven't seen; returns how many were sent."""
-    sent = 0
+    sent = read = 0
     for c in comments:
+        read += 1
         if sent >= MAX_REPLIES:
             break
         if c["id"] in seen or c.get("username") == me or not c.get("text"):
+            if dry:
+                print(f"(ignored: {'already answered' if c['id'] in seen else 'our own' if c.get('username') == me else 'no text'}) {c}")
             continue
         reply = answer(c["text"], c["id"])
         print(f"@{c.get('username')}: {c['text']}\n  -> {reply or '(skipped)'}\n")
@@ -189,6 +192,7 @@ def handle(comments, me, seen, dry, send):
         if not dry:
             seen.add(c["id"])
             save(SEEN, sorted(seen))   # save as we go, so a crash never double-replies
+    print(f"Read {read} comment(s).")
     return sent
 
 
