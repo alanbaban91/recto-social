@@ -3,8 +3,11 @@
 Run on your own computer:  python3 get_token.py
 """
 import json
+import subprocess
 import urllib.parse
 import urllib.request
+
+REPO = "alanbaban91/recto-social"
 
 app_id = input("Threads App ID: ").strip()
 secret = input("Threads App Secret: ").strip()
@@ -33,6 +36,11 @@ q = urllib.parse.urlencode({"grant_type": "th_exchange_token", "client_secret": 
 with urllib.request.urlopen("https://graph.threads.net/access_token?" + q) as r:
     long_lived = json.load(r)
 
-print("\nYour long-lived token (save it as the THREADS_TOKEN secret on GitHub):\n")
-print(long_lived["access_token"])
-print(f"\nExpires in about {long_lived.get('expires_in', 0) // 86400} days (auto-refreshed by the workflow).")
+token = long_lived["access_token"]
+days = long_lived.get("expires_in", 0) // 86400
+# Save straight to GitHub (via stdin, so it never shows in the process list): no copy-paste mistakes.
+if subprocess.run(["gh", "secret", "set", "THREADS_TOKEN", "-R", REPO], input=token, text=True).returncode == 0:
+    print(f"\nSaved as THREADS_TOKEN on {REPO}. Expires in about {days} days (auto-refreshed by the workflow).")
+else:
+    print("\nCouldn't save it with gh. Save this as the THREADS_TOKEN secret on GitHub:\n")
+    print(token)
