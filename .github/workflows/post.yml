@@ -1,0 +1,53 @@
+name: Post to Threads (Recto)
+
+on:
+  schedule:
+    # 6 text posts a day (Baghdad time, UTC+3): 08:00, 10:30, 13:00, 15:30, 20:00, 22:30.
+    # The 7th is the daily image post (post-photos.yml, 18:00). GitHub may start a run a few minutes late.
+    - cron: "0 5,10,17 * * *"
+    - cron: "30 7,12,19 * * *"
+  workflow_dispatch: {}   # lets you trigger a post manually
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recto-posting
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Restore the Recto brand font
+        env:
+          BRAND_FONT_B64: ${{ secrets.BRAND_FONT_B64 }}
+        run: '[ -z "$BRAND_FONT_B64" ] || echo "$BRAND_FONT_B64" | base64 -d > fonts/GCCommune.otf'
+
+      - name: Render cards (image posts only)
+        run: python3 post.py render
+
+      - name: Upload cards so Threads can fetch them
+        run: |
+          git config user.name "recto-bot"
+          git config user.email "recto-bot@users.noreply.github.com"
+          git add media
+          git diff --cached --quiet || git commit -m "Render cards"
+          git pull --rebase && git push
+
+      - name: Publish to Threads
+        run: python3 post.py publish
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+
+      - name: Save updated queue
+        if: always()
+        run: |
+          git add -A queue.json posted.json media
+          git diff --cached --quiet || git commit -m "Posted to Threads"
+          git pull --rebase && git push

@@ -1,0 +1,58 @@
+name: Post image to Instagram + Threads (Recto)
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # every day at 18:00 Baghdad time (UTC+3)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recto-posting
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Restore the Recto brand font
+        env:
+          BRAND_FONT_B64: ${{ secrets.BRAND_FONT_B64 }}
+        run: '[ -z "$BRAND_FONT_B64" ] || echo "$BRAND_FONT_B64" | base64 -d > fonts/GCCommune.otf'
+
+      - name: Render cards
+        run: QUEUE=photos-queue.json python3 post.py render
+
+      - name: Upload cards so Instagram and Threads can fetch them
+        run: |
+          git config user.name "recto-bot"
+          git config user.email "recto-bot@users.noreply.github.com"
+          git add media
+          git diff --cached --quiet || git commit -m "Render cards"
+          git pull --rebase && git push
+
+      - name: Publish to Instagram
+        id: ig
+        run: QUEUE=photos-queue.json python3 ig.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+
+      - name: Publish to Threads
+        # still post to Threads if only Instagram failed (the run is marked failed, so you get an email)
+        if: success() || steps.ig.outcome == 'failure'
+        run: QUEUE=photos-queue.json python3 post.py publish
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+
+      - name: Save updated queue
+        if: always()
+        run: |
+          git add -A photos-queue.json posted.json media
+          git diff --cached --quiet || git commit -m "Posted image"
+          git pull --rebase && git push

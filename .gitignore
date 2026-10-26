@@ -1,0 +1,5 @@
+preview/
+.DS_Store
+__pycache__/
+# licensed brand font: CI restores it from the BRAND_FONT_B64 secret
+fonts/GCCommune.otf
