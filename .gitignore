@@ -3,5 +3,3 @@ preview/
 __pycache__/
 # licensed brand font: CI restores it from the BRAND_FONT_B64 secret
 fonts/GCCommune.otf
-# style reference: other artists' work, local only
-moodboard.jpg

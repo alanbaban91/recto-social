@@ -111,13 +111,3 @@ teams, how to start, bug reports, and thanks (never when the comment sounds doub
   never double posts.
 - Fonts: Libre Baskerville (SIL Open Font License, `fonts/OFL.txt`). GC Commune is licensed and stays
   out of git (`.gitignore`).
-
-## Cover illustrations (Gemini)
-Image posts can carry a Gemini illustration on the cover: colourful flat cartoon, chunky hands,
-bursts and sticker doodles, in Recto colours (the style from the moodboard in Affinity; its
-characters and scenes are never copied). Gemini draws the picture only; the headline, labels and
-logo are set by `post.py`, so no AI-made text reaches a card.
-1. Give the post an `"art_prompt"` in `photos-queue.json`: the scene only, e.g. "A giant cartoon hand
-   holding a fanned stack of blank proposal pages". The style is added automatically (`STYLE` in `gen_art.py`).
-2. On your Mac (needs `GEMINI_API_KEY` and Gemini billing turned on): `python3 gen_art.py`
-3. Check the images in `art/` (`python3 gen_art.py 3` redraws post 3), preview, then commit `art/` and the queue.

@@ -28,8 +28,7 @@
         "body": "Recto has a ready-made block for every one of these."
       }
     ],
-    "text": "Save this for your next proposal. Everything else is decoration.",
-    "art_prompt": "A giant cartoon hand bursts toward the viewer holding a neat, fanned-out stack of five blank designed document pages, like a winning hand of cards, against an explosive radiating burst background."
+    "text": "Save this for your next proposal. Everything else is decoration."
   },
   {
     "mood": "product",
@@ -42,8 +41,7 @@
       }
     ],
     "text": "Save your logos, colours and fonts once in a brand kit, then apply them to a whole document in one click. No more fixing someone else's template at midnight. justrecto.com",
-    "doodle": "make",
-    "art_prompt": "A cheerful designer character tips a huge paint bucket over a row of blank document pages; the paint pours out as ribbons of matching colours and swatches that land perfectly on every page at once."
+    "doodle": "make"
   },
   {
     "mood": "script",
@@ -55,8 +53,7 @@
         "body": "Any text box in Recto can run right-to-left, next to English."
       }
     ],
-    "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter.",
-    "art_prompt": "Two playful characters sit on opposite edges of one enormous blank page, each drawing a long flowing ink line toward the middle from opposite directions, the two lines meeting in a friendly swirl."
+    "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter."
   },
   {
     "mood": "product",
@@ -84,8 +81,7 @@
       }
     ],
     "text": "Publish a Recto document as a link and choose how your client meets it: a magazine spread, a page-turning book or plain slides. Edit after sending and the link updates. justrecto.com",
-    "doodle": "send",
-    "art_prompt": "A big cartoon hand holds up a glowing phone; out of the screen spring three things in a burst: an open magazine spread, a book with pages flipping, and a stack of presentation slides."
+    "doodle": "send"
   },
   {
     "mood": "studio",
@@ -97,8 +93,7 @@
         "body": "It's the client saying yes with their money."
       }
     ],
-    "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule.",
-    "art_prompt": "A confident freelancer character and a smiling client character shake hands over a desk with oversized chunky hands; a shiny coin and a sparkle pop between them."
+    "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule."
   },
   {
     "mood": "pitch",
@@ -126,8 +121,7 @@
       }
     ],
     "text": "Most case studies show the work. The ones that win show the thinking: the problem, the decision, the result. Save it for the next one you write.",
-    "doodle": "read",
-    "art_prompt": "A curious detective-like designer character with a giant magnifying glass inspects two framed boards side by side, a dull grey one and a vivid colourful one, with a big upward arrow sparkling between them."
+    "doodle": "read"
   },
   {
     "mood": "product",
@@ -140,8 +134,7 @@
       }
     ],
     "text": "Client documents are full of things that aren't public yet: prices, plans, launches. In Recto, documents are end-to-end encrypted and stay private until you publish a link. justrecto.com",
-    "doodle": "page",
-    "art_prompt": "A blank document page tucked safely inside a chunky padlocked envelope, held up proudly by a cartoon hand, with sparkles, a small shield and squiggles around it."
+    "doodle": "page"
   },
   {
     "mood": "pitch",
@@ -154,8 +147,7 @@
       }
     ],
     "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
-    "doodle": "read",
-    "art_prompt": "A relaxed client character on a cosy sofa reads a document on a tablet; floating around them are friendly little eyes, a clock and page icons, while a designer character in the corner picks up a big retro phone with a grin."
+    "doodle": "read"
   },
   {
     "mood": "script",
@@ -167,8 +159,7 @@
         "body": "Recto warns you when a font can't show a Kurdish letter, and offers one that can."
       }
     ],
-    "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all.",
-    "art_prompt": "A giant pencil character wearing round glasses carefully checks a row of flowing abstract calligraphic brush strokes, ticking each one with a little sparkle, in a cosy type studio."
+    "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all."
   },
   {
     "mood": "product",
@@ -195,8 +186,7 @@
         "body": "Invoices live next to your proposals in Recto."
       }
     ],
-    "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue.",
-    "art_prompt": "A paper invoice folded into a paper plane zooms across the sky with speed lines, chased happily by a character on a scooter, passing four little floating stamps shaped like a pencil, an envelope, an eye and a coin."
+    "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue."
   },
   {
     "mood": "open",
@@ -209,8 +199,7 @@
       }
     ],
     "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
-    "doodle": "make",
-    "art_prompt": "A lively crowd of diverse creative characters (a designer, a writer, a presenter with a pointer, a photographer) all leaning in around one giant open blank book, hands raised to share ideas, with speech-bubble shapes left empty."
+    "doodle": "make"
   },
   {
     "mood": "product",
@@ -234,8 +223,7 @@
       }
     ],
     "text": "New in Recto Studio: folio. Upload a finished identity and one click turns it into an animated presentation page in that brand, built on your device and downloaded as a single file to send to the client. justrecto.com",
-    "doodle": "send",
-    "art_prompt": "A designer character pulls a sheet off a big presentation board and the brand identity on it springs out in 3D: bold shapes, colour swatches and abstract symbols bouncing and spinning in the air."
+    "doodle": "send"
   },
   {
     "mood": "product",
@@ -248,7 +236,6 @@
       }
     ],
     "text": "Pricing tables in Recto multiply and total themselves as you type, and the payment schedule splits into deposit and milestones. Fewer calculators, fewer awkward corrections. 7-day free trial, no card needed. justrecto.com",
-    "doodle": "make",
-    "art_prompt": "A friendly calculator robot character stacks colourful blocks into a neat table structure, a final block clicking into place on top with a burst of sparkles."
+    "doodle": "make"
   }
 ]
