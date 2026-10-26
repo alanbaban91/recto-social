@@ -1,18 +1,5 @@
 [
   {
-    "mood": "page",
-    "kicker": "The name",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "Recto. The right-hand page.",
-        "body": "Where the eye lands first. Where the important things go."
-      }
-    ],
-    "text": "In printing, the recto is the right-hand page, the one your eye lands on first. We named Recto after it, because the documents you send clients deserve that first look. Proposals, pitch decks, case studies, rate cards and invoices, designed on real pages. justrecto.com",
-    "doodle": "page"
-  },
-  {
     "mood": "pitch",
     "kicker": "Before you hit send",
     "color": "stock",

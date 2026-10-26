@@ -6,5 +6,22 @@
     "posted_at": "2026-10-26T08:00:16.237496+00:00",
     "mood": "page",
     "text": "A proposal is the first thing you design for a client. Most studios design it last."
+  },
+  {
+    "ids": [
+      "18148555330601468"
+    ],
+    "posted_at": "2026-10-26T08:01:06.670242+00:00",
+    "mood": "page",
+    "kicker": "The name",
+    "color": "stock",
+    "slides": [
+      {
+        "title": "Recto. The right-hand page.",
+        "body": "Where the eye lands first. Where the important things go."
+      }
+    ],
+    "text": "In printing, the recto is the right-hand page, the one your eye lands on first. We named Recto after it, because the documents you send clients deserve that first look. Proposals, pitch decks, case studies, rate cards and invoices, designed on real pages. justrecto.com",
+    "doodle": "page"
   }
 ]
