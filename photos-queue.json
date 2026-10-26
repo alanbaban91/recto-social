@@ -1,36 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "kicker": "Before you hit send",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "Five things every proposal needs."
-      },
-      {
-        "title": "Their problem, in their words.",
-        "body": "Proof you listened."
-      },
-      {
-        "title": "Scope, not adjectives.",
-        "body": "What's in. And what's out."
-      },
-      {
-        "title": "Dates, not soon.",
-        "body": "A timeline with real days on it."
-      },
-      {
-        "title": "A price that's easy to find.",
-        "body": "Deposit, milestones, done."
-      },
-      {
-        "title": "One clear next step.",
-        "body": "Recto has a ready-made block for every one of these."
-      }
-    ],
-    "text": "Save this for your next proposal. Everything else is decoration."
-  },
-  {
     "mood": "product",
     "kicker": "Brand kit",
     "color": "ink",
