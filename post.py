@@ -134,7 +134,24 @@ def render_card(post, idx):
         d.text((W - M - d.textlength(tag, font=small), cy), tag, font=small, fill=t["ink"], anchor="lm")
 
     doodle_color = t["accent"] if post.get("color", "stock") != "signal" else t["ink"]
-    if hero or last:
+    art_path = slide.get("art", post.get("art") if hero else None)
+    if art_path and os.path.exists(art_path):
+        # Gemini cover illustration (gen_art.py) in place of the doodle; headline set below it
+        box = (W - 2 * M, 640)
+        art = ImageOps.fit(Image.open(art_path).convert("RGB"), box, Image.LANCZOS)
+        mask = Image.new("L", box, 0)
+        ImageDraw.Draw(mask).rounded_rectangle([0, 0, box[0], box[1]], radius=28, fill=255)
+        img.paste(art, (M, M + 80), mask)
+        text_top = M + 80 + box[1] + 50
+        bf, blines = font(BODY, 36), []
+        if body:
+            bf, blines = fit(d, body, BODY, 36, 26, inner - 40, 120, 1.4)
+        body_h = block_height(bf, blines, 1.4) + (36 if blines else 0)
+        tf, tlines = fit(d, title, DISPLAY, 112, 56, inner, fy - 70 - text_top - body_h, LH)
+        y = draw_lines(d, M, text_top, tlines, tf, LH, t["ink"])
+        if blines:
+            draw_lines(d, M, y + 36, blines, bf, 1.4, t["soft"])
+    elif hero or last:
         art = doodle(name, doodle_color, W * 0.62, 400, 5 if flip else -5)
         img.paste(art, (W - art.width - 40 if flip else 40, M + 110), art)
         text_top = M + 110 + art.height + 40
