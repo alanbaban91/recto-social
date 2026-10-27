@@ -1,14 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "text": [
-      "Before you hit send: five things every proposal needs, in this order.",
-      "1. Their problem, in their words. Proof you listened.\n2. What you'll do. Scope, not adjectives.\n3. When. A timeline with real dates.",
-      "4. What it costs and how it's paid. Deposit, milestones, done.\n5. What happens next. One clear step.",
-      "Everything else is decoration. Make the decoration good, but never let it replace these five."
-    ]
-  },
-  {
     "mood": "product",
     "text": "Pricing tables in Recto multiply and total themselves as you type. Change a quantity at 1am, the total is still right at 9am."
   },
