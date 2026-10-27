@@ -1,18 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Brand kit",
-    "color": "ink",
-    "slides": [
-      {
-        "title": "Your brand, applied in one click.",
-        "body": "Logos, colours and fonts, saved once. Every template starts from your brand."
-      }
-    ],
-    "text": "Save your logos, colours and fonts once in a brand kit, then apply them to a whole document in one click. No more fixing someone else's template at midnight. justrecto.com",
-    "doodle": "make"
-  },
-  {
     "mood": "script",
     "kicker": "Two scripts",
     "color": "signal",
