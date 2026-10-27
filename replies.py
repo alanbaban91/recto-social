@@ -13,6 +13,7 @@ After changing a price or a feature there, change it here and run: python3 test_
 import os, re, sys, zlib
 from post import api, publish, load, save
 import ig
+from replylog import log_reply
 
 SEEN = "replied.json"
 MAX_REPLIES = 10      # per platform per run, so a spam wave can't flood the account
@@ -173,7 +174,7 @@ def answer(text, comment_id=""):
     return None
 
 
-def handle(comments, me, seen, dry, send):
+def handle(comments, me, seen, dry, send, platform="Threads"):
     """Reply to the comments we haven't seen; returns how many were sent."""
     sent = read = 0
     for c in comments:
@@ -189,6 +190,7 @@ def handle(comments, me, seen, dry, send):
         if reply and not dry:
             send(c["id"], reply)
             sent += 1
+        log_reply(platform, c, reply, dry)
         if not dry:
             seen.add(c["id"])
             save(SEEN, sorted(seen))   # save as we go, so a crash never double-replies
@@ -224,7 +226,8 @@ def main():
         return
     ig_me = ig.api("GET", "me", {"fields": "username", "access_token": ig_token})["username"]
     sent = handle(instagram_comments(ig_token), ig_me, seen, dry,
-                  lambda cid, text: ig.api("POST", f"{cid}/replies", {"message": text, "access_token": ig_token}))
+                  lambda cid, text: ig.api("POST", f"{cid}/replies", {"message": text, "access_token": ig_token}),
+                  platform="Instagram")
     print(f"Instagram: {sent} replies {'would be ' if dry else ''}sent.")
 
 
