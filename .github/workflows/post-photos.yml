@@ -1,8 +1,7 @@
 name: Post image to Instagram + Threads (Recto)
 
 on:
-  schedule:
-    - cron: "0 15 * * *"   # every day at 18:00 Baghdad time (UTC+3)
+  # Triggered by cron-job.org every day at 18:00 Baghdad time.
   workflow_dispatch: {}
 
 permissions:

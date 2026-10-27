@@ -3,7 +3,7 @@
 Posts to the **@just.recto** Threads and Instagram accounts and answers comments on both,
 using the official Meta APIs and free GitHub Actions.
 
-- **Threads, 7 posts a day.** 6 text posts from `queue.json` (08:00, 10:30, 13:00, 15:30, 20:00,
+- **Threads, 7 posts a day.** 6 text posts from `queue.json`, started by cron-job.org (08:00, 10:30, 13:00, 15:30, 20:00,
   22:30 Baghdad time) and 1 image post from `photos-queue.json` at 18:00.
 - **Instagram, 1 post a day.** The same 18:00 image post, with the same cards and caption.
 - **Comments, every 30 minutes.** A knowledge-base bot answers questions about Recto on Threads
@@ -82,7 +82,29 @@ Recto gets its own app, separate from your personal and 33Studio apps.
 5. **Generate access tokens** > Add account > log in as just.recto > approve > copy.
    Save it as the `IG_TOKEN` secret. Until it's set, Instagram steps skip and Threads still runs.
 
-### 6. Test
+### 6. Post times (cron-job.org)
+GitHub's own schedule often starts runs 5 to 30 minutes late, so cron-job.org starts the posting
+workflows at the exact minute instead.
+1. GitHub > Settings > Developer settings > Fine-grained tokens > **Generate new token**.
+   Name `recto cron`, repository `recto-social` only, permission **Actions: Read and write**.
+2. On cron-job.org (free), create 3 jobs. All of them: method **POST**, timezone **Asia/Baghdad**,
+   and under Advanced:
+   - Headers: `Authorization: Bearer <the token>`, `Accept: application/vnd.github+json`
+   - Request body: `{"ref":"main"}`
+
+   | Job | URL ends in | Schedule |
+   |---|---|---|
+   | Recto text :00 | `/actions/workflows/post.yml/dispatches` | 08:00, 13:00, 20:00 |
+   | Recto text :30 | `/actions/workflows/post.yml/dispatches` | 10:30, 15:30, 22:30 |
+   | Recto image | `/actions/workflows/post-photos.yml/dispatches` | 18:00 |
+
+   URL start: `https://api.github.com/repos/alanbaban91/recto-social`
+3. Press **Test run** on each job: GitHub answers `204` and a run appears in the Actions tab.
+   (A test run posts for real.)
+
+The reply bot and token refresh stay on GitHub's schedule; a few minutes late doesn't matter there.
+
+### 7. Test
 1. Actions > **Post to Threads (Recto)** > Run workflow. The first text post goes live.
 2. Actions > **Post image to Instagram + Threads (Recto)** > Run workflow. The first card post goes
    live on both.
@@ -105,8 +127,8 @@ teams, how to start, bug reports, and thanks (never when the comment sounds doub
 
 ## Notes
 - When a queue runs empty, the run fails on purpose and GitHub emails you. Add a new batch.
-- GitHub can start scheduled runs a few minutes late. If exact times matter, trigger the workflows
-  from cron-job.org instead (as the 33Studio engine does) and remove the `schedule:` lines.
+- Post times live in cron-job.org, not in the workflow files. If its token expires, posting stops
+  and the job shows `401`: make a new token and paste it into the 3 jobs.
 - If a thread breaks halfway, the opener stays live and is removed from the queue, so a rerun
   never double posts.
 - Fonts: Libre Baskerville (SIL Open Font License, `fonts/OFL.txt`). GC Commune is licensed and stays

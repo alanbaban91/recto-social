@@ -1,11 +1,8 @@
 name: Post to Threads (Recto)
 
 on:
-  schedule:
-    # 6 text posts a day (Baghdad time, UTC+3): 08:00, 10:30, 13:00, 15:30, 20:00, 22:30.
-    # The 7th is the daily image post (post-photos.yml, 18:00). GitHub may start a run a few minutes late.
-    - cron: "0 5,10,17 * * *"
-    - cron: "30 7,12,19 * * *"
+  # Triggered by cron-job.org at 08:00, 10:30, 13:00, 15:30, 20:00 and 22:30 Baghdad time
+  # (exact timing; GitHub's own schedule runs late). The 7th post is post-photos.yml at 18:00.
   workflow_dispatch: {}   # lets you trigger a post manually
 
 permissions:
