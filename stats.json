@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-27T18:16:24+00:00",
+ "updated": "2026-10-27T22:37:36+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18140790850626990",
+   "at": "2026-10-27T19:30:31+0000",
+   "text": "A good case study answers one question: why should I trust you with mine?",
+   "link": "https://www.threads.com/@just.recto/post/DfAnMWjlC5t"
+  },
   {
    "id": "17946767649360379",
    "at": "2026-10-27T17:00:36+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-01T13:02:29+0000",
    "text": "Moodboards, pitch decks, proposals. One editor, made for how creatives work. #moodboard #pitchdeck #designagency #commercialdesign #13am",
    "link": "https://www.threads.com/@just.recto/post/Dd8-IWVCGQG"
-  },
-  {
-   "id": "17953104933037082",
-   "at": "2026-10-01T13:00:27+0000",
-   "text": "Not just \"seen.\" How long, and where they stopped. #artdirector #designbusiness",
-   "link": "https://www.threads.com/@just.recto/post/Dd895dmiAZv"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfAITjSlj6x/",
    "likes": 0,
    "replies": 0,
-   "views": 5,
-   "reach": 1,
+   "views": 13,
+   "reach": 2,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/De_k7JSlf0Z/",
    "likes": 3,
    "replies": 0,
-   "views": 47,
-   "reach": 27,
+   "views": 53,
+   "reach": 29,
    "saved": 0,
    "shares": 1
   },
@@ -277,7 +277,7 @@
    "link": "https://www.instagram.com/p/De-Il4OFPou/",
    "likes": 1,
    "replies": 0,
-   "views": 18,
+   "views": 20,
    "reach": 7,
    "saved": 0,
    "shares": 0
@@ -289,7 +289,7 @@
    "link": "https://www.instagram.com/p/De8zeMLnOS8/",
    "likes": 0,
    "replies": 0,
-   "views": 9,
+   "views": 11,
    "reach": 5,
    "saved": 0,
    "shares": 0
@@ -301,7 +301,7 @@
    "link": "https://www.instagram.com/reel/De6_hhVM6l_/",
    "likes": 2,
    "replies": 0,
-   "views": 227,
+   "views": 228,
    "reach": 198,
    "saved": 1,
    "shares": 1
