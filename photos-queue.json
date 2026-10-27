@@ -1,17 +1,5 @@
 [
   {
-    "mood": "script",
-    "kicker": "Two scripts",
-    "color": "signal",
-    "slides": [
-      {
-        "title": "One page. Two directions.",
-        "body": "Any text box in Recto can run right-to-left, next to English."
-      }
-    ],
-    "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter."
-  },
-  {
     "mood": "product",
     "kicker": "Sharing",
     "color": "stock",

@@ -155,5 +155,21 @@
     "posted_at": "2026-10-27T12:30:27.104767+00:00",
     "mood": "studio",
     "text": "The real creative brief is the second email. The first one is what they think they want."
+  },
+  {
+    "ids": [
+      "17916258012542597"
+    ],
+    "posted_at": "2026-10-27T15:00:52.677844+00:00",
+    "mood": "script",
+    "kicker": "Two scripts",
+    "color": "signal",
+    "slides": [
+      {
+        "title": "One page. Two directions.",
+        "body": "Any text box in Recto can run right-to-left, next to English."
+      }
+    ],
+    "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter."
   }
 ]
