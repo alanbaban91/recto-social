@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-27T10:21:43+00:00",
+ "updated": "2026-10-27T18:16:24+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17946767649360379",
+   "at": "2026-10-27T17:00:36+0000",
+   "text": "Kurdish has letters many Arabic-script fonts were never drawn for: ڕ ڵ ێ ۆ ە. If a font can't set them, it isn't ready for Kurdish, however beautiful it looks.",
+   "link": "https://www.threads.com/@just.recto/post/DfAWCVjGiI2"
+  },
+  {
+   "id": "17916258012542597",
+   "at": "2026-10-27T15:00:49+0000",
+   "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter.",
+   "link": "https://www.threads.com/@just.recto/post/DfAIU86Fps7"
+  },
+  {
+   "id": "17908559814579809",
+   "at": "2026-10-27T12:30:24+0000",
+   "text": "The real creative brief is the second email. The first one is what they think they want.",
+   "link": "https://www.threads.com/@just.recto/post/De_3H9CkTbJ"
+  },
   {
    "id": "17887023912502421",
    "at": "2026-10-27T10:00:35+0000",
@@ -225,36 +243,30 @@
    "at": "2026-10-01T13:00:27+0000",
    "text": "Not just \"seen.\" How long, and where they stopped. #artdirector #designbusiness",
    "link": "https://www.threads.com/@just.recto/post/Dd895dmiAZv"
-  },
-  {
-   "id": "18355061518169959",
-   "at": "2026-10-01T12:58:17+0000",
-   "text": "No attachments. No downloads. One link that opens anywhere. #creativeprocess #creativecommunity #designagency #designboom",
-   "link": "https://www.threads.com/@just.recto/post/Dd89plliMF6"
-  },
-  {
-   "id": "18344201263251578",
-   "at": "2026-10-01T12:47:08+0000",
-   "text": "That moment after you hit send. Now it has an answer. #designers #freelancedesigner #agencies #designagency",
-   "link": "https://www.threads.com/@just.recto/post/Dd88X4-iKgB"
-  },
-  {
-   "id": "18081454481704901",
-   "at": "2026-10-01T12:44:54+0000",
-   "text": "Just Recto is live. Build moodboards, pitch decks and proposals. Share a link. Know when your client has seen the work. Link in bio. #design #creativedirector #designtools #creativedirection #pitching",
-   "link": "https://www.threads.com/@just.recto/post/Dd88HnPCHnL"
   }
  ],
  "instagram": [
+  {
+   "id": "18119438050959601",
+   "at": "2026-10-27T15:00:37+0000",
+   "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter.",
+   "link": "https://www.instagram.com/p/DfAITjSlj6x/",
+   "likes": 0,
+   "replies": 0,
+   "views": 5,
+   "reach": 1,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18115612876864284",
    "at": "2026-10-27T09:51:28+0000",
    "text": "Save your logos, colours and fonts once in a brand kit, then apply them to a whole document in one click. No more fixing someone else's template at midnight. justrecto.com",
    "link": "https://www.instagram.com/p/De_k7JSlf0Z/",
-   "likes": 1,
+   "likes": 3,
    "replies": 0,
-   "views": 11,
-   "reach": 2,
+   "views": 47,
+   "reach": 27,
    "saved": 0,
    "shares": 1
   },
@@ -265,8 +277,8 @@
    "link": "https://www.instagram.com/p/De-Il4OFPou/",
    "likes": 1,
    "replies": 0,
-   "views": 16,
-   "reach": 6,
+   "views": 18,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -335,7 +347,7 @@
    "at": "2026-10-04T10:36:10+0000",
    "text": "Just Recto now has an invoice editor tool. No more manually created invoices. #justrecto #freelancers #graphicdesingers #proposal #invoice",
    "link": "https://www.instagram.com/reel/DeEbvf5BvlV/",
-   "likes": 10,
+   "likes": 11,
    "replies": 0,
    "views": 235,
    "reach": 187,
