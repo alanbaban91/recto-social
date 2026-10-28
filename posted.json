@@ -219,5 +219,37 @@
     "posted_at": "2026-10-28T12:30:32.008194+00:00",
     "mood": "studio",
     "text": "Freelancing is 40% design, 30% email, 20% chasing invoices and 10% wondering if you should have been an accountant."
+  },
+  {
+    "ids": [
+      "18104690315147892"
+    ],
+    "posted_at": "2026-10-28T15:02:08.039528+00:00",
+    "mood": "product",
+    "kicker": "Sharing",
+    "color": "stock",
+    "slides": [
+      {
+        "title": "One link. Three ways to read it."
+      },
+      {
+        "title": "A magazine spread.",
+        "body": "For when the work needs room."
+      },
+      {
+        "title": "A page-turning book.",
+        "body": "For when the story has chapters."
+      },
+      {
+        "title": "Plain slides.",
+        "body": "For when they're on a call."
+      },
+      {
+        "title": "It updates when you edit.",
+        "body": "Password, expiry, unpublish any time."
+      }
+    ],
+    "text": "Publish a Recto document as a link and choose how your client meets it: a magazine spread, a page-turning book or plain slides. Edit after sending and the link updates. justrecto.com",
+    "doodle": "send"
   }
 ]

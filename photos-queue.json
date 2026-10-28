@@ -1,33 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Sharing",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "One link. Three ways to read it."
-      },
-      {
-        "title": "A magazine spread.",
-        "body": "For when the work needs room."
-      },
-      {
-        "title": "A page-turning book.",
-        "body": "For when the story has chapters."
-      },
-      {
-        "title": "Plain slides.",
-        "body": "For when they're on a call."
-      },
-      {
-        "title": "It updates when you edit.",
-        "body": "Password, expiry, unpublish any time."
-      }
-    ],
-    "text": "Publish a Recto document as a link and choose how your client meets it: a magazine spread, a page-turning book or plain slides. Edit after sending and the link updates. justrecto.com",
-    "doodle": "send"
-  },
-  {
     "mood": "studio",
     "kicker": "Studio notes",
     "color": "ink",
