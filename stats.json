@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-27T22:37:36+00:00",
+ "updated": "2026-10-28T06:17:56+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18113456858228909",
+   "at": "2026-10-28T05:00:33+0000",
+   "text": "White space isn't empty. It's the part of the page that tells the reader where to look.",
+   "link": "https://www.threads.com/@just.recto/post/DfBobeHjl37"
+  },
   {
    "id": "18140790850626990",
    "at": "2026-10-27T19:30:31+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-01T13:04:00+0000",
    "text": "Every document has two sides. The client sees the work. You see everything else. #brandidentity #designstudio #recto #designagency",
    "link": "https://www.threads.com/@just.recto/post/Dd8-TZ6CKdK"
-  },
-  {
-   "id": "17970313071153286",
-   "at": "2026-10-01T13:02:29+0000",
-   "text": "Moodboards, pitch decks, proposals. One editor, made for how creatives work. #moodboard #pitchdeck #designagency #commercialdesign #13am",
-   "link": "https://www.threads.com/@just.recto/post/Dd8-IWVCGQG"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfAITjSlj6x/",
    "likes": 0,
    "replies": 0,
-   "views": 13,
-   "reach": 2,
+   "views": 17,
+   "reach": 5,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/De_k7JSlf0Z/",
    "likes": 3,
    "replies": 0,
-   "views": 53,
-   "reach": 29,
+   "views": 57,
+   "reach": 33,
    "saved": 0,
    "shares": 1
   },
