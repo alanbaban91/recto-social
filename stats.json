@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-29T13:43:50+00:00",
+ "updated": "2026-10-29T22:58:44+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18132935059703472",
+   "at": "2026-10-29T19:30:30+0000",
+   "text": "Presenters: your slides are not your notes. If you can read your talk off the screen, so can the audience, and they'll do it faster than you.",
+   "link": "https://www.threads.com/@just.recto/post/DfFwx7_D6SQ"
+  },
+  {
+   "id": "18101090681385887",
+   "at": "2026-10-29T17:00:34+0000",
+   "text": "Designing in two scripts on one page is a skill few design schools teach. English left to right, Kurdish right to left, both looking like they belong there. It's hard. It's worth it.",
+   "link": "https://www.threads.com/@just.recto/post/DfFfn2umpeP"
+  },
+  {
+   "id": "18108074833973629",
+   "at": "2026-10-29T15:00:45+0000",
+   "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule.",
+   "link": "https://www.threads.com/@just.recto/post/DfFR6Oem07u"
+  },
   {
    "id": "17926807086201826",
    "at": "2026-10-29T12:30:29+0000",
@@ -225,27 +243,21 @@
    "at": "2026-10-08T23:11:34+0000",
    "text": "",
    "link": "https://www.threads.com/@just.recto/post/DeQFZqdgmqG"
-  },
-  {
-   "id": "17943191289090636",
-   "at": "2026-10-08T23:11:29+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeQFZFSAnYu"
-  },
-  {
-   "id": "18114667718032154",
-   "at": "2026-10-07T20:02:14+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeNK8KeDuKh"
-  },
-  {
-   "id": "18135184882663411",
-   "at": "2026-10-07T20:01:43+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeNK4XdjoKh"
   }
  ],
  "instagram": [
+  {
+   "id": "17975821149174199",
+   "at": "2026-10-29T15:00:33+0000",
+   "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule.",
+   "link": "https://www.instagram.com/p/DfFR5VgGwf6/",
+   "likes": 0,
+   "replies": 0,
+   "views": 7,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17909417568333886",
    "at": "2026-10-28T15:01:19+0000",
@@ -265,8 +277,8 @@
    "link": "https://www.instagram.com/p/DfAITjSlj6x/",
    "likes": 0,
    "replies": 0,
-   "views": 22,
-   "reach": 6,
+   "views": 23,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -277,7 +289,7 @@
    "link": "https://www.instagram.com/p/De_k7JSlf0Z/",
    "likes": 3,
    "replies": 0,
-   "views": 69,
+   "views": 70,
    "reach": 39,
    "saved": 0,
    "shares": 1
