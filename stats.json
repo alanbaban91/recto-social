@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-29T06:28:43+00:00",
+ "updated": "2026-10-29T13:43:50+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17926807086201826",
+   "at": "2026-10-29T12:30:29+0000",
+   "text": "The deposit is not rude. The deposit is the client saying yes with their money, not just their mouth.",
+   "link": "https://www.threads.com/@just.recto/post/DfFAtjnm6aY"
+  },
+  {
+   "id": "18026592287927882",
+   "at": "2026-10-29T10:00:34+0000",
+   "text": "A Recto link opens three ways: as a magazine spread, a page-turning book or plain slides. Same document. You choose how your client meets it.",
+   "link": "https://www.threads.com/@just.recto/post/DfEvjmalYTA"
+  },
+  {
+   "id": "17901956214672485",
+   "at": "2026-10-29T07:30:23+0000",
+   "text": "Stop sending PDFs into the void. A link tells you if they opened it, how long they stayed on the pricing page and where they stopped reading. That's not surveillance. That's knowing when to call.",
+   "link": "https://www.threads.com/@just.recto/post/DfEeYYZlRKu"
+  },
   {
    "id": "18116143961026428",
    "at": "2026-10-29T05:00:26+0000",
@@ -225,24 +243,6 @@
    "at": "2026-10-07T20:01:43+0000",
    "text": "",
    "link": "https://www.threads.com/@just.recto/post/DeNK4XdjoKh"
-  },
-  {
-   "id": "17920073310441999",
-   "at": "2026-10-06T12:09:36+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeJwDi4CFmg"
-  },
-  {
-   "id": "18014315345957861",
-   "at": "2026-10-06T12:09:21+0000",
-   "text": "we can't see your files. not \"we choose not to look.\" we can't.\n\njust recto is end-to-end encrypted. your proposals and decks are just binary on our side.\n\nfor studios that keep their clients' secrets.\n\njustrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/DeJv_oskfue"
-  },
-  {
-   "id": "18174929668451421",
-   "at": "2026-10-05T18:09:45+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeH0ecsCB9H"
   }
  ],
  "instagram": [
@@ -253,7 +253,7 @@
    "link": "https://www.instagram.com/p/DfCtMHmIOkM/",
    "likes": 1,
    "replies": 0,
-   "views": 17,
+   "views": 18,
    "reach": 6,
    "saved": 0,
    "shares": 0
