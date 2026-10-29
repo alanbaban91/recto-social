@@ -299,5 +299,21 @@
     "posted_at": "2026-10-29T12:30:32.166110+00:00",
     "mood": "studio",
     "text": "The deposit is not rude. The deposit is the client saying yes with their money, not just their mouth."
+  },
+  {
+    "ids": [
+      "18108074833973629"
+    ],
+    "posted_at": "2026-10-29T15:00:49.074831+00:00",
+    "mood": "studio",
+    "kicker": "Studio notes",
+    "color": "ink",
+    "slides": [
+      {
+        "title": "The deposit is not rude.",
+        "body": "It's the client saying yes with their money."
+      }
+    ],
+    "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule."
   }
 ]

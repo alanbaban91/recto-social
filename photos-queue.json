@@ -1,17 +1,5 @@
 [
   {
-    "mood": "studio",
-    "kicker": "Studio notes",
-    "color": "ink",
-    "slides": [
-      {
-        "title": "The deposit is not rude.",
-        "body": "It's the client saying yes with their money."
-      }
-    ],
-    "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule."
-  },
-  {
     "mood": "pitch",
     "kicker": "Case studies",
     "color": "stock",
