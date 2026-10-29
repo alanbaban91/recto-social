@@ -275,5 +275,13 @@
     "posted_at": "2026-10-29T05:00:28.625611+00:00",
     "mood": "page",
     "text": "A deck has one job per slide. If a slide has two jobs, it's two slides."
+  },
+  {
+    "ids": [
+      "17901956214672485"
+    ],
+    "posted_at": "2026-10-29T07:30:26.481281+00:00",
+    "mood": "pitch",
+    "text": "Stop sending PDFs into the void. A link tells you if they opened it, how long they stayed on the pricing page and where they stopped reading. That's not surveillance. That's knowing when to call."
   }
 ]
