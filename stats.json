@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-28T22:52:09+00:00",
+ "updated": "2026-10-29T06:28:43+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18116143961026428",
+   "at": "2026-10-29T05:00:26+0000",
+   "text": "A deck has one job per slide. If a slide has two jobs, it's two slides.",
+   "link": "https://www.threads.com/@just.recto/post/DfENOBmFOOk"
+  },
   {
    "id": "18438423460194406",
    "at": "2026-10-28T19:30:35+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-05T18:09:45+0000",
    "text": "",
    "link": "https://www.threads.com/@just.recto/post/DeH0ecsCB9H"
-  },
-  {
-   "id": "18093750053254509",
-   "at": "2026-10-05T18:09:12+0000",
-   "text": "Send your proposal as a link, not a PDF.\nJust Recto: design it, share it, done. Free to start at \n\njustrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/DeH0Y1nkaUU"
   }
  ],
  "instagram": [
