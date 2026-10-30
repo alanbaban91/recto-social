@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-29T22:58:44+00:00",
+ "updated": "2026-10-30T06:27:41+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18082856060356688",
+   "at": "2026-10-30T05:00:32+0000",
+   "text": "Good type goes unnoticed. Bad type is the only thing anyone remembers.",
+   "link": "https://www.threads.com/@just.recto/post/DfGyA_XkbgU"
+  },
   {
    "id": "18132935059703472",
    "at": "2026-10-29T19:30:30+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-08T23:11:39+0000",
    "text": "",
    "link": "https://www.threads.com/@just.recto/post/DeQFaX4AtxC"
-  },
-  {
-   "id": "17918671308452554",
-   "at": "2026-10-08T23:11:34+0000",
-   "text": "",
-   "link": "https://www.threads.com/@just.recto/post/DeQFZqdgmqG"
   }
  ],
  "instagram": [
