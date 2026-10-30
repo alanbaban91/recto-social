@@ -1,33 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "kicker": "Case studies",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "A case study that gets you hired."
-      },
-      {
-        "title": "The problem.",
-        "body": "One sentence. Theirs, not yours."
-      },
-      {
-        "title": "The decision.",
-        "body": "The part only you could have made."
-      },
-      {
-        "title": "The result.",
-        "body": "With a number in it."
-      },
-      {
-        "title": "Before. After. Stop talking.",
-        "body": "Recto's case study blocks come with before/after and metrics built in."
-      }
-    ],
-    "text": "Most case studies show the work. The ones that win show the thinking: the problem, the decision, the result. Save it for the next one you write.",
-    "doodle": "read"
-  },
-  {
     "mood": "product",
     "kicker": "Privacy",
     "color": "ink",
