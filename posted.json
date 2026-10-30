@@ -355,5 +355,13 @@
     "posted_at": "2026-10-30T10:00:37.321480+00:00",
     "mood": "product",
     "text": "Clients can pin a comment to the exact spot on your page. No account, no login, no \"which slide did you mean\". Just a note where the problem is."
+  },
+  {
+    "ids": [
+      "18116710499100713"
+    ],
+    "posted_at": "2026-10-30T12:30:31.037726+00:00",
+    "mood": "studio",
+    "text": "Studio rule: don't present three options when you believe in one. Three options is how you ask the client to do your job."
   }
 ]
