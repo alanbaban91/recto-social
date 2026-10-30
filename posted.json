@@ -347,5 +347,13 @@
     "posted_at": "2026-10-30T07:30:31.661137+00:00",
     "mood": "pitch",
     "text": "A rate card is a confidence document. If you hesitate on the number in person, put it on a page that doesn't."
+  },
+  {
+    "ids": [
+      "18098293190405846"
+    ],
+    "posted_at": "2026-10-30T10:00:37.321480+00:00",
+    "mood": "product",
+    "text": "Clients can pin a comment to the exact spot on your page. No account, no login, no \"which slide did you mean\". Just a note where the problem is."
   }
 ]
