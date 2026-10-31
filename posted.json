@@ -419,5 +419,21 @@
     "posted_at": "2026-10-31T05:00:50.044641+00:00",
     "mood": "page",
     "text": "Page numbers are a kindness. \"See page 7\" is a conversation. \"See the slide with the blue chart\" is an argument."
+  },
+  {
+    "ids": [
+      "18134757874664338",
+      "17921297490242697",
+      "17997072957024786",
+      "17999806623013525"
+    ],
+    "posted_at": "2026-10-31T07:31:14.635254+00:00",
+    "mood": "pitch",
+    "text": [
+      "Before you hit send: how to write a scope your client can't misread.",
+      "Write what's in. Then write what's out. The second list prevents more arguments than any contract.",
+      "Number the rounds of revisions. \"Revisions included\" means unlimited to the person paying.",
+      "Put a date on everything. \"Soon\" is not a deadline."
+    ]
   }
 ]
