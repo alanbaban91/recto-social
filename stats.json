@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-31T13:04:32+00:00",
+ "updated": "2026-10-31T21:51:53+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17950278489345609",
+   "at": "2026-10-31T19:30:27+0000",
+   "text": "A case study that works: the problem, the decision, the result. Most people skip the decision. The decision is the only part that's yours.",
+   "link": "https://www.threads.com/@just.recto/post/DfK6XQlHwGx"
+  },
+  {
+   "id": "18117110024120434",
+   "at": "2026-10-31T17:00:34+0000",
+   "text": "For years, designers here were told good work should look like it came from somewhere else. We think the most interesting brands of the next decade will look like where they're from.",
+   "link": "https://www.threads.com/@just.recto/post/DfKpNiWGof7"
+  },
+  {
+   "id": "17914105026487279",
+   "at": "2026-10-31T15:00:43+0000",
+   "text": "Client documents are full of things that aren't public yet: prices, plans, launches. In Recto, documents are end-to-end encrypted and stay private until you publish a link. justrecto.com",
+   "link": "https://www.threads.com/@just.recto/post/DfKbfzVlArL"
+  },
   {
    "id": "18112014419464615",
    "at": "2026-10-31T12:30:28+0000",
@@ -225,27 +243,21 @@
    "at": "2026-10-26T20:25:30+0000",
    "text": "Save this for your next proposal. Everything else is decoration.",
    "link": "https://www.threads.com/@just.recto/post/De-IsPdFMGO"
-  },
-  {
-   "id": "18132715480753941",
-   "at": "2026-10-26T18:45:45+0000",
-   "text": "Recto in one sentence: design the documents that win the work, on real pages, in your own brand. Proposals, pitch decks, case studies, rate cards, invoices. 7-day free trial, no card needed. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/De99Ro1lKSl"
-  },
-  {
-   "id": "18191729695405960",
-   "at": "2026-10-26T16:22:22+0000",
-   "text": "Clients don't read proposals. They read the price, then decide whether to read the rest. Put the thinking before the number, and make it worth the scroll.",
-   "link": "https://www.threads.com/@just.recto/post/De9s3b6nMUn"
-  },
-  {
-   "id": "18148555330601468",
-   "at": "2026-10-26T08:01:03+0000",
-   "text": "In printing, the recto is the right-hand page, the one your eye lands on first. We named Recto after it, because the documents you send clients deserve that first look. Proposals, pitch decks, case studies, rate cards and invoices, designed on real pages. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/De8zfkinJdG"
   }
  ],
  "instagram": [
+  {
+   "id": "17907153285598939",
+   "at": "2026-10-31T15:00:33+0000",
+   "text": "Client documents are full of things that aren't public yet: prices, plans, launches. In Recto, documents are end-to-end encrypted and stay private until you publish a link. justrecto.com",
+   "link": "https://www.instagram.com/p/DfKbeigFBgr/",
+   "likes": 0,
+   "replies": 0,
+   "views": 7,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18010401110780608",
    "at": "2026-10-30T15:01:16+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfH2w8cINgl/",
    "likes": 1,
    "replies": 0,
-   "views": 47,
-   "reach": 28,
+   "views": 52,
+   "reach": 31,
    "saved": 0,
    "shares": 1
   },
@@ -302,7 +314,7 @@
    "likes": 3,
    "replies": 0,
    "views": 70,
-   "reach": 39,
+   "reach": 40,
    "saved": 0,
    "shares": 1
   },
