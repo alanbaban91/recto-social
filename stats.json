@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-30T22:39:29+00:00",
+ "updated": "2026-10-31T06:17:57+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18655477945055698",
+   "at": "2026-10-31T05:00:41+0000",
+   "text": "Page numbers are a kindness. \"See page 7\" is a conversation. \"See the slide with the blue chart\" is an argument.",
+   "link": "https://www.threads.com/@just.recto/post/DfJW0zngHyq"
+  },
   {
    "id": "18126279601918356",
    "at": "2026-10-30T19:30:28+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-16T10:41:09+0000",
    "text": "",
    "link": "https://www.threads.com/@just.recto/post/DejV4frDptF"
-  },
-  {
-   "id": "18034453838893838",
-   "at": "2026-10-16T10:40:48+0000",
-   "text": "Every proposal used to start with too many files, a font that wouldn’t load, and someone asking which version is the latest.\n\nThat’s the just recto is built!\nTry it free for 7 days at justrecto.com\n\nJust Recto. Just the work.",
-   "link": "https://www.threads.com/@just.recto/post/DejVxuujh5I"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfH2w8cINgl/",
    "likes": 0,
    "replies": 0,
-   "views": 27,
-   "reach": 17,
+   "views": 33,
+   "reach": 23,
    "saved": 0,
    "shares": 1
   },
