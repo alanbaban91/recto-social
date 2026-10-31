@@ -451,5 +451,22 @@
     "posted_at": "2026-10-31T12:30:30.835799+00:00",
     "mood": "studio",
     "text": "The client who says \"make it pop\" isn't wrong. They're telling you it doesn't move them yet. Your job is to find out why, not to add a gradient."
+  },
+  {
+    "ids": [
+      "17914105026487279"
+    ],
+    "posted_at": "2026-10-31T15:00:45.797695+00:00",
+    "mood": "product",
+    "kicker": "Privacy",
+    "color": "ink",
+    "slides": [
+      {
+        "title": "Private until you publish.",
+        "body": "End-to-end encrypted. We only hold scrambled bytes."
+      }
+    ],
+    "text": "Client documents are full of things that aren't public yet: prices, plans, launches. In Recto, documents are end-to-end encrypted and stay private until you publish a link. justrecto.com",
+    "doodle": "page"
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Privacy",
-    "color": "ink",
-    "slides": [
-      {
-        "title": "Private until you publish.",
-        "body": "End-to-end encrypted. We only hold scrambled bytes."
-      }
-    ],
-    "text": "Client documents are full of things that aren't public yet: prices, plans, launches. In Recto, documents are end-to-end encrypted and stay private until you publish a link. justrecto.com",
-    "doodle": "page"
-  },
-  {
     "mood": "pitch",
     "kicker": "Reading",
     "color": "signal",
