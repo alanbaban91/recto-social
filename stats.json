@@ -1,9 +1,15 @@
 {
- "updated": "2026-10-31T21:51:53+00:00",
+ "updated": "2026-11-01T06:51:29+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17993684535112634",
+   "at": "2026-11-01T05:00:45+0000",
+   "text": "A4 is a desk. 16:9 is a screen. Square is a feed. Know where your document will be read before you design the first page.",
+   "link": "https://www.threads.com/@just.recto/post/DfL7oPRFc-6"
+  },
   {
    "id": "17950278489345609",
    "at": "2026-10-31T19:30:27+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-26T21:16:09+0000",
    "text": "Every freelancer has a folder called FINAL_final_v3. It isn't a filing problem. It's a feedback problem.",
    "link": "https://www.threads.com/@just.recto/post/De-OfHtEh4u"
-  },
-  {
-   "id": "18130805857691983",
-   "at": "2026-10-26T20:25:30+0000",
-   "text": "Save this for your next proposal. Everything else is decoration.",
-   "link": "https://www.threads.com/@just.recto/post/De-IsPdFMGO"
   }
  ],
  "instagram": [
@@ -253,7 +253,7 @@
    "link": "https://www.instagram.com/p/DfKbeigFBgr/",
    "likes": 0,
    "replies": 0,
-   "views": 7,
+   "views": 8,
    "reach": 3,
    "saved": 0,
    "shares": 0
