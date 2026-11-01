@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-01T06:51:29+00:00",
+ "updated": "2026-11-01T18:06:49+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18131023225853016",
+   "at": "2026-11-01T17:00:36+0000",
+   "text": "Open Page, weekend edition: show us a document you're proud of sending. Not the work itself. The proposal, the deck or the case study that won it.",
+   "link": "https://www.threads.com/@just.recto/post/DfNOArIFg-v"
+  },
+  {
+   "id": "18075677033759651",
+   "at": "2026-11-01T15:00:42+0000",
+   "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
+   "link": "https://www.threads.com/@just.recto/post/DfNAS6rFEMo"
+  },
+  {
+   "id": "18119639383789522",
+   "at": "2026-11-01T12:30:27+0000",
+   "text": "Nobody went to design school to learn how to write an invoice. And yet, here we all are.",
+   "link": "https://www.threads.com/@just.recto/post/DfMvGFkoJFQ"
+  },
+  {
+   "id": "18351395527249681",
+   "at": "2026-11-01T10:00:32+0000",
+   "text": "Case study blocks in Recto come with before/after, metrics and testimonials already laid out. You bring the work. The page already knows how to show it.",
+   "link": "https://www.threads.com/@just.recto/post/DfMd8Cjm26p"
+  },
+  {
+   "id": "17914467423520132",
+   "at": "2026-11-01T07:30:25+0000",
+   "text": "Before and after is the most persuasive layout in design. Put the old next to the new, add one number, stop talking.",
+   "link": "https://www.threads.com/@just.recto/post/DfMMwrClreP"
+  },
   {
    "id": "17993684535112634",
    "at": "2026-11-01T05:00:45+0000",
@@ -213,39 +243,21 @@
    "at": "2026-10-27T09:51:39+0000",
    "text": "Save your logos, colours and fonts once in a brand kit, then apply them to a whole document in one click. No more fixing someone else's template at midnight. justrecto.com",
    "link": "https://www.threads.com/@just.recto/post/De_k8jZFUwq"
-  },
-  {
-   "id": "18026952176869820",
-   "at": "2026-10-27T09:49:31+0000",
-   "text": "Before you hit send: five things every proposal needs, in this order.",
-   "link": "https://www.threads.com/@just.recto/post/De_ks5WoC4o"
-  },
-  {
-   "id": "17901127938608541",
-   "at": "2026-10-27T09:46:34+0000",
-   "text": "The right-hand page of a book is called the recto. It's where the eye lands first, so it's where printers put what matters. That's the whole idea behind the name.",
-   "link": "https://www.threads.com/@just.recto/post/De_kXX9HOkK"
-  },
-  {
-   "id": "18239309407317721",
-   "at": "2026-10-27T09:42:47+0000",
-   "text": "Somewhere right now a designer is kerning a pricing table at midnight. We see you. Go to bed. The client reads it at 9.",
-   "link": "https://www.threads.com/@just.recto/post/De_j7s0m49D"
-  },
-  {
-   "id": "18076291727748994",
-   "at": "2026-10-26T23:13:18+0000",
-   "text": "Open Page: what's the one line in your proposals that wins you the most work? Share it. Someone just starting out needs it.",
-   "link": "https://www.threads.com/@just.recto/post/De-b5Hyj3Yv"
-  },
-  {
-   "id": "17909169246581140",
-   "at": "2026-10-26T21:16:09+0000",
-   "text": "Every freelancer has a folder called FINAL_final_v3. It isn't a filing problem. It's a feedback problem.",
-   "link": "https://www.threads.com/@just.recto/post/De-OfHtEh4u"
   }
  ],
  "instagram": [
+  {
+   "id": "18110000471258446",
+   "at": "2026-11-01T15:00:35+0000",
+   "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
+   "link": "https://www.instagram.com/p/DfNARxSlBLt/",
+   "likes": 0,
+   "replies": 0,
+   "views": 5,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17907153285598939",
    "at": "2026-10-31T15:00:33+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfKbeigFBgr/",
    "likes": 0,
    "replies": 0,
-   "views": 8,
-   "reach": 3,
+   "views": 14,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -263,9 +275,9 @@
    "at": "2026-10-30T15:01:16+0000",
    "text": "Most case studies show the work. The ones that win show the thinking: the problem, the decision, the result. Save it for the next one you write.",
    "link": "https://www.instagram.com/p/DfH2w8cINgl/",
-   "likes": 1,
+   "likes": 2,
    "replies": 0,
-   "views": 52,
+   "views": 55,
    "reach": 31,
    "saved": 0,
    "shares": 1
