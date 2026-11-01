@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-01T18:06:49+00:00",
+ "updated": "2026-11-01T22:25:53+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18114393932581294",
+   "at": "2026-11-01T19:30:28+0000",
+   "text": "Your proposal will be forwarded to someone you've never met. Design it for them too.",
+   "link": "https://www.threads.com/@just.recto/post/DfNfKePlLO7"
+  },
   {
    "id": "18131023225853016",
    "at": "2026-11-01T17:00:36+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-27T10:00:35+0000",
    "text": "Pricing tables in Recto multiply and total themselves as you type. Change a quantity at 1am, the total is still right at 9am.",
    "link": "https://www.threads.com/@just.recto/post/De_l-ISoHz_"
-  },
-  {
-   "id": "18063601682530399",
-   "at": "2026-10-27T09:51:39+0000",
-   "text": "Save your logos, colours and fonts once in a brand kit, then apply them to a whole document in one click. No more fixing someone else's template at midnight. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/De_k8jZFUwq"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfNARxSlBLt/",
    "likes": 0,
    "replies": 0,
-   "views": 5,
-   "reach": 3,
+   "views": 8,
+   "reach": 4,
    "saved": 0,
    "shares": 0
   },
@@ -299,10 +299,10 @@
    "at": "2026-10-28T15:01:19+0000",
    "text": "Publish a Recto document as a link and choose how your client meets it: a magazine spread, a page-turning book or plain slides. Edit after sending and the link updates. justrecto.com",
    "link": "https://www.instagram.com/p/DfCtMHmIOkM/",
-   "likes": 1,
+   "likes": 2,
    "replies": 0,
-   "views": 20,
-   "reach": 7,
+   "views": 21,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
@@ -337,8 +337,8 @@
    "link": "https://www.instagram.com/p/De-Il4OFPou/",
    "likes": 1,
    "replies": 0,
-   "views": 20,
-   "reach": 7,
+   "views": 25,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
