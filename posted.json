@@ -516,5 +516,22 @@
     "posted_at": "2026-11-01T12:30:30.348865+00:00",
     "mood": "studio",
     "text": "Nobody went to design school to learn how to write an invoice. And yet, here we all are."
+  },
+  {
+    "ids": [
+      "18075677033759651"
+    ],
+    "posted_at": "2026-11-01T15:00:45.246193+00:00",
+    "mood": "pitch",
+    "kicker": "Reading",
+    "color": "signal",
+    "slides": [
+      {
+        "title": "Know when to call.",
+        "body": "Who viewed, how long on each page, how far they got."
+      }
+    ],
+    "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
+    "doodle": "read"
   }
 ]

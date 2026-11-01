@@ -1,18 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "kicker": "Reading",
-    "color": "signal",
-    "slides": [
-      {
-        "title": "Know when to call.",
-        "body": "Who viewed, how long on each page, how far they got."
-      }
-    ],
-    "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
-    "doodle": "read"
-  },
-  {
     "mood": "script",
     "kicker": "Kurdish type",
     "color": "stock",
