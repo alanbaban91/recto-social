@@ -1,9 +1,45 @@
 {
- "updated": "2026-11-02T06:50:30+00:00",
+ "updated": "2026-11-02T21:55:58+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18118633547279698",
+   "at": "2026-11-02T19:30:26+0000",
+   "text": "A proposal that's easy to say yes to is easy to forward. A short summary on page one. Always.",
+   "link": "https://www.threads.com/@just.recto/post/DfQD9flHzNR"
+  },
+  {
+   "id": "18077444753764847",
+   "at": "2026-11-02T17:00:37+0000",
+   "text": "English and Kurdish on the same page, each in its own direction, neither one broken. In Recto any text box can run right-to-left. A small switch that saves a whole afternoon.",
+   "link": "https://www.threads.com/@just.recto/post/DfPyzpjmF1s"
+  },
+  {
+   "id": "17916914160495602",
+   "at": "2026-11-02T15:00:51+0000",
+   "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all.",
+   "link": "https://www.threads.com/@just.recto/post/DfPlGdnDixo"
+  },
+  {
+   "id": "17929954650184477",
+   "at": "2026-11-02T12:30:29+0000",
+   "text": "Small studios don't compete on size. They compete on attention. A client can always tell when someone actually read their brief.",
+   "link": "https://www.threads.com/@just.recto/post/DfPT5RLm8Q-"
+  },
+  {
+   "id": "18039082253654280",
+   "at": "2026-11-02T10:00:38+0000",
+   "text": "Recto comes with more than 60 commercial fonts, Arabic and Kurdish faces included, ready for client work. One less licence to worry about.",
+   "link": "https://www.threads.com/@just.recto/post/DfPCvhyGymY"
+  },
+  {
+   "id": "17993293605054286",
+   "at": "2026-11-02T07:30:27+0000",
+   "text": "Most pitch decks open with the logo, then \"about us\", then the team. Three slides about you before one about them. Start with them.",
+   "link": "https://www.threads.com/@just.recto/post/DfOxjpIEUQ-"
+  },
   {
    "id": "17935971861144214",
    "at": "2026-11-02T05:00:33+0000",
@@ -207,54 +243,30 @@
    "at": "2026-10-28T10:00:35+0000",
    "text": "Your logos, colours and fonts, saved once in a brand kit. Apply them to a whole document in one click. Every template in Recto starts from your brand, not ours.",
    "link": "https://www.threads.com/@just.recto/post/DfCKw3UoElC"
-  },
-  {
-   "id": "18120404515955524",
-   "at": "2026-10-28T07:30:28+0000",
-   "text": "Friday-afternoon proposals get read on Monday morning, under forty other emails. Send it when they have time to read it.",
-   "link": "https://www.threads.com/@just.recto/post/DfB5le4FrSr"
-  },
-  {
-   "id": "18113456858228909",
-   "at": "2026-10-28T05:00:33+0000",
-   "text": "White space isn't empty. It's the part of the page that tells the reader where to look.",
-   "link": "https://www.threads.com/@just.recto/post/DfBobeHjl37"
-  },
-  {
-   "id": "18140790850626990",
-   "at": "2026-10-27T19:30:31+0000",
-   "text": "A good case study answers one question: why should I trust you with mine?",
-   "link": "https://www.threads.com/@just.recto/post/DfAnMWjlC5t"
-  },
-  {
-   "id": "17946767649360379",
-   "at": "2026-10-27T17:00:36+0000",
-   "text": "Kurdish has letters many Arabic-script fonts were never drawn for: ڕ ڵ ێ ۆ ە. If a font can't set them, it isn't ready for Kurdish, however beautiful it looks.",
-   "link": "https://www.threads.com/@just.recto/post/DfAWCVjGiI2"
-  },
-  {
-   "id": "17916258012542597",
-   "at": "2026-10-27T15:00:49+0000",
-   "text": "English left to right, Kurdish or Arabic right to left, on the same page, each one looking like it belongs. Recto has Arabic and Kurdish faces among its 60+ fonts, and warns you when a font can't show a Kurdish letter.",
-   "link": "https://www.threads.com/@just.recto/post/DfAIU86Fps7"
-  },
-  {
-   "id": "17908559814579809",
-   "at": "2026-10-27T12:30:24+0000",
-   "text": "The real creative brief is the second email. The first one is what they think they want.",
-   "link": "https://www.threads.com/@just.recto/post/De_3H9CkTbJ"
   }
  ],
  "instagram": [
+  {
+   "id": "17998909269016822",
+   "at": "2026-11-02T15:00:40+0000",
+   "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all.",
+   "link": "https://www.instagram.com/p/DfPlFkTjktJ/",
+   "likes": 1,
+   "replies": 0,
+   "views": 4,
+   "reach": 2,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18110000471258446",
    "at": "2026-11-01T15:00:35+0000",
    "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
    "link": "https://www.instagram.com/p/DfNARxSlBLt/",
-   "likes": 0,
+   "likes": 1,
    "replies": 0,
-   "views": 8,
-   "reach": 4,
+   "views": 12,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -301,8 +313,8 @@
    "link": "https://www.instagram.com/p/DfCtMHmIOkM/",
    "likes": 2,
    "replies": 0,
-   "views": 21,
-   "reach": 8,
+   "views": 23,
+   "reach": 10,
    "saved": 0,
    "shares": 0
   },
@@ -313,8 +325,8 @@
    "link": "https://www.instagram.com/p/DfAITjSlj6x/",
    "likes": 0,
    "replies": 0,
-   "views": 23,
-   "reach": 7,
+   "views": 24,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
@@ -325,7 +337,7 @@
    "link": "https://www.instagram.com/p/De_k7JSlf0Z/",
    "likes": 3,
    "replies": 0,
-   "views": 70,
+   "views": 71,
    "reach": 41,
    "saved": 0,
    "shares": 1
