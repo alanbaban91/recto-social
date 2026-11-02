@@ -1,17 +1,5 @@
 [
   {
-    "mood": "script",
-    "kicker": "Kurdish type",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "Every letter, checked.",
-        "body": "Recto warns you when a font can't show a Kurdish letter, and offers one that can."
-      }
-    ],
-    "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all."
-  },
-  {
     "mood": "product",
     "kicker": "Invoices",
     "color": "ink",

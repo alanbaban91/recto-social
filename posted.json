@@ -581,5 +581,21 @@
     "posted_at": "2026-11-02T12:30:33.997192+00:00",
     "mood": "studio",
     "text": "Small studios don't compete on size. They compete on attention. A client can always tell when someone actually read their brief."
+  },
+  {
+    "ids": [
+      "17916914160495602"
+    ],
+    "posted_at": "2026-11-02T15:00:54.567233+00:00",
+    "mood": "script",
+    "kicker": "Kurdish type",
+    "color": "stock",
+    "slides": [
+      {
+        "title": "Every letter, checked.",
+        "body": "Recto warns you when a font can't show a Kurdish letter, and offers one that can."
+      }
+    ],
+    "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all."
   }
 ]
