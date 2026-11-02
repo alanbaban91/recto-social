@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-01T22:25:53+00:00",
+ "updated": "2026-11-02T06:50:30+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17935971861144214",
+   "at": "2026-11-02T05:00:33+0000",
+   "text": "Hierarchy is just the answer to one question: what should they read first, what second, and what must they never skip?",
+   "link": "https://www.threads.com/@just.recto/post/DfOgZw4jmK9"
+  },
   {
    "id": "18114393932581294",
    "at": "2026-11-01T19:30:28+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-27T12:30:24+0000",
    "text": "The real creative brief is the second email. The first one is what they think they want.",
    "link": "https://www.threads.com/@just.recto/post/De_3H9CkTbJ"
-  },
-  {
-   "id": "17887023912502421",
-   "at": "2026-10-27T10:00:35+0000",
-   "text": "Pricing tables in Recto multiply and total themselves as you type. Change a quantity at 1am, the total is still right at 9am.",
-   "link": "https://www.threads.com/@just.recto/post/De_l-ISoHz_"
   }
  ],
  "instagram": [
@@ -326,7 +326,7 @@
    "likes": 3,
    "replies": 0,
    "views": 70,
-   "reach": 40,
+   "reach": 41,
    "saved": 0,
    "shares": 1
   },
