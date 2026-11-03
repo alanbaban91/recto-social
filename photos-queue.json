@@ -1,32 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Invoices",
-    "color": "ink",
-    "slides": [
-      {
-        "title": "Draft. Sent. Viewed. Paid."
-      },
-      {
-        "title": "Your logo. Your stamp.",
-        "body": "Or a signature, drawn by hand."
-      },
-      {
-        "title": "Client details, saved.",
-        "body": "Ready for the next one."
-      },
-      {
-        "title": "Partial payments.",
-        "body": "Because real projects pay in parts."
-      },
-      {
-        "title": "Know where the money is.",
-        "body": "Invoices live next to your proposals in Recto."
-      }
-    ],
-    "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue."
-  },
-  {
     "mood": "open",
     "kicker": "Open Page",
     "color": "stock",

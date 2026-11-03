@@ -645,5 +645,36 @@
     "posted_at": "2026-11-03T12:30:47.351201+00:00",
     "mood": "studio",
     "text": "The hardest sentence in freelancing: \"That's outside the scope. Here's what it would cost.\" Practise it. It gets easier."
+  },
+  {
+    "ids": [
+      "18001909095010131"
+    ],
+    "posted_at": "2026-11-03T15:02:21.625618+00:00",
+    "mood": "product",
+    "kicker": "Invoices",
+    "color": "ink",
+    "slides": [
+      {
+        "title": "Draft. Sent. Viewed. Paid."
+      },
+      {
+        "title": "Your logo. Your stamp.",
+        "body": "Or a signature, drawn by hand."
+      },
+      {
+        "title": "Client details, saved.",
+        "body": "Ready for the next one."
+      },
+      {
+        "title": "Partial payments.",
+        "body": "Because real projects pay in parts."
+      },
+      {
+        "title": "Know where the money is.",
+        "body": "Invoices live next to your proposals in Recto."
+      }
+    ],
+    "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue."
   }
 ]
