@@ -629,5 +629,13 @@
     "posted_at": "2026-11-03T07:30:41.161675+00:00",
     "mood": "pitch",
     "text": "Writers, a free one: the first line of a proposal should be about the client's ambition, not your services."
+  },
+  {
+    "ids": [
+      "18130153255830564"
+    ],
+    "posted_at": "2026-11-03T10:00:38.622203+00:00",
+    "mood": "product",
+    "text": "Documents in Recto are end-to-end encrypted. Private until you publish a link. We hold scrambled bytes, not your client's plans."
   }
 ]
