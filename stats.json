@@ -1,9 +1,45 @@
 {
- "updated": "2026-11-03T07:15:16+00:00",
+ "updated": "2026-11-03T19:49:11+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17911048575591605",
+   "at": "2026-11-03T19:31:05+0000",
+   "text": "Every great presentation has a moment where the presenter stops talking and lets the slide work. Design for that moment.",
+   "link": "https://www.threads.com/@just.recto/post/DfSo0oTGrXO"
+  },
+  {
+   "id": "17915153823509332",
+   "at": "2026-11-03T17:00:38+0000",
+   "text": "Open Page: what's one habit that saved you hours this year? A template, a ritual, a rule, a sentence you now say early. Share it.",
+   "link": "https://www.threads.com/@just.recto/post/DfSXmq_myOb"
+  },
+  {
+   "id": "18001909095010131",
+   "at": "2026-11-03T15:02:18+0000",
+   "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue.",
+   "link": "https://www.threads.com/@just.recto/post/DfSKEGsG9e6"
+  },
+  {
+   "id": "18219431545348003",
+   "at": "2026-11-03T12:30:33+0000",
+   "text": "The hardest sentence in freelancing: \"That's outside the scope. Here's what it would cost.\" Practise it. It gets easier.",
+   "link": "https://www.threads.com/@just.recto/post/DfR4sGLjg5i"
+  },
+  {
+   "id": "18130153255830564",
+   "at": "2026-11-03T10:00:35+0000",
+   "text": "Documents in Recto are end-to-end encrypted. Private until you publish a link. We hold scrambled bytes, not your client's plans.",
+   "link": "https://www.threads.com/@just.recto/post/DfRniLyERSb"
+  },
+  {
+   "id": "18110783189240298",
+   "at": "2026-11-03T07:30:37+0000",
+   "text": "Writers, a free one: the first line of a proposal should be about the client's ambition, not your services.",
+   "link": "https://www.threads.com/@just.recto/post/DfRWXtHFiq_"
+  },
   {
    "id": "18110575454185748",
    "at": "2026-11-03T05:00:29+0000",
@@ -207,45 +243,21 @@
    "at": "2026-10-29T10:00:34+0000",
    "text": "A Recto link opens three ways: as a magazine spread, a page-turning book or plain slides. Same document. You choose how your client meets it.",
    "link": "https://www.threads.com/@just.recto/post/DfEvjmalYTA"
-  },
-  {
-   "id": "17901956214672485",
-   "at": "2026-10-29T07:30:23+0000",
-   "text": "Stop sending PDFs into the void. A link tells you if they opened it, how long they stayed on the pricing page and where they stopped reading. That's not surveillance. That's knowing when to call.",
-   "link": "https://www.threads.com/@just.recto/post/DfEeYYZlRKu"
-  },
-  {
-   "id": "18116143961026428",
-   "at": "2026-10-29T05:00:26+0000",
-   "text": "A deck has one job per slide. If a slide has two jobs, it's two slides.",
-   "link": "https://www.threads.com/@just.recto/post/DfENOBmFOOk"
-  },
-  {
-   "id": "18438423460194406",
-   "at": "2026-10-28T19:30:35+0000",
-   "text": "Writers make good clients for designers. They already know every word on the page has to earn its place.",
-   "link": "https://www.threads.com/@just.recto/post/DfDL_piD8k1"
-  },
-  {
-   "id": "18118830643802435",
-   "at": "2026-10-28T17:00:34+0000",
-   "text": "Open Page: designers, writers, presenters. What's the strangest piece of client feedback you've ever had? Keep it anonymous. Keep it kind. Keep it funny.",
-   "link": "https://www.threads.com/@just.recto/post/DfC61qloFiW"
-  },
-  {
-   "id": "18104690315147892",
-   "at": "2026-10-28T15:02:04+0000",
-   "text": "Publish a Recto document as a link and choose how your client meets it: a magazine spread, a page-turning book or plain slides. Edit after sending and the link updates. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/DfCtQ-LoG_N"
-  },
-  {
-   "id": "18116135312127020",
-   "at": "2026-10-28T12:30:29+0000",
-   "text": "Freelancing is 40% design, 30% email, 20% chasing invoices and 10% wondering if you should have been an accountant.",
-   "link": "https://www.threads.com/@just.recto/post/DfCb6xQIOyg"
   }
  ],
  "instagram": [
+  {
+   "id": "18105802100012009",
+   "at": "2026-11-03T15:01:28+0000",
+   "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue.",
+   "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
+   "likes": 0,
+   "replies": 0,
+   "views": 8,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17998909269016822",
    "at": "2026-11-02T15:00:40+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfPlFkTjktJ/",
    "likes": 1,
    "replies": 0,
-   "views": 4,
-   "reach": 2,
+   "views": 7,
+   "reach": 4,
    "saved": 0,
    "shares": 0
   },
