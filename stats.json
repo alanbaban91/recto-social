@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-04T06:58:45+00:00",
+ "updated": "2026-11-04T20:02:25+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18131922235765463",
+   "at": "2026-11-04T19:30:32+0000",
+   "text": "Ask a Kurdish designer about fonts and you'll hear the same story: a letter is missing, or it looks borrowed. Recto warns you when a font can't show a Kurdish letter, and offers one that can.",
+   "link": "https://www.threads.com/@just.recto/post/DfVNjUTIytC"
+  },
+  {
+   "id": "18150942805561194",
+   "at": "2026-11-04T17:00:37+0000",
+   "text": "Clients don't really pay for hours. They pay for the certainty that it'll be good. Price the certainty.",
+   "link": "https://www.threads.com/@just.recto/post/DfU8ZcWG0zg"
+  },
+  {
+   "id": "17894573298615126",
+   "at": "2026-11-04T15:00:55+0000",
+   "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
+   "link": "https://www.threads.com/@just.recto/post/DfUusi7kU3s"
+  },
+  {
+   "id": "18388085704234467",
+   "at": "2026-11-04T12:30:31+0000",
+   "text": "A Recto link can carry a password and an expiry date, and you can unpublish it any time. Send with confidence. Take it back in one click.",
+   "link": "https://www.threads.com/@just.recto/post/DfUdfCnkceR"
+  },
+  {
+   "id": "17992546731060999",
+   "at": "2026-11-04T07:30:29+0000",
+   "text": "An expiry date on a proposal isn't pressure. It's honesty. Your calendar and your prices both change.",
+   "link": "https://www.threads.com/@just.recto/post/DfT7JnpHPPa"
+  },
   {
    "id": "18175147021459833",
    "at": "2026-11-04T05:00:43+0000",
@@ -213,39 +243,21 @@
    "at": "2026-10-30T07:30:28+0000",
    "text": "A rate card is a confidence document. If you hesitate on the number in person, put it on a page that doesn't.",
    "link": "https://www.threads.com/@just.recto/post/DfHDLKSEYGc"
-  },
-  {
-   "id": "18082856060356688",
-   "at": "2026-10-30T05:00:32+0000",
-   "text": "Good type goes unnoticed. Bad type is the only thing anyone remembers.",
-   "link": "https://www.threads.com/@just.recto/post/DfGyA_XkbgU"
-  },
-  {
-   "id": "18132935059703472",
-   "at": "2026-10-29T19:30:30+0000",
-   "text": "Presenters: your slides are not your notes. If you can read your talk off the screen, so can the audience, and they'll do it faster than you.",
-   "link": "https://www.threads.com/@just.recto/post/DfFwx7_D6SQ"
-  },
-  {
-   "id": "18101090681385887",
-   "at": "2026-10-29T17:00:34+0000",
-   "text": "Designing in two scripts on one page is a skill few design schools teach. English left to right, Kurdish right to left, both looking like they belong there. It's hard. It's worth it.",
-   "link": "https://www.threads.com/@just.recto/post/DfFfn2umpeP"
-  },
-  {
-   "id": "18108074833973629",
-   "at": "2026-10-29T15:00:45+0000",
-   "text": "Studio notes. Ask for the deposit. Put it in the payment schedule, on its own line, before the first milestone. Clients who respect the work respect the schedule.",
-   "link": "https://www.threads.com/@just.recto/post/DfFR6Oem07u"
-  },
-  {
-   "id": "17926807086201826",
-   "at": "2026-10-29T12:30:29+0000",
-   "text": "The deposit is not rude. The deposit is the client saying yes with their money, not just their mouth.",
-   "link": "https://www.threads.com/@just.recto/post/DfFAtjnm6aY"
   }
  ],
  "instagram": [
+  {
+   "id": "18119235940812795",
+   "at": "2026-11-04T15:00:41+0000",
+   "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
+   "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
+   "likes": 1,
+   "replies": 0,
+   "views": 5,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18105802100012009",
    "at": "2026-11-03T15:01:28+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
    "likes": 0,
    "replies": 0,
-   "views": 26,
-   "reach": 19,
+   "views": 44,
+   "reach": 28,
    "saved": 0,
    "shares": 1
   },
@@ -277,7 +289,7 @@
    "link": "https://www.instagram.com/p/DfNARxSlBLt/",
    "likes": 1,
    "replies": 0,
-   "views": 12,
+   "views": 13,
    "reach": 7,
    "saved": 0,
    "shares": 0
