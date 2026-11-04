@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-03T19:49:11+00:00",
+ "updated": "2026-11-04T06:58:45+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18175147021459833",
+   "at": "2026-11-04T05:00:43+0000",
+   "text": "The cover sells the document. The contents page sells the reading. Don't skip the second one.",
+   "link": "https://www.threads.com/@just.recto/post/DfTqA4SlWgn"
+  },
   {
    "id": "17911048575591605",
    "at": "2026-11-03T19:31:05+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-29T12:30:29+0000",
    "text": "The deposit is not rude. The deposit is the client saying yes with their money, not just their mouth.",
    "link": "https://www.threads.com/@just.recto/post/DfFAtjnm6aY"
-  },
-  {
-   "id": "18026592287927882",
-   "at": "2026-10-29T10:00:34+0000",
-   "text": "A Recto link opens three ways: as a magazine spread, a page-turning book or plain slides. Same document. You choose how your client meets it.",
-   "link": "https://www.threads.com/@just.recto/post/DfEvjmalYTA"
   }
  ],
  "instagram": [
@@ -253,10 +253,10 @@
    "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
    "likes": 0,
    "replies": 0,
-   "views": 8,
-   "reach": 3,
+   "views": 26,
+   "reach": 19,
    "saved": 0,
-   "shares": 0
+   "shares": 1
   },
   {
    "id": "17998909269016822",
@@ -265,7 +265,7 @@
    "link": "https://www.instagram.com/p/DfPlFkTjktJ/",
    "likes": 1,
    "replies": 0,
-   "views": 7,
+   "views": 9,
    "reach": 4,
    "saved": 0,
    "shares": 0
