@@ -741,5 +741,13 @@
     "posted_at": "2026-11-04T17:00:40.531005+00:00",
     "mood": "studio",
     "text": "Clients don't really pay for hours. They pay for the certainty that it'll be good. Price the certainty."
+  },
+  {
+    "ids": [
+      "18131922235765463"
+    ],
+    "posted_at": "2026-11-04T19:30:36.003134+00:00",
+    "mood": "script",
+    "text": "Ask a Kurdish designer about fonts and you'll hear the same story: a letter is missing, or it looks borrowed. Recto warns you when a font can't show a Kurdish letter, and offers one that can."
   }
 ]
