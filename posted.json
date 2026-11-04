@@ -716,5 +716,22 @@
     "posted_at": "2026-11-04T12:30:35.751554+00:00",
     "mood": "product",
     "text": "A Recto link can carry a password and an expiry date, and you can unpublish it any time. Send with confidence. Take it back in one click."
+  },
+  {
+    "ids": [
+      "17894573298615126"
+    ],
+    "posted_at": "2026-11-04T15:00:58.642627+00:00",
+    "mood": "open",
+    "kicker": "Open Page",
+    "color": "stock",
+    "slides": [
+      {
+        "title": "What line wins you the most work?",
+        "body": "Tell us in the comments. Someone starting out needs it."
+      }
+    ],
+    "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
+    "doodle": "make"
   }
 ]

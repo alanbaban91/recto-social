@@ -1,18 +1,5 @@
 [
   {
-    "mood": "open",
-    "kicker": "Open Page",
-    "color": "stock",
-    "slides": [
-      {
-        "title": "What line wins you the most work?",
-        "body": "Tell us in the comments. Someone starting out needs it."
-      }
-    ],
-    "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
-    "doodle": "make"
-  },
-  {
     "mood": "product",
     "kicker": "New: folio",
     "color": "ink",
