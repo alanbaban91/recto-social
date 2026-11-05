@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-04T20:02:25+00:00",
+ "updated": "2026-11-05T07:24:51+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17938764123402748",
+   "at": "2026-11-05T05:00:38+0000",
+   "text": "Clients judge your process by your paperwork. A messy invoice says messy studio. Fair or not.",
+   "link": "https://www.threads.com/@just.recto/post/DfWOzDolUlL"
+  },
   {
    "id": "18131922235765463",
    "at": "2026-11-04T19:30:32+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-30T10:00:35+0000",
    "text": "Clients can pin a comment to the exact spot on your page. No account, no login, no \"which slide did you mean\". Just a note where the problem is.",
    "link": "https://www.threads.com/@just.recto/post/DfHUWo3ka-p"
-  },
-  {
-   "id": "17907688101668035",
-   "at": "2026-10-30T07:30:28+0000",
-   "text": "A rate card is a confidence document. If you hesitate on the number in person, put it on a page that doesn't.",
-   "link": "https://www.threads.com/@just.recto/post/DfHDLKSEYGc"
   }
  ],
  "instagram": [
@@ -251,10 +251,10 @@
    "at": "2026-11-04T15:00:41+0000",
    "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
    "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
-   "likes": 1,
+   "likes": 2,
    "replies": 0,
-   "views": 5,
-   "reach": 3,
+   "views": 9,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -266,7 +266,7 @@
    "likes": 0,
    "replies": 0,
    "views": 44,
-   "reach": 28,
+   "reach": 29,
    "saved": 0,
    "shares": 1
   },
@@ -290,7 +290,7 @@
    "likes": 1,
    "replies": 0,
    "views": 13,
-   "reach": 7,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
