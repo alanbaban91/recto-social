@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-05T07:24:51+00:00",
+ "updated": "2026-11-05T20:16:16+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17890902903479481",
+   "at": "2026-11-05T19:30:31+0000",
+   "text": "Open Page: presenters, what's your rule for how much text goes on one slide? We'll start: if you have to read it aloud, it's too much.",
+   "link": "https://www.threads.com/@just.recto/post/DfXyWE-GeK4"
+  },
+  {
+   "id": "18083622584348013",
+   "at": "2026-11-05T17:00:39+0000",
+   "text": "You're allowed to say no to work that doesn't fit. Every wrong project takes the time of a right one.",
+   "link": "https://www.threads.com/@just.recto/post/DfXhMlYGJwR"
+  },
+  {
+   "id": "18116940992334209",
+   "at": "2026-11-05T12:30:30+0000",
+   "text": "Invoices live in Recto too. Your logo, a drawn signature or stamp, client details saved for next time, partial payments. The status moves from draft to sent, viewed, overdue and paid, so you always know where the money is.",
+   "link": "https://www.threads.com/@just.recto/post/DfXCR_fILX9"
+  },
+  {
+   "id": "18193770019417844",
+   "at": "2026-11-05T10:00:34+0000",
+   "text": "What a client looks at when they open your proposal, in order:",
+   "link": "https://www.threads.com/@just.recto/post/DfWxHrukaeP"
+  },
+  {
+   "id": "17867803602680642",
+   "at": "2026-11-05T07:30:33+0000",
+   "text": "Consistency is a decision you make once and benefit from forever. That's all a brand kit is.",
+   "link": "https://www.threads.com/@just.recto/post/DfWf87CEa1u"
+  },
   {
    "id": "17938764123402748",
    "at": "2026-11-05T05:00:38+0000",
@@ -213,39 +243,21 @@
    "at": "2026-10-31T05:00:41+0000",
    "text": "Page numbers are a kindness. \"See page 7\" is a conversation. \"See the slide with the blue chart\" is an argument.",
    "link": "https://www.threads.com/@just.recto/post/DfJW0zngHyq"
-  },
-  {
-   "id": "18126279601918356",
-   "at": "2026-10-30T19:30:28+0000",
-   "text": "The best portfolios don't show everything. They show what you want to be hired for next.",
-   "link": "https://www.threads.com/@just.recto/post/DfIVkqMmCF6"
-  },
-  {
-   "id": "17932624710411410",
-   "at": "2026-10-30T17:00:38+0000",
-   "text": "Open Page: which studio, designer or writer in your city deserves more attention? Tag them. Let's give the stage away.",
-   "link": "https://www.threads.com/@just.recto/post/DfIEbGvmhUG"
-  },
-  {
-   "id": "18174234772457630",
-   "at": "2026-10-30T15:02:05+0000",
-   "text": "Most case studies show the work. The ones that win show the thinking: the problem, the decision, the result. Save it for the next one you write.",
-   "link": "https://www.threads.com/@just.recto/post/DfH22-kIMWW"
-  },
-  {
-   "id": "18116710499100713",
-   "at": "2026-10-30T12:30:29+0000",
-   "text": "Studio rule: don't present three options when you believe in one. Three options is how you ask the client to do your job.",
-   "link": "https://www.threads.com/@just.recto/post/DfHlgkfnJWq"
-  },
-  {
-   "id": "18098293190405846",
-   "at": "2026-10-30T10:00:35+0000",
-   "text": "Clients can pin a comment to the exact spot on your page. No account, no login, no \"which slide did you mean\". Just a note where the problem is.",
-   "link": "https://www.threads.com/@just.recto/post/DfHUWo3ka-p"
   }
  ],
  "instagram": [
+  {
+   "id": "17998700721019712",
+   "at": "2026-11-05T15:01:08+0000",
+   "text": "New in Recto Studio: folio. Upload a finished identity and one click turns it into an animated presentation page in that brand, built on your device and downloaded as a single file to send to the client. justrecto.com",
+   "link": "https://www.instagram.com/p/DfXThQhkdM0/",
+   "likes": 2,
+   "replies": 0,
+   "views": 19,
+   "reach": 6,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18119235940812795",
    "at": "2026-11-04T15:00:41+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
    "likes": 2,
    "replies": 0,
-   "views": 9,
-   "reach": 6,
+   "views": 14,
+   "reach": 9,
    "saved": 0,
    "shares": 0
   },
@@ -313,7 +325,7 @@
    "link": "https://www.instagram.com/p/DfH2w8cINgl/",
    "likes": 2,
    "replies": 0,
-   "views": 55,
+   "views": 57,
    "reach": 31,
    "saved": 0,
    "shares": 1
