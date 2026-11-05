@@ -1,14 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "text": [
-      "What a client looks at when they open your proposal, in order:",
-      "The price. Then the timeline. Then the work samples. Then, if you're lucky, everything else.",
-      "So design for that order. A clear price, honest dates, strong samples.",
-      "And make \"everything else\" short enough to read in the lift."
-    ]
-  },
-  {
     "mood": "product",
     "text": "Invoices live in Recto too. Your logo, a drawn signature or stamp, client details saved for next time, partial payments. The status moves from draft to sent, viewed, overdue and paid, so you always know where the money is."
   },
