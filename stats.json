@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:16:16+00:00",
+ "updated": "2026-11-06T07:24:37+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 19,
-   "reach": 6,
+   "views": 25,
+   "reach": 9,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
    "likes": 2,
    "replies": 0,
-   "views": 14,
-   "reach": 9,
+   "views": 21,
+   "reach": 12,
    "saved": 0,
    "shares": 0
   },
@@ -277,7 +277,7 @@
    "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
    "likes": 0,
    "replies": 0,
-   "views": 44,
+   "views": 46,
    "reach": 29,
    "saved": 0,
    "shares": 1
