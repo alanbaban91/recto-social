@@ -255,6 +255,19 @@ def publish(params, token):
     return api("POST", "me/threads_publish", {"creation_id": cid, "access_token": token})["id"]
 
 
+def retry(make):
+    """Threads sometimes loses a finished container before publish ("Media Not Found",
+    "Invalid Carousel Children"). Nothing went live, so build it again from scratch."""
+    for attempt in range(3):
+        try:
+            return make()
+        except SystemExit as e:
+            if attempt == 2 or not any(code in str(e) for code in ("4279009", "4279004")):
+                raise
+            print(f"Threads lost the post before publishing, trying again in 60s: {e}")
+            time.sleep(60)
+
+
 def media_urls(names):
     repo = os.environ.get("GITHUB_REPOSITORY") or sys.exit("GITHUB_REPOSITORY is not set.")
     branch = os.environ.get("GITHUB_REF_NAME", "main")
@@ -281,22 +294,23 @@ def cmd_publish():
     queue, names = load(QUEUE, []), load("media/next.json", [])
     post, texts = queue[0], parts(queue[0])
 
-    if not names:
-        root = publish({"media_type": "TEXT", "text": texts[0]}, token)
-    else:
+    def main_post():
+        if not names:
+            return publish({"media_type": "TEXT", "text": texts[0]}, token)
         urls = media_urls(names)
         for u in urls:
             wait_public(u)
         if len(urls) == 1:
-            root = publish({"media_type": "IMAGE", "image_url": urls[0], "text": texts[0]}, token)
-        else:
-            children = []
-            for u in urls:
-                child = api("POST", "me/threads", {"media_type": "IMAGE", "image_url": u,
-                                                   "is_carousel_item": "true", "access_token": token})["id"]
-                wait_ready(child, token)
-                children.append(child)
-            root = publish({"media_type": "CAROUSEL", "children": ",".join(children), "text": texts[0]}, token)
+            return publish({"media_type": "IMAGE", "image_url": urls[0], "text": texts[0]}, token)
+        children = []
+        for u in urls:
+            child = api("POST", "me/threads", {"media_type": "IMAGE", "image_url": u,
+                                               "is_carousel_item": "true", "access_token": token})["id"]
+            wait_ready(child, token)
+            children.append(child)
+        return publish({"media_type": "CAROUSEL", "children": ",".join(children), "text": texts[0]}, token)
+
+    root = retry(main_post)
 
     # The main post is live now, so dequeue it even if a reply fails (no double posting on rerun).
     ids, error = [root], None

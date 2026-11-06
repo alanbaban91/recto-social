@@ -6,7 +6,7 @@
   QUEUE=photos-queue.json python3 ig.py   # needs IG_TOKEN; skips quietly if it isn't set
 """
 import json, os, sys, time, urllib.request, urllib.parse, urllib.error
-from post import load, parts, wait_public, media_urls, QUEUE
+from post import load, save, parts, wait_public, media_urls, QUEUE
 
 API = "https://graph.instagram.com"
 
@@ -43,6 +43,10 @@ def main():
     if not queue or not names:
         print("Nothing with images to post; skipping Instagram.")
         return
+    if queue[0].get("ig_id"):
+        # Already on Instagram from an earlier run whose Threads half failed: don't post it twice.
+        print(f"Already on Instagram (id {queue[0]['ig_id']}); skipping.")
+        return
     caption = parts(queue[0])[0]
     urls = media_urls(names[:10])  # Instagram max 10
     for u in urls:
@@ -60,6 +64,8 @@ def main():
                                         "caption": caption, "access_token": token})["id"]
     wait_ready(cid, token)
     pub = api("POST", "me/media_publish", {"creation_id": cid, "access_token": token})
+    queue[0]["ig_id"] = pub.get("id")
+    save(QUEUE, queue)
     print(f"Published to Instagram (id {pub.get('id')}).")
 
 
