@@ -813,5 +813,13 @@
     "posted_at": "2026-11-06T10:00:34.542435+00:00",
     "mood": "late",
     "text": "A signature block at the end of a proposal changes how people read everything above it."
+  },
+  {
+    "ids": [
+      "17918280573536256"
+    ],
+    "posted_at": "2026-11-06T12:30:33.303414+00:00",
+    "mood": "page",
+    "text": "Numbered terms read like a promise. A paragraph of terms reads like a trap."
   }
 ]
