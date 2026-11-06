@@ -821,5 +821,34 @@
     "posted_at": "2026-11-06T12:30:33.303414+00:00",
     "mood": "page",
     "text": "Numbered terms read like a promise. A paragraph of terms reads like a trap."
+  },
+  {
+    "ids": [
+      "18105632366382189"
+    ],
+    "posted_at": "2026-11-06T15:01:13.966719+00:00",
+    "mood": "product",
+    "kicker": "New: folio",
+    "color": "ink",
+    "slides": [
+      {
+        "title": "Your identity, presented like it deserves."
+      },
+      {
+        "title": "Upload it.",
+        "body": "Logo, guidelines, mockups, visual language."
+      },
+      {
+        "title": "One click.",
+        "body": "An animated presentation page, in that brand."
+      },
+      {
+        "title": "Send one file.",
+        "body": "Built on your device. New in Recto Studio."
+      }
+    ],
+    "text": "New in Recto Studio: folio. Upload a finished identity and one click turns it into an animated presentation page in that brand, built on your device and downloaded as a single file to send to the client. justrecto.com",
+    "doodle": "send",
+    "ig_id": "17998700721019712"
   }
 ]
