@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-06T19:41:35+00:00",
+ "updated": "2026-11-07T06:36:22+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18109985749942644",
+   "at": "2026-11-07T05:00:33+0000",
+   "text": "Good creative teams argue about the work, never about which file is the latest. One brand kit, one set of templates, one version of the truth.",
+   "link": "https://www.threads.com/@just.recto/post/DfbYYH3EXmQ"
+  },
   {
    "id": "18091616804261822",
    "at": "2026-11-06T19:30:31+0000",
@@ -237,12 +243,6 @@
    "at": "2026-10-31T19:30:27+0000",
    "text": "A case study that works: the problem, the decision, the result. Most people skip the decision. The decision is the only part that's yours.",
    "link": "https://www.threads.com/@just.recto/post/DfK6XQlHwGx"
-  },
-  {
-   "id": "18117110024120434",
-   "at": "2026-10-31T17:00:34+0000",
-   "text": "For years, designers here were told good work should look like it came from somewhere else. We think the most interesting brands of the next decade will look like where they're from.",
-   "link": "https://www.threads.com/@just.recto/post/DfKpNiWGof7"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 26,
-   "reach": 10,
+   "views": 29,
+   "reach": 11,
    "saved": 0,
    "shares": 0
   },
