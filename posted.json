@@ -898,5 +898,23 @@
     "posted_at": "2026-11-07T12:30:31.808330+00:00",
     "mood": "page",
     "text": "Design the last page of the deck first. Once you know where it ends, every page before it has a direction."
+  },
+  {
+    "ids": [
+      "17950788267346178"
+    ],
+    "posted_at": "2026-11-07T15:00:46.800097+00:00",
+    "mood": "product",
+    "kicker": "Pricing tables",
+    "color": "signal",
+    "slides": [
+      {
+        "title": "Tables that do the maths.",
+        "body": "They multiply and total themselves as you type."
+      }
+    ],
+    "text": "Pricing tables in Recto multiply and total themselves as you type, and the payment schedule splits into deposit and milestones. Fewer calculators, fewer awkward corrections. 7-day free trial, no card needed. justrecto.com",
+    "doodle": "make",
+    "ig_id": "18115321931579764"
   }
 ]
