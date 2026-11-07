@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-07T06:36:22+00:00",
+ "updated": "2026-11-07T13:33:31+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18130612141889358",
+   "at": "2026-11-07T12:30:29+0000",
+   "text": "Design the last page of the deck first. Once you know where it ends, every page before it has a direction.",
+   "link": "https://www.threads.com/@just.recto/post/DfcL3kilfyr"
+  },
+  {
+   "id": "18078538736445112",
+   "at": "2026-11-07T10:00:27+0000",
+   "text": "A case study without a number is a story. Stories are lovely. Numbers get budgets approved.",
+   "link": "https://www.threads.com/@just.recto/post/Dfb6tR1G7dY"
+  },
+  {
+   "id": "17966672181200071",
+   "at": "2026-11-07T07:30:27+0000",
+   "text": "A bilingual document isn't two translations stapled together. It's one design that speaks twice.",
+   "link": "https://www.threads.com/@just.recto/post/DfbpiFBkczt"
+  },
   {
    "id": "18109985749942644",
    "at": "2026-11-07T05:00:33+0000",
@@ -225,24 +243,6 @@
    "at": "2026-11-01T10:00:32+0000",
    "text": "Case study blocks in Recto come with before/after, metrics and testimonials already laid out. You bring the work. The page already knows how to show it.",
    "link": "https://www.threads.com/@just.recto/post/DfMd8Cjm26p"
-  },
-  {
-   "id": "17914467423520132",
-   "at": "2026-11-01T07:30:25+0000",
-   "text": "Before and after is the most persuasive layout in design. Put the old next to the new, add one number, stop talking.",
-   "link": "https://www.threads.com/@just.recto/post/DfMMwrClreP"
-  },
-  {
-   "id": "17993684535112634",
-   "at": "2026-11-01T05:00:45+0000",
-   "text": "A4 is a desk. 16:9 is a screen. Square is a feed. Know where your document will be read before you design the first page.",
-   "link": "https://www.threads.com/@just.recto/post/DfL7oPRFc-6"
-  },
-  {
-   "id": "17950278489345609",
-   "at": "2026-10-31T19:30:27+0000",
-   "text": "A case study that works: the problem, the decision, the result. Most people skip the decision. The decision is the only part that's yours.",
-   "link": "https://www.threads.com/@just.recto/post/DfK6XQlHwGx"
   }
  ],
  "instagram": [
