@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-08T06:42:18+00:00",
+ "updated": "2026-11-08T13:52:43+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18193793419408881",
+   "at": "2026-11-08T12:30:28+0000",
+   "text": "Recto and verso: the right-hand page and the left. Every good document is a conversation between the two.",
+   "link": "https://www.threads.com/@just.recto/post/DfewqVVm8WZ"
+  },
+  {
+   "id": "17874213297637334",
+   "at": "2026-11-08T10:00:30+0000",
+   "text": "The work wins the room. The document wins the budget meeting you weren't invited to.",
+   "link": "https://www.threads.com/@just.recto/post/DfefgEGFpIL"
+  },
+  {
+   "id": "18034555649677569",
+   "at": "2026-11-08T07:30:29+0000",
+   "text": "Open Page: agencies and studios, how many pages is your ideal proposal? We've heard everything from 3 to 40. Defend your number.",
+   "link": "https://www.threads.com/@just.recto/post/DfeOVPJGz7z"
+  },
   {
    "id": "17954392347290332",
    "at": "2026-11-08T05:00:31+0000",
@@ -225,24 +243,6 @@
    "at": "2026-11-02T10:00:38+0000",
    "text": "Recto comes with more than 60 commercial fonts, Arabic and Kurdish faces included, ready for client work. One less licence to worry about.",
    "link": "https://www.threads.com/@just.recto/post/DfPCvhyGymY"
-  },
-  {
-   "id": "17993293605054286",
-   "at": "2026-11-02T07:30:27+0000",
-   "text": "Most pitch decks open with the logo, then \"about us\", then the team. Three slides about you before one about them. Start with them.",
-   "link": "https://www.threads.com/@just.recto/post/DfOxjpIEUQ-"
-  },
-  {
-   "id": "17935971861144214",
-   "at": "2026-11-02T05:00:33+0000",
-   "text": "Hierarchy is just the answer to one question: what should they read first, what second, and what must they never skip?",
-   "link": "https://www.threads.com/@just.recto/post/DfOgZw4jmK9"
-  },
-  {
-   "id": "18114393932581294",
-   "at": "2026-11-01T19:30:28+0000",
-   "text": "Your proposal will be forwarded to someone you've never met. Design it for them too.",
-   "link": "https://www.threads.com/@just.recto/post/DfNfKePlLO7"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfcdC00kUas/",
    "likes": 1,
    "replies": 0,
-   "views": 14,
-   "reach": 4,
+   "views": 17,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 30,
-   "reach": 11,
+   "views": 31,
+   "reach": 12,
    "saved": 0,
    "shares": 0
   },
