@@ -289,10 +289,30 @@ def cmd_render():
     print(f"Prepared {len(names)} image(s)." if names else "Text post, nothing to render.")
 
 
+def finish(queue, names, post, ids):
+    """Log the post, dequeue it and clear its rendered images."""
+    posted = load("posted.json", [])
+    posted.append({"ids": ids, "posted_at": datetime.datetime.now(datetime.timezone.utc).isoformat(), **post})
+    save("posted.json", posted)
+    save(QUEUE, queue[1:])
+    for n in names + ["next.json"]:
+        p = os.path.join("media", n)
+        if os.path.exists(p):
+            os.remove(p)
+
+
 def cmd_publish():
     token = os.environ.get("THREADS_TOKEN") or sys.exit("THREADS_TOKEN is not set.")
     queue, names = load(QUEUE, []), load("media/next.json", [])
     post, texts = queue[0], parts(queue[0])
+
+    if post.get("ig_only"):
+        # Instagram-only post: skip Threads, dequeue once ig.py has published it.
+        if not post.get("ig_id"):
+            sys.exit("Instagram-only post isn't on Instagram yet; keeping it in the queue.")
+        finish(queue, names, post, [])
+        print(f"Instagram-only post, skipped Threads. {len(queue) - 1} posts left in {QUEUE}.")
+        return
 
     def main_post():
         if not names:
@@ -320,14 +340,7 @@ def cmd_publish():
     except SystemExit as e:
         error = f"Main post is live but the thread stopped after {len(ids)} part(s): {e}"
 
-    posted = load("posted.json", [])
-    posted.append({"ids": ids, "posted_at": datetime.datetime.now(datetime.timezone.utc).isoformat(), **post})
-    save("posted.json", posted)
-    save(QUEUE, queue[1:])
-    for n in names + ["next.json"]:
-        p = os.path.join("media", n)
-        if os.path.exists(p):
-            os.remove(p)
+    finish(queue, names, post, ids)
     if error:
         sys.exit(error)
     print(f"Published {len(ids)} part(s) (id {root}). {len(queue) - 1} posts left in {QUEUE}.")
