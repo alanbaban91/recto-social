@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-08T13:52:43+00:00",
+ "updated": "2026-11-08T22:28:59+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18181349242432851",
+   "at": "2026-11-08T19:30:28+0000",
+   "text": "New in Recto Studio: folio.",
+   "link": "https://www.threads.com/@just.recto/post/DffgulBlpyJ"
+  },
+  {
+   "id": "17984068643908474",
+   "at": "2026-11-08T17:00:34+0000",
+   "text": "Your rate card should answer the question before the client asks it. If they have to email you for a price, half of them won't.",
+   "link": "https://www.threads.com/@just.recto/post/DffPknFGjom"
+  },
   {
    "id": "18193793419408881",
    "at": "2026-11-08T12:30:28+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-02T15:00:51+0000",
    "text": "ڕ ڵ ێ ۆ ە. Five letters many Arabic-script fonts quietly leave out. Recto checks every Kurdish letter in the font you pick, and offers one that can set them all.",
    "link": "https://www.threads.com/@just.recto/post/DfPlGdnDixo"
-  },
-  {
-   "id": "17929954650184477",
-   "at": "2026-11-02T12:30:29+0000",
-   "text": "Small studios don't compete on size. They compete on attention. A client can always tell when someone actually read their brief.",
-   "link": "https://www.threads.com/@just.recto/post/DfPT5RLm8Q-"
-  },
-  {
-   "id": "18039082253654280",
-   "at": "2026-11-02T10:00:38+0000",
-   "text": "Recto comes with more than 60 commercial fonts, Arabic and Kurdish faces included, ready for client work. One less licence to worry about.",
-   "link": "https://www.threads.com/@just.recto/post/DfPCvhyGymY"
   }
  ],
  "instagram": [
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 31,
-   "reach": 12,
+   "views": 35,
+   "reach": 13,
    "saved": 0,
    "shares": 0
   },
