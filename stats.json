@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-07T22:17:26+00:00",
+ "updated": "2026-11-08T06:42:18+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17954392347290332",
+   "at": "2026-11-08T05:00:31+0000",
+   "text": "Every studio has a templates folder nobody trusts. Make one good template and the folder disappears.",
+   "link": "https://www.threads.com/@just.recto/post/Dfd9K7uGxtB"
+  },
   {
    "id": "18137074942659260",
    "at": "2026-11-07T19:30:29+0000",
@@ -237,12 +243,6 @@
    "at": "2026-11-01T19:30:28+0000",
    "text": "Your proposal will be forwarded to someone you've never met. Design it for them too.",
    "link": "https://www.threads.com/@just.recto/post/DfNfKePlLO7"
-  },
-  {
-   "id": "18131023225853016",
-   "at": "2026-11-01T17:00:36+0000",
-   "text": "Open Page, weekend edition: show us a document you're proud of sending. Not the work itself. The proposal, the deck or the case study that won it.",
-   "link": "https://www.threads.com/@just.recto/post/DfNOArIFg-v"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DfcdC00kUas/",
    "likes": 1,
    "replies": 0,
-   "views": 13,
-   "reach": 3,
+   "views": 14,
+   "reach": 4,
    "saved": 0,
    "shares": 0
   },
