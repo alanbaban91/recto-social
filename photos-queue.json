@@ -1,19 +1,5 @@
 [
   {
-    "mood": "page",
-    "kicker": "The page",
-    "color": "stock",
-    "doodle": "page",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "White space isn't empty.",
-        "body": "It tells the reader where to look."
-      }
-    ],
-    "text": "White space isn't empty. It's the part of the page that tells the reader where to look first. Give the price room, give the headline room, and let everything else wait its turn."
-  },
-  {
     "mood": "pitch",
     "kicker": "The pitch",
     "color": "ink",

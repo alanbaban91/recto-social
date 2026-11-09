@@ -1009,5 +1009,22 @@
     "posted_at": "2026-11-09T10:00:36.146663+00:00",
     "mood": "late",
     "text": "Make the document you'd want to receive. That's the whole brief."
+  },
+  {
+    "ids": [],
+    "posted_at": "2026-11-09T15:00:40.630159+00:00",
+    "mood": "page",
+    "kicker": "The page",
+    "color": "stock",
+    "doodle": "page",
+    "ig_only": true,
+    "slides": [
+      {
+        "title": "White space isn't empty.",
+        "body": "It tells the reader where to look."
+      }
+    ],
+    "text": "White space isn't empty. It's the part of the page that tells the reader where to look first. Give the price room, give the headline room, and let everything else wait its turn.",
+    "ig_id": "18017907161750763"
   }
 ]
