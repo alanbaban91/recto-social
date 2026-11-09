@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-09T07:12:08+00:00",
+ "updated": "2026-11-09T22:42:23+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17865773493693751",
+   "at": "2026-11-09T10:00:34+0000",
+   "text": "Make the document you'd want to receive. That's the whole brief.",
+   "link": "https://www.threads.com/@just.recto/post/DfhETUQlrtj"
+  },
+  {
+   "id": "17994610533098969",
+   "at": "2026-11-09T07:30:25+0000",
+   "text": "To every designer setting Kurdish type with care: you're shaping how a language looks for the next generation. That's not a small job.",
+   "link": "https://www.threads.com/@just.recto/post/DfgzHrlFoHx"
+  },
   {
    "id": "18184229776430123",
    "at": "2026-11-09T05:00:28+0000",
@@ -231,21 +243,21 @@
    "at": "2026-11-03T05:00:29+0000",
    "text": "Margins are where the page breathes. Cut them to fit more in and the page starts gasping.",
    "link": "https://www.threads.com/@just.recto/post/DfRFMypkezr"
-  },
-  {
-   "id": "18118633547279698",
-   "at": "2026-11-02T19:30:26+0000",
-   "text": "A proposal that's easy to say yes to is easy to forward. A short summary on page one. Always.",
-   "link": "https://www.threads.com/@just.recto/post/DfQD9flHzNR"
-  },
-  {
-   "id": "18077444753764847",
-   "at": "2026-11-02T17:00:37+0000",
-   "text": "English and Kurdish on the same page, each in its own direction, neither one broken. In Recto any text box can run right-to-left. A small switch that saves a whole afternoon.",
-   "link": "https://www.threads.com/@just.recto/post/DfPyzpjmF1s"
   }
  ],
  "instagram": [
+  {
+   "id": "18017907161750763",
+   "at": "2026-11-09T15:00:38+0000",
+   "text": "White space isn't empty. It's the part of the page that tells the reader where to look first. Give the price room, give the headline room, and let everything else wait its turn.",
+   "link": "https://www.instagram.com/p/Dfhmo_IlEg5/",
+   "likes": 2,
+   "replies": 0,
+   "views": 15,
+   "reach": 4,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18115321931579764",
    "at": "2026-11-07T15:00:30+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfcdC00kUas/",
    "likes": 2,
    "replies": 0,
-   "views": 20,
-   "reach": 6,
+   "views": 26,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +277,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 37,
-   "reach": 14,
+   "views": 41,
+   "reach": 15,
    "saved": 0,
    "shares": 0
   },
@@ -277,7 +289,7 @@
    "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
    "likes": 3,
    "replies": 0,
-   "views": 24,
+   "views": 25,
    "reach": 13,
    "saved": 0,
    "shares": 0
@@ -311,10 +323,10 @@
    "at": "2026-11-01T15:00:35+0000",
    "text": "Every Recto link shows who viewed it, how long they spent on each page and where they stopped. Clients can also pin comments to the exact spot, no account needed. Follow up with facts, not hope.",
    "link": "https://www.instagram.com/p/DfNARxSlBLt/",
-   "likes": 2,
+   "likes": 3,
    "replies": 0,
-   "views": 14,
-   "reach": 9,
+   "views": 20,
+   "reach": 10,
    "saved": 0,
    "shares": 0
   },
@@ -335,9 +347,9 @@
    "at": "2026-10-30T15:01:16+0000",
    "text": "Most case studies show the work. The ones that win show the thinking: the problem, the decision, the result. Save it for the next one you write.",
    "link": "https://www.instagram.com/p/DfH2w8cINgl/",
-   "likes": 3,
+   "likes": 4,
    "replies": 0,
-   "views": 58,
+   "views": 59,
    "reach": 31,
    "saved": 0,
    "shares": 1
@@ -409,8 +421,8 @@
    "link": "https://www.instagram.com/p/De8zeMLnOS8/",
    "likes": 0,
    "replies": 0,
-   "views": 11,
-   "reach": 5,
+   "views": 13,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -433,7 +445,7 @@
    "link": "https://www.instagram.com/reel/DejVGHlxmVl/",
    "likes": 6,
    "replies": 0,
-   "views": 652,
+   "views": 657,
    "reach": 543,
    "saved": 0,
    "shares": 2
