@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:44:29+00:00",
+ "updated": "2026-11-10T20:00:18+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
@@ -247,14 +247,26 @@
  ],
  "instagram": [
   {
+   "id": "18139432504629510",
+   "at": "2026-11-10T15:00:41+0000",
+   "text": "Clients don't read proposals top to bottom. They find the price, then decide whether the rest is worth their time. Put it where they'll look, and make every page before it earn its place.",
+   "link": "https://www.instagram.com/p/DfkLcI_kRfm/",
+   "likes": 0,
+   "replies": 0,
+   "views": 3,
+   "reach": 2,
+   "saved": 0,
+   "shares": 0
+  },
+  {
    "id": "18017907161750763",
    "at": "2026-11-09T15:00:38+0000",
    "text": "White space isn't empty. It's the part of the page that tells the reader where to look first. Give the price room, give the headline room, and let everything else wait its turn.",
    "link": "https://www.instagram.com/p/Dfhmo_IlEg5/",
    "likes": 2,
    "replies": 0,
-   "views": 15,
-   "reach": 4,
+   "views": 19,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
