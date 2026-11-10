@@ -1,19 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "kicker": "The pitch",
-    "color": "ink",
-    "doodle": "read",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "Clients read the price first.",
-        "body": "Then they decide whether to read the rest."
-      }
-    ],
-    "text": "Clients don't read proposals top to bottom. They find the price, then decide whether the rest is worth their time. Put it where they'll look, and make every page before it earn its place."
-  },
-  {
     "mood": "product",
     "kicker": "Sharing",
     "color": "signal",

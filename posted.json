@@ -1026,5 +1026,22 @@
     ],
     "text": "White space isn't empty. It's the part of the page that tells the reader where to look first. Give the price room, give the headline room, and let everything else wait its turn.",
     "ig_id": "18017907161750763"
+  },
+  {
+    "ids": [],
+    "posted_at": "2026-11-10T15:00:43.839708+00:00",
+    "mood": "pitch",
+    "kicker": "The pitch",
+    "color": "ink",
+    "doodle": "read",
+    "ig_only": true,
+    "slides": [
+      {
+        "title": "Clients read the price first.",
+        "body": "Then they decide whether to read the rest."
+      }
+    ],
+    "text": "Clients don't read proposals top to bottom. They find the price, then decide whether the rest is worth their time. Put it where they'll look, and make every page before it earn its place.",
+    "ig_id": "18139432504629510"
   }
 ]
