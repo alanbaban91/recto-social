@@ -336,7 +336,7 @@ def cmd_publish():
     ids, error = [root], None
     try:
         for reply in texts[1:]:
-            ids.append(publish({"media_type": "TEXT", "text": reply, "reply_to_id": ids[-1]}, token))
+            ids.append(retry(lambda: publish({"media_type": "TEXT", "text": reply, "reply_to_id": ids[-1]}, token)))
     except SystemExit as e:
         error = f"Main post is live but the thread stopped after {len(ids)} part(s): {e}"
 
