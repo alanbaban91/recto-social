@@ -1,19 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Sharing",
-    "color": "signal",
-    "doodle": "send",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "final_v3.pdf",
-        "body": "Or one link that updates when you edit."
-      }
-    ],
-    "text": "Every studio has a FINAL_final_v3.pdf somewhere. A Recto link updates when you edit, so the client is always reading the latest page. 7-day free trial, no card needed. justrecto.com"
-  },
-  {
     "mood": "checklist",
     "kicker": "Before you hit send",
     "color": "stock",
