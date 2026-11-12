@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:44:27+00:00",
+ "updated": "2026-11-12T20:27:23+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
@@ -247,13 +247,25 @@
  ],
  "instagram": [
   {
+   "id": "17919689304263459",
+   "at": "2026-11-12T15:01:20+0000",
+   "text": "Before you hit send on a pitch deck: one idea per slide, numbers they can check, your name and contact on the last page, and a next step with a date on it. Save this for the next one.",
+   "link": "https://www.instagram.com/p/DfpVGn2nCJe/",
+   "likes": 2,
+   "replies": 0,
+   "views": 15,
+   "reach": 4,
+   "saved": 0,
+   "shares": 0
+  },
+  {
    "id": "18354400288270787",
    "at": "2026-11-11T15:00:36+0000",
    "text": "Every studio has a FINAL_final_v3.pdf somewhere. A Recto link updates when you edit, so the client is always reading the latest page. 7-day free trial, no card needed. justrecto.com",
    "link": "https://www.instagram.com/p/DfmwOjklOp6/",
    "likes": 2,
    "replies": 0,
-   "views": 8,
+   "views": 10,
    "reach": 4,
    "saved": 0,
    "shares": 0
@@ -265,7 +277,7 @@
    "link": "https://www.instagram.com/p/DfkLcI_kRfm/",
    "likes": 0,
    "replies": 0,
-   "views": 4,
+   "views": 5,
    "reach": 2,
    "saved": 0,
    "shares": 0
@@ -301,8 +313,8 @@
    "link": "https://www.instagram.com/p/DfXThQhkdM0/",
    "likes": 2,
    "replies": 0,
-   "views": 44,
-   "reach": 17,
+   "views": 45,
+   "reach": 18,
    "saved": 0,
    "shares": 0
   },
@@ -349,8 +361,8 @@
    "link": "https://www.instagram.com/p/DfNARxSlBLt/",
    "likes": 3,
    "replies": 0,
-   "views": 22,
-   "reach": 11,
+   "views": 23,
+   "reach": 12,
    "saved": 0,
    "shares": 0
   },
@@ -361,8 +373,8 @@
    "link": "https://www.instagram.com/p/DfKbeigFBgr/",
    "likes": 1,
    "replies": 0,
-   "views": 15,
-   "reach": 7,
+   "views": 16,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
