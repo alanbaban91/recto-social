@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:19:12+00:00",
+ "updated": "2026-11-13T20:03:06+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
@@ -247,13 +247,25 @@
  ],
  "instagram": [
   {
+   "id": "18112626551228078",
+   "at": "2026-11-13T15:00:36+0000",
+   "text": "Bilingual documents are not translations stapled together. Both languages deserve the same hierarchy, the same care and the same page.\n\nدوو زمان، یەک پەڕە.\nلغتان، صفحة واحدة.",
+   "link": "https://www.instagram.com/p/Dfr50xnkTgh/",
+   "likes": 0,
+   "replies": 0,
+   "views": 9,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
+  {
    "id": "17919689304263459",
    "at": "2026-11-12T15:01:20+0000",
    "text": "Before you hit send on a pitch deck: one idea per slide, numbers they can check, your name and contact on the last page, and a next step with a date on it. Save this for the next one.",
    "link": "https://www.instagram.com/p/DfpVGn2nCJe/",
    "likes": 2,
    "replies": 0,
-   "views": 15,
+   "views": 16,
    "reach": 4,
    "saved": 0,
    "shares": 0
@@ -493,7 +505,7 @@
    "link": "https://www.instagram.com/reel/DeJv2SUt274/",
    "likes": 7,
    "replies": 0,
-   "views": 252,
+   "views": 253,
    "reach": 169,
    "saved": 0,
    "shares": 1
@@ -541,7 +553,7 @@
    "link": "https://www.instagram.com/reel/Dd_KVyYJFqm/",
    "likes": 7,
    "replies": 2,
-   "views": 238,
+   "views": 239,
    "reach": 120,
    "saved": 2,
    "shares": 2
