@@ -1,19 +1,5 @@
 [
   {
-    "mood": "scripts",
-    "kicker": "Two scripts",
-    "color": "ink",
-    "doodle": "page",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "Not a translation stapled on.",
-        "body": "Both languages get the same hierarchy."
-      }
-    ],
-    "text": "Bilingual documents are not translations stapled together. Both languages deserve the same hierarchy, the same care and the same page.\n\nدوو زمان، یەک پەڕە.\nلغتان، صفحة واحدة."
-  },
-  {
     "mood": "product",
     "kicker": "Comments",
     "color": "stock",
