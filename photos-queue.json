@@ -1,19 +1,5 @@
 [
   {
-    "mood": "product",
-    "kicker": "Comments",
-    "color": "stock",
-    "doodle": "read",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "Feedback, pinned to the page.",
-        "body": "Clients comment on the exact spot. No account needed."
-      }
-    ],
-    "text": "No more \"the thing on page 4, top left, the blue one\". In Recto, clients pin comments to the exact spot on the page without making an account. 7-day free trial, no card needed. justrecto.com"
-  },
-  {
     "mood": "studio",
     "kicker": "Studio notes",
     "color": "ink",

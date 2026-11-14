@@ -1121,5 +1121,22 @@
     "posted_at": "2026-11-14T12:30:32.744807+00:00",
     "mood": "pitch",
     "text": "A proposal gets about two and a half days. Proposify's 2026 report: from the moment a buyer opens a proposal to the deal closing, the average is 2.5 days. The decision is fast. Your follow-up should be too."
+  },
+  {
+    "ids": [],
+    "posted_at": "2026-11-14T15:00:37.189790+00:00",
+    "mood": "product",
+    "kicker": "Comments",
+    "color": "stock",
+    "doodle": "read",
+    "ig_only": true,
+    "slides": [
+      {
+        "title": "Feedback, pinned to the page.",
+        "body": "Clients comment on the exact spot. No account needed."
+      }
+    ],
+    "text": "No more \"the thing on page 4, top left, the blue one\". In Recto, clients pin comments to the exact spot on the page without making an account. 7-day free trial, no card needed. justrecto.com",
+    "ig_id": "17920354515460097"
   }
 ]
