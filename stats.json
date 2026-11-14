@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-14T18:29:16+00:00",
+ "updated": "2026-11-14T22:44:46+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18148109128593282",
+   "at": "2026-11-14T19:30:32+0000",
+   "text": "29% of freelance invoices are paid at least a day late. That's Bonsai's analysis of three years of invoicing data. The same study found over 75% of those late invoices were paid within 14 days of the due date. One polite reminder on day one does a lot of work.",
+   "link": "https://www.threads.com/@just.recto/post/Dfu9gLhGSUc"
+  },
   {
    "id": "18356482048269106",
    "at": "2026-11-14T17:00:34+0000",
@@ -237,12 +243,6 @@
    "at": "2026-11-03T15:02:18+0000",
    "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue.",
    "link": "https://www.threads.com/@just.recto/post/DfSKEGsG9e6"
-  },
-  {
-   "id": "18219431545348003",
-   "at": "2026-11-03T12:30:33+0000",
-   "text": "The hardest sentence in freelancing: \"That's outside the scope. Here's what it would cost.\" Practise it. It gets easier.",
-   "link": "https://www.threads.com/@just.recto/post/DfR4sGLjg5i"
   }
  ],
  "instagram": [
