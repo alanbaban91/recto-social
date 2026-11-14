@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-14T07:01:36+00:00",
+ "updated": "2026-11-14T18:29:16+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18356482048269106",
+   "at": "2026-11-14T17:00:34+0000",
+   "text": "Buyers spent 25.3 minutes on proposals they signed and 15.8 on the ones they turned down (Proposify, 2026). Time is the signal. A Recto link shows how long they stayed on each page and how far they got, so you know which follow-up to write.",
+   "link": "https://www.threads.com/@just.recto/post/DfusVzikWpo"
+  },
+  {
+   "id": "18132602725828407",
+   "at": "2026-11-14T12:30:30+0000",
+   "text": "A proposal gets about two and a half days. Proposify's 2026 report: from the moment a buyer opens a proposal to the deal closing, the average is 2.5 days. The decision is fast. Your follow-up should be too.",
+   "link": "https://www.threads.com/@just.recto/post/DfuNbssESii"
+  },
+  {
+   "id": "17915601366484955",
+   "at": "2026-11-14T10:00:33+0000",
+   "text": "Winning proposals are shorter. In Proposify's data on 742,137 proposals sent in 2025, the average winner ran 11 pages and the average loser ran 13. Two extra pages rarely add proof. They usually add hesitation.",
+   "link": "https://www.threads.com/@just.recto/post/Dft8RnYFXLF"
+  },
   {
    "id": "17865773493693751",
    "at": "2026-11-09T10:00:34+0000",
@@ -225,36 +243,30 @@
    "at": "2026-11-03T12:30:33+0000",
    "text": "The hardest sentence in freelancing: \"That's outside the scope. Here's what it would cost.\" Practise it. It gets easier.",
    "link": "https://www.threads.com/@just.recto/post/DfR4sGLjg5i"
-  },
-  {
-   "id": "18130153255830564",
-   "at": "2026-11-03T10:00:35+0000",
-   "text": "Documents in Recto are end-to-end encrypted. Private until you publish a link. We hold scrambled bytes, not your client's plans.",
-   "link": "https://www.threads.com/@just.recto/post/DfRniLyERSb"
-  },
-  {
-   "id": "18110783189240298",
-   "at": "2026-11-03T07:30:37+0000",
-   "text": "Writers, a free one: the first line of a proposal should be about the client's ambition, not your services.",
-   "link": "https://www.threads.com/@just.recto/post/DfRWXtHFiq_"
-  },
-  {
-   "id": "18110575454185748",
-   "at": "2026-11-03T05:00:29+0000",
-   "text": "Margins are where the page breathes. Cut them to fit more in and the page starts gasping.",
-   "link": "https://www.threads.com/@just.recto/post/DfRFMypkezr"
   }
  ],
  "instagram": [
+  {
+   "id": "17920354515460097",
+   "at": "2026-11-14T15:00:34+0000",
+   "text": "No more \"the thing on page 4, top left, the blue one\". In Recto, clients pin comments to the exact spot on the page without making an account. 7-day free trial, no card needed. justrecto.com",
+   "link": "https://www.instagram.com/p/Dfuem6pllPS/",
+   "likes": 1,
+   "replies": 0,
+   "views": 8,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18112626551228078",
    "at": "2026-11-13T15:00:36+0000",
    "text": "Bilingual documents are not translations stapled together. Both languages deserve the same hierarchy, the same care and the same page.\n\nدوو زمان، یەک پەڕە.\nلغتان، صفحة واحدة.",
    "link": "https://www.instagram.com/p/Dfr50xnkTgh/",
-   "likes": 0,
+   "likes": 1,
    "replies": 0,
-   "views": 11,
-   "reach": 4,
+   "views": 12,
+   "reach": 5,
    "saved": 0,
    "shares": 0
   },
