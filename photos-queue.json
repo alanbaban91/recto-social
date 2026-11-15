@@ -1,18 +1,5 @@
 [
   {
-    "mood": "studio",
-    "kicker": "Studio notes",
-    "color": "ink",
-    "doodle": "make",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "\"Make it pop\" is not a brief."
-      }
-    ],
-    "text": "\"Make it pop\" is not a brief. Ask what the page has to do, who reads it first and what they should do next. Then make it pop."
-  },
-  {
     "mood": "open",
     "kicker": "Open Page",
     "color": "signal",

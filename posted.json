@@ -1186,5 +1186,21 @@
     "posted_at": "2026-11-15T12:30:32.183707+00:00",
     "mood": "pitch",
     "text": "Send it within 24 hours. In Better Proposals' 2020 data, proposals sent within a day of talking to the client were 19.1% more likely to win and were signed in about 6 days. Wait three or four days to send, and signing took almost 12."
+  },
+  {
+    "ids": [],
+    "posted_at": "2026-11-15T15:00:35.253025+00:00",
+    "mood": "studio",
+    "kicker": "Studio notes",
+    "color": "ink",
+    "doodle": "make",
+    "ig_only": true,
+    "slides": [
+      {
+        "title": "\"Make it pop\" is not a brief."
+      }
+    ],
+    "text": "\"Make it pop\" is not a brief. Ask what the page has to do, who reads it first and what they should do next. Then make it pop.",
+    "ig_id": "17916142035519886"
   }
 ]
