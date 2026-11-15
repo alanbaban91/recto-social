@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-14T22:44:46+00:00",
+ "updated": "2026-11-15T07:12:20+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18086734874374438",
+   "at": "2026-11-15T05:00:32+0000",
+   "text": "Open Page: ANA and the 4A's put the average cost of a pitch for a non-incumbent agency at $204,461 (The Cost of the Pitch, 2023). Agencies and studios, do you track what a pitch costs you? Hours, people, spec work. What's your number?",
+   "link": "https://www.threads.com/@just.recto/post/Dfv-vKjgK-_"
+  },
   {
    "id": "18148109128593282",
    "at": "2026-11-14T19:30:32+0000",
@@ -237,12 +243,6 @@
    "at": "2026-11-03T17:00:38+0000",
    "text": "Open Page: what's one habit that saved you hours this year? A template, a ritual, a rule, a sentence you now say early. Share it.",
    "link": "https://www.threads.com/@just.recto/post/DfSXmq_myOb"
-  },
-  {
-   "id": "18001909095010131",
-   "at": "2026-11-03T15:02:18+0000",
-   "text": "Invoices in Recto carry your logo and a drawn signature or stamp, remember the client for next time, take partial payments, and tell you when they've been viewed and when they're overdue.",
-   "link": "https://www.threads.com/@just.recto/post/DfSKEGsG9e6"
   }
  ],
  "instagram": [
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/Dfr50xnkTgh/",
    "likes": 1,
    "replies": 0,
-   "views": 12,
-   "reach": 5,
+   "views": 14,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -289,8 +289,8 @@
    "link": "https://www.instagram.com/p/DfmwOjklOp6/",
    "likes": 2,
    "replies": 0,
-   "views": 11,
-   "reach": 5,
+   "views": 12,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -313,8 +313,8 @@
    "link": "https://www.instagram.com/p/Dfhmo_IlEg5/",
    "likes": 2,
    "replies": 0,
-   "views": 22,
-   "reach": 7,
+   "views": 25,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
@@ -349,8 +349,8 @@
    "link": "https://www.instagram.com/p/DfUuqxUkbmD/",
    "likes": 3,
    "replies": 0,
-   "views": 26,
-   "reach": 14,
+   "views": 28,
+   "reach": 15,
    "saved": 0,
    "shares": 0
   },
@@ -361,8 +361,8 @@
    "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
    "likes": 1,
    "replies": 0,
-   "views": 48,
-   "reach": 30,
+   "views": 49,
+   "reach": 31,
    "saved": 0,
    "shares": 1
   },
