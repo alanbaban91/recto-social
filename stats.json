@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-16T07:17:21+00:00",
+ "updated": "2026-11-16T22:31:31+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17980272591153334",
+   "at": "2026-11-16T19:32:35+0000",
+   "text": "71% of freelancers have had trouble getting paid at some point in their career. Freelancers Union surveyed 5,358 freelancers for that number. If it has happened to you, it isn't because you're bad at business. It's the most common story in this work.",
+   "link": "https://www.threads.com/@just.recto/post/Df0HVBHFkNy"
+  },
+  {
+   "id": "18255880939309054",
+   "at": "2026-11-16T17:00:41+0000",
+   "text": "Proposify found proposals with interactive pricing won twice as many deals (2026). Clients want to try options: fewer rounds, an extra deliverable, a longer retainer. Recto pricing tables multiply and total themselves, so 'what if we drop the video?' gets a new total in the meeting, not tomorrow.",
+   "link": "https://www.threads.com/@just.recto/post/Dfz18dlmJKM"
+  },
+  {
+   "id": "17934105843161907",
+   "at": "2026-11-16T12:30:28+0000",
+   "text": "Price was the top reason clients chose an agency, by a wide margin. In ANA and 4A's research (2023), 62% of clients named cost/price. Creative execution came second at 45%, the big idea third at 36%. Great work gets you shortlisted. A clear price gets you picked.",
+   "link": "https://www.threads.com/@just.recto/post/DfzXBzMkfyK"
+  },
+  {
+   "id": "18364897984221833",
+   "at": "2026-11-16T10:00:46+0000",
+   "text": "Where reading time goes: 38.2% on the introduction, 27% on pricing, 34.8% on everything else combined. Better Proposals measured it in 2020. The intro and the price do two-thirds of the work. Write those two first, and best.",
+   "link": "https://www.threads.com/@just.recto/post/DfzF4thG9Ck"
+  },
+  {
+   "id": "17993935056078540",
+   "at": "2026-11-16T07:31:31+0000",
+   "text": "Proposals travel. Proposify found close rates rose 20% when more than one stakeholder viewed the proposal (2026). Someone forwards it to the person with the budget. Send a link, not an attachment, so the second reader gets the same document as the first.",
+   "link": "https://www.threads.com/@just.recto/post/Dfy0z0KkVMp"
+  },
   {
    "id": "18198736951392977",
    "at": "2026-11-16T05:01:37+0000",
@@ -213,39 +243,21 @@
    "at": "2026-11-05T12:30:30+0000",
    "text": "Invoices live in Recto too. Your logo, a drawn signature or stamp, client details saved for next time, partial payments. The status moves from draft to sent, viewed, overdue and paid, so you always know where the money is.",
    "link": "https://www.threads.com/@just.recto/post/DfXCR_fILX9"
-  },
-  {
-   "id": "18193770019417844",
-   "at": "2026-11-05T10:00:34+0000",
-   "text": "What a client looks at when they open your proposal, in order:",
-   "link": "https://www.threads.com/@just.recto/post/DfWxHrukaeP"
-  },
-  {
-   "id": "17867803602680642",
-   "at": "2026-11-05T07:30:33+0000",
-   "text": "Consistency is a decision you make once and benefit from forever. That's all a brand kit is.",
-   "link": "https://www.threads.com/@just.recto/post/DfWf87CEa1u"
-  },
-  {
-   "id": "17938764123402748",
-   "at": "2026-11-05T05:00:38+0000",
-   "text": "Clients judge your process by your paperwork. A messy invoice says messy studio. Fair or not.",
-   "link": "https://www.threads.com/@just.recto/post/DfWOzDolUlL"
-  },
-  {
-   "id": "18131922235765463",
-   "at": "2026-11-04T19:30:32+0000",
-   "text": "Ask a Kurdish designer about fonts and you'll hear the same story: a letter is missing, or it looks borrowed. Recto warns you when a font can't show a Kurdish letter, and offers one that can.",
-   "link": "https://www.threads.com/@just.recto/post/DfVNjUTIytC"
-  },
-  {
-   "id": "18150942805561194",
-   "at": "2026-11-04T17:00:37+0000",
-   "text": "Clients don't really pay for hours. They pay for the certainty that it'll be good. Price the certainty.",
-   "link": "https://www.threads.com/@just.recto/post/DfU8ZcWG0zg"
   }
  ],
  "instagram": [
+  {
+   "id": "17882907948554296",
+   "at": "2026-11-16T15:00:47+0000",
+   "text": "Open Page: what goes on your proposal cover? The client's name, one line about their problem, or a full-bleed image and nothing else? Tell us below.",
+   "link": "https://www.instagram.com/p/DfzoOKWm0V9/",
+   "likes": 0,
+   "replies": 0,
+   "views": 12,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17916142035519886",
    "at": "2026-11-15T15:00:33+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfxDZx5FIEm/",
    "likes": 1,
    "replies": 0,
-   "views": 4,
-   "reach": 1,
+   "views": 6,
+   "reach": 2,
    "saved": 0,
    "shares": 0
   },
@@ -565,8 +577,8 @@
    "link": "https://www.instagram.com/reel/DeAKtlvxk6Q/",
    "likes": 6,
    "replies": 0,
-   "views": 292,
-   "reach": 210,
+   "views": 293,
+   "reach": 211,
    "saved": 0,
    "shares": 3
   },
