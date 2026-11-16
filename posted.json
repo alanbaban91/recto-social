@@ -1218,5 +1218,13 @@
     "posted_at": "2026-11-15T19:30:33.543048+00:00",
     "mood": "studio",
     "text": "Freelancers spend about 20 days a year chasing late payments, according to UK research by IPSE. Twenty working days. A month of the year spent asking for money you've already earned."
+  },
+  {
+    "ids": [
+      "18198736951392977"
+    ],
+    "posted_at": "2026-11-16T05:01:40.016298+00:00",
+    "mood": "script",
+    "text": "Sorani Kurdish writes most of its vowels as letters: ە ێ ۆ و ی. Arabic usually leaves short vowels out. So Kurdish text has a different rhythm and more of those letters per line, and a font drawn only for Arabic can look fine until the first Kurdish paragraph. Test with real Kurdish copy."
   }
 ]
