@@ -1,18 +1,5 @@
 [
   {
-    "mood": "open",
-    "kicker": "Open Page",
-    "color": "signal",
-    "doodle": "page",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "What goes on your cover?"
-      }
-    ],
-    "text": "Open Page: what goes on your proposal cover? The client's name, one line about their problem, or a full-bleed image and nothing else? Tell us below."
-  },
-  {
     "mood": "page",
     "kicker": "Page sizes",
     "color": "stock",
