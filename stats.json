@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-15T19:06:49+00:00",
+ "updated": "2026-11-16T07:17:21+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18198736951392977",
+   "at": "2026-11-16T05:01:37+0000",
+   "text": "Sorani Kurdish writes most of its vowels as letters: ە ێ ۆ و ی. Arabic usually leaves short vowels out. So Kurdish text has a different rhythm and more of those letters per line, and a font drawn only for Arabic can look fine until the first Kurdish paragraph. Test with real Kurdish copy.",
+   "link": "https://www.threads.com/@just.recto/post/DfyjqBRlsDn"
+  },
+  {
+   "id": "18137835295776485",
+   "at": "2026-11-15T19:30:30+0000",
+   "text": "Freelancers spend about 20 days a year chasing late payments, according to UK research by IPSE. Twenty working days. A month of the year spent asking for money you've already earned.",
+   "link": "https://www.threads.com/@just.recto/post/DfxiS7gmDbK"
+  },
   {
    "id": "17981866025915876",
    "at": "2026-11-15T17:00:36+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-04T17:00:37+0000",
    "text": "Clients don't really pay for hours. They pay for the certainty that it'll be good. Price the certainty.",
    "link": "https://www.threads.com/@just.recto/post/DfU8ZcWG0zg"
-  },
-  {
-   "id": "17894573298615126",
-   "at": "2026-11-04T15:00:55+0000",
-   "text": "Open Page. Designers, writers, studios, presenters: what's the one sentence in your proposals or pitches that wins you the most work? Share it below.",
-   "link": "https://www.threads.com/@just.recto/post/DfUusi7kU3s"
-  },
-  {
-   "id": "18388085704234467",
-   "at": "2026-11-04T12:30:31+0000",
-   "text": "A Recto link can carry a password and an expiry date, and you can unpublish it any time. Send with confidence. Take it back in one click.",
-   "link": "https://www.threads.com/@just.recto/post/DfUdfCnkceR"
   }
  ],
  "instagram": [
@@ -301,8 +301,8 @@
    "link": "https://www.instagram.com/p/DfmwOjklOp6/",
    "likes": 2,
    "replies": 0,
-   "views": 12,
-   "reach": 6,
+   "views": 13,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -373,7 +373,7 @@
    "link": "https://www.instagram.com/p/DfSJ9zum2O1/",
    "likes": 1,
    "replies": 0,
-   "views": 49,
+   "views": 50,
    "reach": 31,
    "saved": 0,
    "shares": 1
