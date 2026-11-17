@@ -1,9 +1,33 @@
 {
- "updated": "2026-11-17T08:29:50+00:00",
+ "updated": "2026-11-17T21:20:17+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17964743474999713",
+   "at": "2026-11-17T19:30:29+0000",
+   "text": "Big invoices wait longest. Bonsai found invoices over $20,000 were three times more likely to be paid late than invoices under $100. On a big project, don't send one big invoice. Split it: a deposit up front, milestones along the way.",
+   "link": "https://www.threads.com/@just.recto/post/Df2r4baG6aY"
+  },
+  {
+   "id": "18389676058233386",
+   "at": "2026-11-17T17:00:39+0000",
+   "text": "Better Proposals found 37.7% of proposals were first opened on a phone (2020). You designed for A4. They first meet it on a six-inch screen. A Recto link opens as plain slides, a page-turning book or a magazine spread, so you choose how that first look happens.",
+   "link": "https://www.threads.com/@just.recto/post/Df2auyliWER"
+  },
+  {
+   "id": "17896657179437554",
+   "at": "2026-11-17T12:32:35+0000",
+   "text": "34 minutes. That's how long a proposal sat, on average, before the buyer opened it (Proposify, 2026). They're waiting for it. Send it while the conversation is still warm on their side, not yours.",
+   "link": "https://www.threads.com/@just.recto/post/Df18DyMlV8N"
+  },
+  {
+   "id": "18137622403803654",
+   "at": "2026-11-17T10:02:35+0000",
+   "text": "83% of winning proposals in Proposify's 2026 data included images, about 12 on average. Not decoration. Proof. A before and after, the team at work, a page from a past project. If a sentence can be a picture, the picture is usually the stronger page.",
+   "link": "https://www.threads.com/@just.recto/post/Df1q5xKESvR"
+  },
   {
    "id": "17933970405165682",
    "at": "2026-11-17T07:30:27+0000",
@@ -219,33 +243,21 @@
    "at": "2026-11-06T17:00:38+0000",
    "text": "A payment schedule split into a deposit and milestones tells the client one thing: this person has done this before.",
    "link": "https://www.threads.com/@just.recto/post/DfaF_TdlKF2"
-  },
-  {
-   "id": "18105632366382189",
-   "at": "2026-11-06T15:01:11+0000",
-   "text": "New in Recto Studio: folio. Upload a finished identity and one click turns it into an animated presentation page in that brand, built on your device and downloaded as a single file to send to the client. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/DfZ4UWTFpsU"
-  },
-  {
-   "id": "17918280573536256",
-   "at": "2026-11-06T12:30:30+0000",
-   "text": "Numbered terms read like a promise. A paragraph of terms reads like a trap.",
-   "link": "https://www.threads.com/@just.recto/post/DfZnE3UIOVA"
-  },
-  {
-   "id": "18199725358391232",
-   "at": "2026-11-06T10:00:32+0000",
-   "text": "A signature block at the end of a proposal changes how people read everything above it.",
-   "link": "https://www.threads.com/@just.recto/post/DfZV6edFvAe"
-  },
-  {
-   "id": "17890902903479481",
-   "at": "2026-11-05T19:30:31+0000",
-   "text": "Open Page: presenters, what's your rule for how much text goes on one slide? We'll start: if you have to read it aloud, it's too much.",
-   "link": "https://www.threads.com/@just.recto/post/DfXyWE-GeK4"
   }
  ],
  "instagram": [
+  {
+   "id": "18122441572949965",
+   "at": "2026-11-17T15:01:04+0000",
+   "text": "Pick the page before the layout. A4 when it will be printed, 16:9 when it will be presented, square when it will be posted. Recto does all three, plus any custom size. justrecto.com",
+   "link": "https://www.instagram.com/p/Df2NDrhEXAI/",
+   "likes": 0,
+   "replies": 0,
+   "views": 8,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17882907948554296",
    "at": "2026-11-16T15:00:47+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/DfzoOKWm0V9/",
    "likes": 0,
    "replies": 0,
-   "views": 12,
-   "reach": 3,
+   "views": 21,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +277,8 @@
    "link": "https://www.instagram.com/p/DfxDZx5FIEm/",
    "likes": 1,
    "replies": 0,
-   "views": 6,
-   "reach": 2,
+   "views": 8,
+   "reach": 3,
    "saved": 0,
    "shares": 0
   },
@@ -277,8 +289,8 @@
    "link": "https://www.instagram.com/p/Dfuem6pllPS/",
    "likes": 1,
    "replies": 0,
-   "views": 9,
-   "reach": 4,
+   "views": 11,
+   "reach": 5,
    "saved": 0,
    "shares": 0
   },
@@ -301,8 +313,8 @@
    "link": "https://www.instagram.com/p/DfpVGn2nCJe/",
    "likes": 2,
    "replies": 0,
-   "views": 17,
-   "reach": 5,
+   "views": 20,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -313,8 +325,8 @@
    "link": "https://www.instagram.com/p/DfmwOjklOp6/",
    "likes": 2,
    "replies": 0,
-   "views": 13,
-   "reach": 7,
+   "views": 15,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
@@ -325,8 +337,8 @@
    "link": "https://www.instagram.com/p/DfkLcI_kRfm/",
    "likes": 0,
    "replies": 0,
-   "views": 5,
-   "reach": 2,
+   "views": 7,
+   "reach": 3,
    "saved": 0,
    "shares": 0
   },
@@ -337,8 +349,8 @@
    "link": "https://www.instagram.com/p/Dfhmo_IlEg5/",
    "likes": 2,
    "replies": 0,
-   "views": 25,
-   "reach": 8,
+   "views": 31,
+   "reach": 9,
    "saved": 0,
    "shares": 0
   },
