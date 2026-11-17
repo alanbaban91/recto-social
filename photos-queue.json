@@ -1,27 +1,5 @@
 [
   {
-    "mood": "page",
-    "kicker": "Page sizes",
-    "color": "stock",
-    "doodle": "make",
-    "ig_only": true,
-    "slides": [
-      {
-        "title": "Pick the page before the layout."
-      },
-      {
-        "title": "A4 for print."
-      },
-      {
-        "title": "16:9 for the screen."
-      },
-      {
-        "title": "Square for the feed."
-      }
-    ],
-    "text": "Pick the page before the layout. A4 when it will be printed, 16:9 when it will be presented, square when it will be posted. Recto does all three, plus any custom size. justrecto.com"
-  },
-  {
     "mood": "product",
     "kicker": "Recto Studio",
     "color": "ink",

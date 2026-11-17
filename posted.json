@@ -1314,5 +1314,30 @@
     "posted_at": "2026-11-17T12:32:38.586823+00:00",
     "mood": "pitch",
     "text": "34 minutes. That's how long a proposal sat, on average, before the buyer opened it (Proposify, 2026). They're waiting for it. Send it while the conversation is still warm on their side, not yours."
+  },
+  {
+    "ids": [],
+    "posted_at": "2026-11-17T15:01:08.592530+00:00",
+    "mood": "page",
+    "kicker": "Page sizes",
+    "color": "stock",
+    "doodle": "make",
+    "ig_only": true,
+    "slides": [
+      {
+        "title": "Pick the page before the layout."
+      },
+      {
+        "title": "A4 for print."
+      },
+      {
+        "title": "16:9 for the screen."
+      },
+      {
+        "title": "Square for the feed."
+      }
+    ],
+    "text": "Pick the page before the layout. A4 when it will be printed, 16:9 when it will be presented, square when it will be posted. Recto does all three, plus any custom size. justrecto.com",
+    "ig_id": "18122441572949965"
   }
 ]
