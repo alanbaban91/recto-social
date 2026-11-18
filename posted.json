@@ -1379,5 +1379,24 @@
     "posted_at": "2026-11-18T10:00:41.686612+00:00",
     "mood": "page",
     "text": "People read about 20% of the words on a web page. Jakob Nielsen's 2008 analysis put the ceiling at 28%. Assume your proposal gets the same treatment on screen. Headings, short paragraphs and one bold number do more than a perfect paragraph nobody reaches."
+  },
+  {
+    "ids": [
+      "18136116286743915"
+    ],
+    "posted_at": "2026-11-18T10:39:03.083085+00:00",
+    "mood": "pitch",
+    "kicker": "The Pitch",
+    "color": "stock",
+    "slides": [
+      {
+        "art": "pages",
+        "title": "The two pages\nthat lose the deal.",
+        "source": "Proposify, 2026",
+        "sub": "11 pages: the average winner.\n13 pages: the average loser."
+      }
+    ],
+    "text": "Nobody adds two pages on purpose. They arrive one worried paragraph at a time. Proposify looked at 742,137 proposals sent in 2025: the average winner ran 11 pages, the average loser 13. Before you send, find the two pages you wrote for yourself.",
+    "ig_id": "17906641896610000"
   }
 ]
