@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-18T07:56:24+00:00",
+ "updated": "2026-11-18T20:54:26+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18103742108391960",
+   "at": "2026-11-18T19:30:31+0000",
+   "text": "In Bonsai's invoice data, 31% of invoices from women freelancers were paid late, against 24% for men and 23% for studios, even after controlling for skills, experience and client size. Worth knowing. Worth saying out loud.",
+   "link": "https://www.threads.com/@just.recto/post/Df5Qrltie-V"
+  },
+  {
+   "id": "17874564438648681",
+   "at": "2026-11-18T17:00:37+0000",
+   "text": "Revisions are buying signals. Proposify found one round of revisions came with an 18% higher close rate, two rounds with 28% (2026). Make rounds easy. In Recto, clients pin a comment to the exact spot on the page, no account needed. Nobody has to describe where the problem is.",
+   "link": "https://www.threads.com/@just.recto/post/Df4_hj8nGTy"
+  },
+  {
+   "id": "18135948355752022",
+   "at": "2026-11-18T12:30:31+0000",
+   "text": "About a third of agencies decline pitches where they aren't the incumbent, according to ANA and 4A's research (2023). Saying no to a pitch is normal. The question is which ones: budget, fit, and whether they'll pay for the thinking.",
+   "link": "https://www.threads.com/@just.recto/post/Df4gnXSlphk"
+  },
+  {
+   "id": "18136116286743915",
+   "at": "2026-11-18T10:38:59+0000",
+   "text": "Nobody adds two pages on purpose. They arrive one worried paragraph at a time. Proposify looked at 742,137 proposals sent in 2025: the average winner ran 11 pages, the average loser 13. Before you send, find the two pages you wrote for yourself.",
+   "link": "https://www.threads.com/@just.recto/post/Df4T2T5EZub"
+  },
+  {
+   "id": "17893314396686536",
+   "at": "2026-11-18T10:00:39+0000",
+   "text": "People read about 20% of the words on a web page. Jakob Nielsen's 2008 analysis put the ceiling at 28%. Assume your proposal gets the same treatment on screen. Headings, short paragraphs and one bold number do more than a perfect paragraph nobody reaches.",
+   "link": "https://www.threads.com/@just.recto/post/Df4PdtGFec_"
+  },
   {
    "id": "18128971567687439",
    "at": "2026-11-18T07:30:26+0000",
@@ -213,39 +243,21 @@
    "at": "2026-11-07T17:00:35+0000",
    "text": "\"Just checking in\" is the weakest follow-up there is. \"I saw you spent time on the timeline. Any questions about the dates?\" is the strongest.",
    "link": "https://www.threads.com/@just.recto/post/Dfcqx26Gjuf"
-  },
-  {
-   "id": "17950788267346178",
-   "at": "2026-11-07T15:00:43+0000",
-   "text": "Pricing tables in Recto multiply and total themselves as you type, and the payment schedule splits into deposit and milestones. Fewer calculators, fewer awkward corrections. 7-day free trial, no card needed. justrecto.com",
-   "link": "https://www.threads.com/@just.recto/post/DfcdDpjEWU_"
-  },
-  {
-   "id": "18130612141889358",
-   "at": "2026-11-07T12:30:29+0000",
-   "text": "Design the last page of the deck first. Once you know where it ends, every page before it has a direction.",
-   "link": "https://www.threads.com/@just.recto/post/DfcL3kilfyr"
-  },
-  {
-   "id": "18078538736445112",
-   "at": "2026-11-07T10:00:27+0000",
-   "text": "A case study without a number is a story. Stories are lovely. Numbers get budgets approved.",
-   "link": "https://www.threads.com/@just.recto/post/Dfb6tR1G7dY"
-  },
-  {
-   "id": "17966672181200071",
-   "at": "2026-11-07T07:30:27+0000",
-   "text": "A bilingual document isn't two translations stapled together. It's one design that speaks twice.",
-   "link": "https://www.threads.com/@just.recto/post/DfbpiFBkczt"
-  },
-  {
-   "id": "18109985749942644",
-   "at": "2026-11-07T05:00:33+0000",
-   "text": "Good creative teams argue about the work, never about which file is the latest. One brand kit, one set of templates, one version of the truth.",
-   "link": "https://www.threads.com/@just.recto/post/DfbYYH3EXmQ"
   }
  ],
  "instagram": [
+  {
+   "id": "17906641896610000",
+   "at": "2026-11-18T10:37:42+0000",
+   "text": "Nobody adds two pages on purpose. They arrive one worried paragraph at a time. Proposify looked at 742,137 proposals sent in 2025: the average winner ran 11 pages, the average loser 13. Before you send, find the two pages you wrote for yourself.",
+   "link": "https://www.instagram.com/p/Df4TtkDkUzR/",
+   "likes": 0,
+   "replies": 0,
+   "views": 15,
+   "reach": 6,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18122441572949965",
    "at": "2026-11-17T15:01:04+0000",
@@ -253,8 +265,8 @@
    "link": "https://www.instagram.com/p/Df2NDrhEXAI/",
    "likes": 0,
    "replies": 0,
-   "views": 8,
-   "reach": 3,
+   "views": 14,
+   "reach": 4,
    "saved": 0,
    "shares": 0
   },
