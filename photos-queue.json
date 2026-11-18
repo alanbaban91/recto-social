@@ -1,19 +1,5 @@
 [
  {
-  "mood": "product",
-  "kicker": "Recto Studio",
-  "color": "ink",
-  "doodle": "make",
-  "ig_only": true,
-  "slides": [
-   {
-    "title": "Start free. Stay for $15.",
-    "body": "7 days free, no card needed."
-   }
-  ],
-  "text": "Recto Studio is $15 for 1 month, $39 for 3 months or $135 for 12 months. Pay with FIB, SuperQi, FastPay or crypto. Start with a 7-day free trial, no card needed. justrecto.com"
- },
- {
   "mood": "pitch",
   "kicker": "The Pitch",
   "color": "stock",
@@ -348,5 +334,19 @@
    }
   ],
   "text": "Pricing tables in Recto multiply and total themselves as you type. Add a round, drop a deliverable, change twelve templates to ten: the total keeps up, so the number on the page is always the number you meant. 7-day free trial, no card needed. justrecto.com"
+ },
+ {
+  "mood": "product",
+  "kicker": "Recto Studio",
+  "color": "ink",
+  "doodle": "make",
+  "ig_only": true,
+  "slides": [
+   {
+    "title": "Start free. Stay for $15.",
+    "body": "7 days free, no card needed."
+   }
+  ],
+  "text": "Recto Studio is $15 for 1 month, $39 for 3 months or $135 for 12 months. Pay with FIB, SuperQi, FastPay or crypto. Start with a 7-day free trial, no card needed. justrecto.com"
  }
 ]
