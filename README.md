@@ -32,10 +32,11 @@ facts we can use and the words we don't.
 - `photos`: real photos instead of (or as well as) cards: `"photos": ["photos/desk.jpg"]`.
   Straightened, resized and stripped of location data before posting.
 - 1 card = image post, 2 to 10 = carousel (Instagram stops at 10).
-- Data cards (`cards.py`): give a slide a `layout` and it becomes one fact drawn as one paper
-  shape: `count`, `chart`, `versus`, `timeline`, `spread`, `grid`, `invoice`, `quote`,
-  `contents`, `calendar`, `pricing`, `phone`. Every number needs a `source`. Keep the digit 1
-  out of headlines: GC Commune's 1 reads as an l (figures inside the shapes use Baskerville).
+- Doodle cards (`cards.py`): give a slide an `art` and it becomes one fact drawn as one object
+  in Recto's marker style (pages, jars, a stopwatch, a snail, an invoice...). Each `art_*`
+  function is one card; add a new one for a new fact rather than reusing a composition.
+  Every number needs a `source`. Keep the digit 1 out of headlines: GC Commune's 1 reads as
+  an l (figures use Baskerville).
 - Text posts go in `queue.json`, image posts in `photos-queue.json`.
 - Check before committing: `python3 post.py preview` and `QUEUE=photos-queue.json python3 post.py preview`,
   then look at the cards in `preview/`.

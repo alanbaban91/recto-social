@@ -19,16 +19,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "count",
-    "context": "742,137 proposals",
+    "art": "pages",
     "title": "The two pages\nthat lose the deal.",
-    "n": 13,
-    "k": 2,
-    "left": "11",
-    "left_label": "pages in the average winner.",
-    "right": "13",
-    "right_label": "in the average loser.",
-    "source": "Proposify, 2026"
+    "source": "Proposify, 2026",
+    "sub": "11 pages: the average winner.\n13 pages: the average loser."
    }
   ],
   "text": "Nobody adds two pages on purpose. They arrive one worried paragraph at a time. Proposify looked at 742,137 proposals sent in 2025: the average winner ran 11 pages, the average loser 13. Before you send, find the two pages you wrote for yourself."
@@ -39,26 +33,8 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "chart",
-    "context": "Where reading time goes",
+    "art": "reading",
     "title": "Two sections do\ntwo-thirds of the work.",
-    "bands": [
-     [
-      "38.2%",
-      "Introduction",
-      0.382
-     ],
-     [
-      "27%",
-      "Pricing",
-      0.27
-     ],
-     [
-      "34.8%",
-      "Everything else",
-      0.348
-     ]
-    ],
     "source": "Better Proposals, 2020"
    }
   ],
@@ -70,14 +46,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "grid",
-    "context": "Three years of invoices",
+    "art": "envelopes",
     "title": "Out of every hundred invoices,\ntwenty-nine are still waiting.",
-    "total": 100,
-    "k": 29,
-    "big": "29%",
-    "label": "of freelance invoices\nare paid at least\na day late.",
-    "source": "Bonsai"
+    "source": "Bonsai",
+    "sub": "Most of them arrive within two weeks of the due date."
    }
   ],
   "text": "The work is done. The invoice is sent. And then the waiting starts. Bonsai analysed three years of freelance invoices: 29% were paid at least a day late. The same data says most arrive within two weeks of the due date. One polite reminder on day one does more than a stern one on day thirty."
@@ -88,22 +60,8 @@
   "color": "signal",
   "slides": [
    {
-    "layout": "versus",
-    "context": "Time spent reading",
+    "art": "stopwatch",
     "title": "They read the ones\nthey sign for longer.",
-    "rows": [
-     [
-      "25.3 min",
-      "Proposals that were signed",
-      25.3
-     ],
-     [
-      "15.8 min",
-      "Proposals that were turned down",
-      15.8
-     ]
-    ],
-    "hot": 0,
     "source": "Proposify, 2026"
    }
   ],
@@ -115,25 +73,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "timeline",
-    "context": "The life of a proposal",
+    "art": "plane",
     "title": "Seventeen minutes to make.\nTwo and a half days to decide.",
-    "stops": [
-     [
-      "17 min",
-      "Made"
-     ],
-     [
-      "34 min",
-      "Opened"
-     ],
-     [
-      "2.5 days",
-      "Signed"
-     ]
-    ],
-    "note": "Averages across 742,137 proposals sent in 2025.",
-    "source": "Proposify, 2026"
+    "source": "Proposify, 2026",
+    "sub": "Averages across 742,137 proposals sent in 2025."
    }
   ],
   "text": "The average proposal took 17 minutes to make. The buyer opened it 34 minutes after it was sent, and closed the deal two and a half days after opening it (Proposify, 2026). The decision is quick. The document that decides months of work deserves more than a lunch break."
@@ -144,12 +87,8 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "spread",
-    "context": "Print vs screen",
+    "art": "printer",
     "title": "Paper means a meeting\nyou're not in.",
-    "left": "The client hits print.\nThe proposal goes into\na room without you.",
-    "right_big": "84%",
-    "right": "less likely to win\nonce a proposal\nis printed.",
     "source": "Better Proposals, 2020"
    }
   ],
@@ -161,27 +100,8 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "invoice",
-    "context": "Invoices over $20,000",
+    "art": "invoice",
     "title": "The bigger the invoice,\nthe longer the wait.",
-    "rows": [
-     [
-      "Brand identity",
-      "$12,000"
-     ],
-     [
-      "Guidelines",
-      "$5,500"
-     ],
-     [
-      "Launch assets",
-      "$4,800"
-     ]
-    ],
-    "total": "$22,300",
-    "status": "Overdue",
-    "big": "3×",
-    "label": "more likely to be paid late\nthan an invoice under $100.",
     "source": "Bonsai"
    }
   ],
@@ -193,12 +113,11 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "quote",
-    "context": "The typeface of truth",
+    "art": "quote",
     "title": "",
+    "source": "Errol Morris, 2012",
     "quote": "This sentence is set\nin Baskerville.\nDid you believe it\na little more?",
-    "by": "In a 2012 test of about 45,000 New York Times readers,\nErrol Morris found Baskerville drew the most agreement\nof six typefaces. Not a lab study, and he said so.",
-    "source": "Errol Morris, 2012"
+    "sub": "In a 2012 test of about 45,000 New York Times readers,\nErrol Morris found Baskerville drew the most agreement\nof six typefaces. Not a lab study, and he said so."
    }
   ],
   "text": "In 2012 Errol Morris showed the same passage to about 45,000 New York Times readers in six typefaces. Baskerville drew the most agreement and the least disagreement. The effect was small and the test wasn't a lab study. But type speaks before the words do. Choose it like you mean it."
@@ -209,15 +128,8 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "count",
-    "context": "People per pitch",
+    "art": "chairs",
     "title": "Eleven to win it.\nEighteen to keep it.",
-    "n": 18,
-    "k": 7,
-    "left": "11",
-    "left_label": "people on a new-business pitch.",
-    "right": "18",
-    "right_label": "defending an account.",
     "source": "ANA & 4A's, 2023"
    }
   ],
@@ -229,22 +141,8 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "versus",
-    "context": "Average cost of a pitch",
+    "art": "coins",
     "title": "Defending costs\ntwice what attacking does.",
-    "rows": [
-     [
-      "$406,092",
-      "Incumbent agency",
-      406092
-     ],
-     [
-      "$204,461",
-      "Agency pitching from outside",
-      204461
-     ]
-    ],
-    "hot": 0,
     "source": "ANA & 4A's, 2023"
    }
   ],
@@ -253,25 +151,11 @@
  {
   "mood": "pitch",
   "kicker": "The Pitch",
-  "color": "signal",
+  "color": "ink",
   "slides": [
    {
-    "layout": "versus",
-    "context": "The jam study",
+    "art": "jars",
     "title": "More choice.\nFewer yeses.",
-    "rows": [
-     [
-      "3%",
-      "Bought from a table of 24 jams",
-      3
-     ],
-     [
-      "30%",
-      "Bought from a table of 6 jams",
-      30
-     ]
-    ],
-    "hot": 1,
     "source": "Iyengar & Lepper, 2000"
    }
   ],
@@ -283,22 +167,8 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "versus",
-    "context": "When you send",
+    "art": "snail",
     "title": "The slow proposal\ngets the slow yes.",
-    "rows": [
-     [
-      "6 days",
-      "To sign, sent within 24 hours",
-      6
-     ],
-     [
-      "12 days",
-      "To sign, sent 3 to 4 days later",
-      11.9
-     ]
-    ],
-    "hot": 0,
     "source": "Better Proposals, 2020"
    }
   ],
@@ -310,32 +180,8 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "versus",
-    "context": "What clients choose on",
+    "art": "tag",
     "title": "They say they buy ideas.\nThen they read the price.",
-    "rows": [
-     [
-      "62%",
-      "Cost / price",
-      62
-     ],
-     [
-      "45%",
-      "Creative execution",
-      45
-     ],
-     [
-      "36%",
-      "The big idea",
-      36
-     ],
-     [
-      "35%",
-      "Agency reputation",
-      35
-     ]
-    ],
-    "hot": 0,
     "source": "ANA & 4A's, 2023"
    }
   ],
@@ -347,14 +193,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "grid",
-    "context": "5,358 freelancers",
+    "art": "coin",
     "title": "Most of us have chased\nmoney we already earned.",
-    "total": 100,
-    "k": 71,
-    "big": "71%",
-    "label": "of freelancers had\ntrouble getting paid\nat some point.",
-    "source": "Freelancers Union"
+    "source": "Freelancers Union",
+    "sub": "of freelancers have had trouble getting paid\nat some point. Freelancers Union surveyed 5,358."
    }
   ],
   "text": "If it has happened to you, you're in the majority. Freelancers Union surveyed 5,358 freelancers: 71% had trouble getting paid at some point in their career. It isn't a sign you're bad at business. It's a sign the paperwork has to do more of the work: deposits, due dates, terms in writing."
@@ -365,23 +207,8 @@
   "color": "signal",
   "slides": [
    {
-    "layout": "invoice",
-    "context": "Late, not lost",
+    "art": "note",
     "title": "Most late invoices\naren't refused. They're forgotten.",
-    "rows": [
-     [
-      "Pitch deck design",
-      "$3,200"
-     ],
-     [
-      "Copy edits",
-      "$650"
-     ]
-    ],
-    "total": "$3,850",
-    "status": "Viewed",
-    "big": "90%",
-    "label": "of late invoices were paid\nwithin a month of the due date.",
     "source": "Bonsai"
    }
   ],
@@ -390,17 +217,11 @@
  {
   "mood": "pitch",
   "kicker": "The Pitch",
-  "color": "stock",
+  "color": "ink",
   "slides": [
    {
-    "layout": "spread",
-    "context": "Who signs first",
+    "art": "signature",
     "title": "Sign it\nbefore they do.",
-    "left": "Unsigned. The offer\nlooks like a draft.",
-    "right_big": "+65%",
-    "right": "close rate when the\nsender signed before\nsending.",
-    "verso_no": "12",
-    "recto_no": "13",
     "source": "Proposify, 2026"
    }
   ],
@@ -409,33 +230,11 @@
  {
   "mood": "page",
   "kicker": "The Page",
-  "color": "ink",
+  "color": "stock",
   "slides": [
    {
-    "layout": "contents",
-    "context": "Winning proposals",
+    "art": "list",
     "title": "Seven sections.\nNo more.",
-    "items": [
-     "The problem",
-     "The approach",
-     "Scope",
-     "Timeline",
-     "Proof",
-     "Price",
-     "Next step"
-    ],
-    "hot": [
-     5
-    ],
-    "pages": [
-     1,
-     2,
-     4,
-     6,
-     7,
-     9,
-     11
-    ],
     "source": "Better Proposals, 2020; Proposify, 2026"
    }
   ],
@@ -447,23 +246,10 @@
   "color": "signal",
   "slides": [
    {
-    "layout": "versus",
-    "context": "Times a proposal is opened",
+    "art": "glasses",
     "title": "Winners get read\ntwelve times.",
-    "rows": [
-     [
-      "12",
-      "Views on a winning proposal",
-      12
-     ],
-     [
-      "8",
-      "Views on a losing one",
-      8
-     ]
-    ],
-    "hot": 0,
-    "source": "Proposify, 2026"
+    "source": "Proposify, 2026",
+    "sub": "Winning proposals were opened 12 times on average.\nLosing ones, 8."
    }
   ],
   "text": "Nobody reads a proposal twelve times for fun. They read it, forward it, defend it in a meeting and read it again before signing. Proposify found winning proposals were viewed 12 times on average, losing ones 8. Every one of those views is someone deciding. Make page one easy to defend."
@@ -474,13 +260,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "quote",
-    "context": "7%, 38%, 55%",
-    "title": "",
-    "quote": "'Only 7% of\ncommunication is words.'\nThat's not what\nthe study said.",
-    "by": "Albert Mehrabian's 1967 experiments tested single words\ncarrying feelings. He has said the numbers don't apply\nto ordinary communication.",
-    "page_no": "7",
-    "source": "Mehrabian, 1967"
+    "art": "speech",
+    "title": "Your words\nstill matter.",
+    "source": "Mehrabian, 1967",
+    "sub": "Albert Mehrabian's 1967 experiments tested single words carrying\nfeelings. He has said they don't apply to everyday communication."
    }
   ],
   "text": "You've seen the slide: 7% words, 38% voice, 55% body language. It comes from Albert Mehrabian's 1967 experiments on single words carrying feelings, and Mehrabian has said it doesn't apply to everyday communication. Presenters, your words matter. Write them like they do."
@@ -491,13 +274,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "calendar",
-    "context": "A year of chasing",
+    "art": "calendar",
     "title": "A working month a year,\nspent asking to be paid.",
-    "days": 20,
-    "k": 20,
-    "note": "About 20 days a year chasing late payments, UK freelancers.",
-    "source": "IPSE"
+    "source": "IPSE",
+    "sub": "About 20 working days a year chasing late payments."
    }
   ],
   "text": "UK research by IPSE found freelancers spend about 20 days a year chasing late payments. That's a whole working month of emails that start with 'Just following up'. Put the deposit, the due date and the late terms in the proposal, so the chasing starts before anyone is late."
@@ -508,28 +288,10 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "versus",
-    "context": "Invoices paid late",
+    "art": "hourglass",
     "title": "Same work.\nDifferent wait.",
-    "rows": [
-     [
-      "31%",
-      "Women freelancers",
-      31
-     ],
-     [
-      "24%",
-      "Men freelancers",
-      24
-     ],
-     [
-      "23%",
-      "Studios",
-      23
-     ]
-    ],
-    "hot": 0,
-    "source": "Bonsai"
+    "source": "Bonsai",
+    "sub": "Share of invoices paid late, controlling for skills,\nexperience and client size."
    }
   ],
   "text": "In Bonsai's invoice data, 31% of invoices from women freelancers were paid late, against 24% for men and 23% for studios, even after controlling for skills, experience and client size. Worth knowing. Worth saying out loud. Worth sharing with the client who pays everyone late."
@@ -540,11 +302,8 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "phone",
-    "context": "First opened on mobile",
+    "art": "phone",
     "title": "You designed for A4.\nThey met it on a phone.",
-    "big": "37.7%",
-    "label": "of proposals were\nfirst opened\non a phone.",
     "source": "Better Proposals, 2020"
    }
   ],
@@ -556,22 +315,8 @@
   "color": "signal",
   "slides": [
    {
-    "layout": "versus",
-    "context": "One-off vs monthly",
+    "art": "loop",
     "title": "Price the after.",
-    "rows": [
-     [
-      "+28.5%",
-      "Monthly fees, over one-off",
-      28.5
-     ],
-     [
-      "+16.3%",
-      "One-off fees",
-      16.3
-     ]
-    ],
-    "hot": 0,
     "source": "Better Proposals, 2020"
    }
   ],
@@ -583,15 +328,8 @@
   "color": "ink",
   "slides": [
    {
-    "layout": "count",
-    "context": "Working memory",
+    "art": "juggle",
     "title": "Seven is a myth.\nFour is a plan.",
-    "n": 7,
-    "k": 3,
-    "left": "4",
-    "left_label": "chunks: Cowan, 2001.",
-    "right": "7",
-    "right_label": "Miller's famous 1956 number.",
     "source": "Miller, 1956; Cowan, 2001"
    }
   ],
@@ -603,34 +341,10 @@
   "color": "stock",
   "slides": [
    {
-    "layout": "pricing",
-    "context": "Pricing tables in Recto",
+    "art": "table",
     "title": "Change a quantity at midnight.\nThe total is right by morning.",
-    "rows": [
-     [
-      "Brand workshop",
-      1,
-      2400
-     ],
-     [
-      "Logo and identity",
-      1,
-      6000
-     ],
-     [
-      "Social templates",
-      12,
-      150
-     ],
-     [
-      "Revision rounds",
-      3,
-      400
-     ]
-    ],
-    "hot": 2,
-    "note": "Rows multiply and total themselves as you type.",
-    "source": "justrecto.com"
+    "source": "justrecto.com",
+    "sub": "Rows multiply and total themselves as you type."
    }
   ],
   "text": "Pricing tables in Recto multiply and total themselves as you type. Add a round, drop a deliverable, change twelve templates to ten: the total keeps up, so the number on the page is always the number you meant. 7-day free trial, no card needed. justrecto.com"

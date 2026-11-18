@@ -168,7 +168,7 @@ def render_post(post, folder, prefix):
     names = []
     for i, slide in enumerate(post.get("slides", [])):
         name = f"{prefix}-{i + 1:02d}.jpg"
-        if "layout" in slide:   # data cards (cards.py): one fact, one shape
+        if "art" in slide:   # doodle cards (cards.py): one fact, one hand-drawn object
             from cards import render
             img = render(slide, post)
         else:
