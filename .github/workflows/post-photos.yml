@@ -1,8 +1,14 @@
 name: Post image to Instagram + Threads (Recto)
 
 on:
-  # Triggered by cron-job.org every day at 18:00 Baghdad time.
-  workflow_dispatch: {}
+  # Triggered by cron-job.org every day at 18:00 Baghdad time. The gate below posts every
+  # other day; tick "force" when running it by hand to post on an off day.
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Post even on an off day"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -12,7 +18,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.day.outputs.go }}
+    steps:
+      - name: Every other day
+        id: day
+        # Even days since 1970-01-01 (UTC) are post days.
+        run: |
+          if [ $(( $(date -u +%s) / 86400 % 2 )) -eq 0 ] || [ "${{ inputs.force }}" = "true" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Off day: no image post today."
+          fi
+
   post:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

@@ -166,9 +166,14 @@ def render_card(post, idx):
 def render_post(post, folder, prefix):
     os.makedirs(folder, exist_ok=True)
     names = []
-    for i in range(len(post.get("slides", []))):
+    for i, slide in enumerate(post.get("slides", [])):
         name = f"{prefix}-{i + 1:02d}.jpg"
-        render_card(post, i).save(os.path.join(folder, name), "JPEG", quality=92, optimize=True)
+        if "layout" in slide:   # data cards (cards.py): one fact, one shape
+            from cards import render
+            img = render(slide, post)
+        else:
+            img = render_card(post, i)
+        img.save(os.path.join(folder, name), "JPEG", quality=92, optimize=True)
         names.append(name)
     return names
 

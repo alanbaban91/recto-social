@@ -4,8 +4,9 @@ Posts to the **@just.recto** Threads and Instagram accounts and answers comments
 using the official Meta APIs and free GitHub Actions.
 
 - **Threads, 7 posts a day.** 6 text posts from `queue.json`, started by cron-job.org (08:00, 10:30, 13:00, 15:30, 20:00,
-  22:30 Baghdad time) and 1 image post from `photos-queue.json` at 18:00.
-- **Instagram, 1 post a day.** The same 18:00 image post, with the same cards and caption.
+  22:30 Baghdad time) and an image post from `photos-queue.json` at 18:00 every other day.
+- **Instagram, every other day.** The same 18:00 image post, with the same cards and caption.
+  The workflow skips odd days itself; tick "force" on a manual run to post on an off day.
 - **Comments, every 30 minutes.** A knowledge-base bot answers questions about Recto on Threads
   and Instagram, in English, Kurdish or Arabic. Anything it doesn't know gets no reply.
 
@@ -31,6 +32,10 @@ facts we can use and the words we don't.
 - `photos`: real photos instead of (or as well as) cards: `"photos": ["photos/desk.jpg"]`.
   Straightened, resized and stripped of location data before posting.
 - 1 card = image post, 2 to 10 = carousel (Instagram stops at 10).
+- Data cards (`cards.py`): give a slide a `layout` and it becomes one fact drawn as one paper
+  shape: `count`, `chart`, `versus`, `timeline`, `spread`, `grid`, `invoice`, `quote`,
+  `contents`, `calendar`, `pricing`, `phone`. Every number needs a `source`. Keep the digit 1
+  out of headlines: GC Commune's 1 reads as an l (figures inside the shapes use Baskerville).
 - Text posts go in `queue.json`, image posts in `photos-queue.json`.
 - Check before committing: `python3 post.py preview` and `QUEUE=photos-queue.json python3 post.py preview`,
   then look at the cards in `preview/`.
