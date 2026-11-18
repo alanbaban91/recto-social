@@ -125,7 +125,7 @@ class Card:
         t = self.s["title"]
         while size > 56 and max(self.d.textlength(l, font=disp(size)) for l in t.split("\n")) > (W - 2 * x) * S:
             size -= 2
-        self.text((x, y), t, disp(size), fill, "la", int(size * .08))
+        self.text((x, y), t, disp(size), fill, "la", int(size * .2))
 
     def sub(self, y, size=28, fill=None, x=84):
         if self.s.get("sub"):
@@ -210,10 +210,11 @@ class Card:
         p.seg((cx + rad * .72, cy - rad * .78), (cx + rad * .86, cy - rad * .94))
         r.ring(cx, cy, rad - 42, start=-90, end=-90 + 360 * 25.3 / 30)
         q.ring(cx, cy, rad - 88, start=-90, end=-90 + 360 * 15.8 / 30)
-        self.big((cx, cy + 10), "25.3", 76, RED, "ms")
-        self.text((cx, cy + 50), "minutes when they sign\n15.8 when they don't", serif(24), INK, "ma", 8, "center")
+        self.big((cx, cy + 30), "25.3", 76, RED, "ms")
+        self.text((cx, cy + 60), "min", serif(28), INK, "ma")
+        self.text((cx, cy + rad + 40), "25.3 minutes on proposals they sign. 15.8 on the ones they don't.", serif(26), anchor="ma")
         p.motion(cx + rad + 40, cy - 80, angle=-.3)
-        self.sub(1140, 26)
+        self.sub(1180, 26)
 
     def art_plane(self):
         self.title()
@@ -342,8 +343,8 @@ class Card:
         r.poly([(300, 560), (780, 520), (860, 770), (400, 1010), (250, 830)], fill=self.acc)
         r.ring(330, 640, 22, fill=self.bg)
         p.line([(330, 640), (260, 560), (200, 470), (230, 420)])
-        self.text((570, 790), "62%", bold(140), CREAM, "mm")
-        self.text((570, 880), "named price first", serif(28), CREAM, "mm")
+        self.text((530, 730), "62%", bold(130), CREAM, "mm")
+        self.text((530, 820), "named price first", serif(28), CREAM, "mm")
         self.text((84, 1080), "Creative execution 45%.  The big idea 36%.  Reputation 35%.", serif(26))
 
     def art_coin(self):
@@ -375,7 +376,7 @@ class Card:
         sg.line(pts, wobble=1.5)
         sg.seg((110, 900), (900, 886), w=sg.w * .5)
         self.doodle("make", pts[-1][0] - 30, pts[-1][1] - 220, 240, self.ink)
-        sg.sparkle(960, 560, 30)
+        sg.sparkle(120, 600, 30)
         self.big((84, 960), "+65%", 120, self.ink)
         self.text((84, 1110), "close rate when the sender\nsigned before sending.", serif(28))
 
@@ -490,7 +491,7 @@ class Card:
         self.text((110, y + 40), "Total", bold(34))
         self.text((970, y + 20), "$11,400", bold(80), self.acc, "ra")
         r.ring(800, y + 70, 220, 80)
-        self.doodle("make", 140, y + 150, 150, self.acc, angle=-20)
+        self.doodle("make", 250, y - 20, 110, self.acc, angle=-20)
         self.sub(1130)
 
 
