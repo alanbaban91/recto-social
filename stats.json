@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-18T20:54:26+00:00",
+ "updated": "2026-11-19T07:56:23+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18185131255439358",
+   "at": "2026-11-19T07:30:32+0000",
+   "text": "Ask for the deposit with the yes. In Better Proposals' 2020 data, 67% of proposals that asked for payment through an integration got it, and the average time from signature to payment was 7 hours 43 minutes.",
+   "link": "https://www.threads.com/@just.recto/post/Df6jE-oEeXG"
+  },
+  {
+   "id": "18119339012133555",
+   "at": "2026-11-19T05:00:39+0000",
+   "text": "Open Page: Better Proposals found sending on Monday gave only a 1.1% edge, and Friday sends took about a day longer to sign. So the day barely matters. What does? Tell us one thing you changed that actually moved your win rate.",
+   "link": "https://www.threads.com/@just.recto/post/Df6R7eKGy_n"
+  },
   {
    "id": "18103742108391960",
    "at": "2026-11-18T19:30:31+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-08T05:00:31+0000",
    "text": "Every studio has a templates folder nobody trusts. Make one good template and the folder disappears.",
    "link": "https://www.threads.com/@just.recto/post/Dfd9K7uGxtB"
-  },
-  {
-   "id": "18137074942659260",
-   "at": "2026-11-07T19:30:29+0000",
-   "text": "Recto shows you who viewed your link, how long they spent on each page and how far they got. Write the follow-up with facts, not hope.",
-   "link": "https://www.threads.com/@just.recto/post/Dfc77y3G4Mb"
-  },
-  {
-   "id": "18114205859265156",
-   "at": "2026-11-07T17:00:35+0000",
-   "text": "\"Just checking in\" is the weakest follow-up there is. \"I saw you spent time on the timeline. Any questions about the dates?\" is the strongest.",
-   "link": "https://www.threads.com/@just.recto/post/Dfcqx26Gjuf"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/Df4TtkDkUzR/",
    "likes": 0,
    "replies": 0,
-   "views": 15,
-   "reach": 6,
+   "views": 16,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -349,8 +349,8 @@
    "link": "https://www.instagram.com/p/DfkLcI_kRfm/",
    "likes": 0,
    "replies": 0,
-   "views": 7,
-   "reach": 3,
+   "views": 8,
+   "reach": 4,
    "saved": 0,
    "shares": 0
   },
