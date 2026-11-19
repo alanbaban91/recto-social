@@ -1,18 +1,5 @@
 [
   {
-    "mood": "page",
-    "kicker": "The Page",
-    "color": "ink",
-    "slides": [
-      {
-        "art": "reading",
-        "title": "Two sections do\ntwo-thirds of the work.",
-        "source": "Better Proposals, 2020"
-      }
-    ],
-    "text": "You spent a week on the process section. They spent a minute. Better Proposals measured where reading time goes: 38.2% on the introduction, 27% on pricing, 34.8% on everything else combined. Write the first page and the price page first, and last, and best."
-  },
-  {
     "mood": "studio",
     "kicker": "Studio Life",
     "color": "stock",

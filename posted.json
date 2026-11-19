@@ -1454,5 +1454,23 @@
     "posted_at": "2026-11-19T12:30:35.380150+00:00",
     "mood": "pitch",
     "text": "A pitch costs the client too. ANA and the 4A's estimate a client spends about $400,000 running an agency pitch, and about $1 million in total when three agencies are finalists (2023). Clients don't run reviews lightly. Treat the brief like the investment it is."
+  },
+  {
+    "ids": [
+      "18019294226957055"
+    ],
+    "posted_at": "2026-11-19T15:00:57.621266+00:00",
+    "mood": "page",
+    "kicker": "The Page",
+    "color": "ink",
+    "slides": [
+      {
+        "art": "reading",
+        "title": "Two sections do\ntwo-thirds of the work.",
+        "source": "Better Proposals, 2020"
+      }
+    ],
+    "text": "You spent a week on the process section. They spent a minute. Better Proposals measured where reading time goes: 38.2% on the introduction, 27% on pricing, 34.8% on everything else combined. Write the first page and the price page first, and last, and best.",
+    "ig_id": "17996879733113547"
   }
 ]
