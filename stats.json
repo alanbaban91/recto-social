@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-19T07:56:23+00:00",
+ "updated": "2026-11-19T20:58:39+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18108104419992807",
+   "at": "2026-11-19T19:30:30+0000",
+   "text": "Bonsai's late-payment rates by work type: developers 29%, designers 28%, writers 26%, photographers 24%. Whatever you do, roughly one invoice in four arrives late. Put the due date and the deposit on page one of the proposal, not in the small print.",
+   "link": "https://www.threads.com/@just.recto/post/Df71eVamP5T"
+  },
+  {
+   "id": "18142337362723574",
+   "at": "2026-11-19T17:00:36+0000",
+   "text": "Buyers come back. Proposify found winning proposals were viewed 12 times on average, losing ones 8 (2026). In Recto you see who viewed your link, the time on each page and how far they got. When someone returns to the pricing page twice, that's your follow-up.",
+   "link": "https://www.threads.com/@just.recto/post/Df7kUdnkSeM"
+  },
+  {
+   "id": "18019294226957055",
+   "at": "2026-11-19T15:00:55+0000",
+   "text": "You spent a week on the process section. They spent a minute. Better Proposals measured where reading time goes: 38.2% on the introduction, 27% on pricing, 34.8% on everything else combined. Write the first page and the price page first, and last, and best.",
+   "link": "https://www.threads.com/@just.recto/post/Df7WnwKlf87"
+  },
+  {
+   "id": "18126764032901462",
+   "at": "2026-11-19T12:30:32+0000",
+   "text": "A pitch costs the client too. ANA and the 4A's estimate a client spends about $400,000 running an agency pitch, and about $1 million in total when three agencies are finalists (2023). Clients don't run reviews lightly. Treat the brief like the investment it is.",
+   "link": "https://www.threads.com/@just.recto/post/Df7FaUgFVyV"
+  },
+  {
+   "id": "18204024484383330",
+   "at": "2026-11-19T10:00:34+0000",
+   "text": "In 2012 Errol Morris tested about 45,000 New York Times readers: the same passage, six fonts. Baskerville drew the most agreement and the least disagreement. Not a lab study, and Morris said so. But type has a voice before the words do.",
+   "link": "https://www.threads.com/@just.recto/post/Df60P86FoJU"
+  },
   {
    "id": "18185131255439358",
    "at": "2026-11-19T07:30:32+0000",
@@ -213,39 +243,21 @@
    "at": "2026-11-08T19:30:28+0000",
    "text": "New in Recto Studio: folio.",
    "link": "https://www.threads.com/@just.recto/post/DffgulBlpyJ"
-  },
-  {
-   "id": "17984068643908474",
-   "at": "2026-11-08T17:00:34+0000",
-   "text": "Your rate card should answer the question before the client asks it. If they have to email you for a price, half of them won't.",
-   "link": "https://www.threads.com/@just.recto/post/DffPknFGjom"
-  },
-  {
-   "id": "18193793419408881",
-   "at": "2026-11-08T12:30:28+0000",
-   "text": "Recto and verso: the right-hand page and the left. Every good document is a conversation between the two.",
-   "link": "https://www.threads.com/@just.recto/post/DfewqVVm8WZ"
-  },
-  {
-   "id": "17874213297637334",
-   "at": "2026-11-08T10:00:30+0000",
-   "text": "The work wins the room. The document wins the budget meeting you weren't invited to.",
-   "link": "https://www.threads.com/@just.recto/post/DfefgEGFpIL"
-  },
-  {
-   "id": "18034555649677569",
-   "at": "2026-11-08T07:30:29+0000",
-   "text": "Open Page: agencies and studios, how many pages is your ideal proposal? We've heard everything from 3 to 40. Defend your number.",
-   "link": "https://www.threads.com/@just.recto/post/DfeOVPJGz7z"
-  },
-  {
-   "id": "17954392347290332",
-   "at": "2026-11-08T05:00:31+0000",
-   "text": "Every studio has a templates folder nobody trusts. Make one good template and the folder disappears.",
-   "link": "https://www.threads.com/@just.recto/post/Dfd9K7uGxtB"
   }
  ],
  "instagram": [
+  {
+   "id": "17996879733113547",
+   "at": "2026-11-19T15:00:43+0000",
+   "text": "You spent a week on the process section. They spent a minute. Better Proposals measured where reading time goes: 38.2% on the introduction, 27% on pricing, 34.8% on everything else combined. Write the first page and the price page first, and last, and best.",
+   "link": "https://www.instagram.com/p/Df7WmRBlaas/",
+   "likes": 0,
+   "replies": 0,
+   "views": 4,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "17906641896610000",
    "at": "2026-11-18T10:37:42+0000",
@@ -253,7 +265,7 @@
    "link": "https://www.instagram.com/p/Df4TtkDkUzR/",
    "likes": 0,
    "replies": 0,
-   "views": 16,
+   "views": 17,
    "reach": 7,
    "saved": 0,
    "shares": 0
@@ -313,8 +325,8 @@
    "link": "https://www.instagram.com/p/Dfr50xnkTgh/",
    "likes": 1,
    "replies": 0,
-   "views": 15,
-   "reach": 7,
+   "views": 17,
+   "reach": 8,
    "saved": 0,
    "shares": 0
   },
