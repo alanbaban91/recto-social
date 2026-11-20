@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-19T20:58:39+00:00",
+ "updated": "2026-11-20T07:46:03+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18343378699258588",
+   "at": "2026-11-20T07:30:29+0000",
+   "text": "54% of agency respondents told ANA and the 4A's that being put up for review had a major or moderate impact on their decision to resign the account (2023). A review tests the relationship before it tests the work.",
+   "link": "https://www.threads.com/@just.recto/post/Df9H3jIHDOr"
+  },
+  {
+   "id": "18185371177438073",
+   "at": "2026-11-20T05:00:34+0000",
+   "text": "Numbers run left to right, even inside right-to-left text. ٢٥٠ and 250 are both read from the left, in the middle of a Kurdish or Arabic sentence that reads from the right. Prices, dates and phone numbers are where bilingual layouts usually break. Check them first.",
+   "link": "https://www.threads.com/@just.recto/post/Df82tlwFKW3"
+  },
   {
    "id": "18108104419992807",
    "at": "2026-11-19T19:30:30+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-09T07:30:25+0000",
    "text": "To every designer setting Kurdish type with care: you're shaping how a language looks for the next generation. That's not a small job.",
    "link": "https://www.threads.com/@just.recto/post/DfgzHrlFoHx"
-  },
-  {
-   "id": "18184229776430123",
-   "at": "2026-11-09T05:00:28+0000",
-   "text": "Designers undersell. Writers overexplain. Presenters overrun. Everybody overdelivers. Get paid for it.",
-   "link": "https://www.threads.com/@just.recto/post/Dfgh99fDY3R"
-  },
-  {
-   "id": "18181349242432851",
-   "at": "2026-11-08T19:30:28+0000",
-   "text": "New in Recto Studio: folio.",
-   "link": "https://www.threads.com/@just.recto/post/DffgulBlpyJ"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/Df7WmRBlaas/",
    "likes": 0,
    "replies": 0,
-   "views": 4,
-   "reach": 3,
+   "views": 10,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/Df4TtkDkUzR/",
    "likes": 0,
    "replies": 0,
-   "views": 17,
-   "reach": 7,
+   "views": 20,
+   "reach": 10,
    "saved": 0,
    "shares": 0
   },
@@ -326,7 +326,7 @@
    "likes": 1,
    "replies": 0,
    "views": 17,
-   "reach": 8,
+   "reach": 9,
    "saved": 0,
    "shares": 0
   },
@@ -338,7 +338,7 @@
    "likes": 2,
    "replies": 0,
    "views": 20,
-   "reach": 6,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -350,7 +350,7 @@
    "likes": 2,
    "replies": 0,
    "views": 17,
-   "reach": 9,
+   "reach": 10,
    "saved": 0,
    "shares": 0
   },
@@ -374,7 +374,7 @@
    "likes": 2,
    "replies": 0,
    "views": 31,
-   "reach": 9,
+   "reach": 10,
    "saved": 0,
    "shares": 0
   },
@@ -398,7 +398,7 @@
    "likes": 2,
    "replies": 0,
    "views": 45,
-   "reach": 18,
+   "reach": 19,
    "saved": 0,
    "shares": 0
   },
@@ -410,7 +410,7 @@
    "likes": 3,
    "replies": 0,
    "views": 28,
-   "reach": 15,
+   "reach": 16,
    "saved": 0,
    "shares": 0
   },
