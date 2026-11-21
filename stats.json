@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-20T20:43:55+00:00",
+ "updated": "2026-11-21T07:42:46+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18111673703205427",
+   "at": "2026-11-21T07:30:33+0000",
+   "text": "Agency reviews average about 2.5 months when the incumbent takes part and 3.2 months when it doesn't, according to clients in the ANA and 4A's study. Waiting on a yes? Silence isn't a no. It's usually a calendar.",
+   "link": "https://www.threads.com/@just.recto/post/Df_sq-8EWNH"
+  },
+  {
+   "id": "18127428592903117",
+   "at": "2026-11-21T05:00:30+0000",
+   "text": "Open Page: when clients pay agencies to pitch, it's most often reimbursed expenses (70%), a flat fee (57%) or payment for spec work (46%), per ANA and 4A's research. Studios and freelancers: have you ever been paid to pitch? How did you ask?",
+   "link": "https://www.threads.com/@just.recto/post/Df_bgoLlmU3"
+  },
   {
    "id": "18452808451133389",
    "at": "2026-11-20T19:30:34+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-15T05:00:32+0000",
    "text": "Open Page: ANA and the 4A's put the average cost of a pitch for a non-incumbent agency at $204,461 (The Cost of the Pitch, 2023). Agencies and studios, do you track what a pitch costs you? Hours, people, spec work. What's your number?",
    "link": "https://www.threads.com/@just.recto/post/Dfv-vKjgK-_"
-  },
-  {
-   "id": "18148109128593282",
-   "at": "2026-11-14T19:30:32+0000",
-   "text": "29% of freelance invoices are paid at least a day late. That's Bonsai's analysis of three years of invoicing data. The same study found over 75% of those late invoices were paid within 14 days of the due date. One polite reminder on day one does a lot of work.",
-   "link": "https://www.threads.com/@just.recto/post/Dfu9gLhGSUc"
-  },
-  {
-   "id": "18356482048269106",
-   "at": "2026-11-14T17:00:34+0000",
-   "text": "Buyers spent 25.3 minutes on proposals they signed and 15.8 on the ones they turned down (Proposify, 2026). Time is the signal. A Recto link shows how long they stayed on each page and how far they got, so you know which follow-up to write.",
-   "link": "https://www.threads.com/@just.recto/post/DfusVzikWpo"
   }
  ],
  "instagram": [
@@ -254,7 +254,7 @@
    "likes": 0,
    "replies": 0,
    "views": 10,
-   "reach": 6,
+   "reach": 7,
    "saved": 0,
    "shares": 0
   },
@@ -277,7 +277,7 @@
    "link": "https://www.instagram.com/p/Df2NDrhEXAI/",
    "likes": 0,
    "replies": 0,
-   "views": 15,
+   "views": 21,
    "reach": 5,
    "saved": 0,
    "shares": 0
