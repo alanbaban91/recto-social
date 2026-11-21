@@ -1568,5 +1568,24 @@
     "posted_at": "2026-11-21T12:30:31.730138+00:00",
     "mood": "pitch",
     "text": "Proposals with discounts had a 75% higher average value in Proposify's data: $20K up to $35K (2026). Bigger deals attract discounts, so don't read it as cause. Read it as craft: show the full price first, then the reduction."
+  },
+  {
+    "ids": [
+      "18012231056779154"
+    ],
+    "posted_at": "2026-11-21T15:01:00.170004+00:00",
+    "mood": "studio",
+    "kicker": "Studio Life",
+    "color": "stock",
+    "slides": [
+      {
+        "art": "envelopes",
+        "title": "Out of every hundred invoices,\ntwenty-nine are still waiting.",
+        "source": "Bonsai",
+        "sub": "Most of them arrive within two weeks of the due date."
+      }
+    ],
+    "text": "The work is done. The invoice is sent. And then the waiting starts. Bonsai analysed three years of freelance invoices: 29% were paid at least a day late. The same data says most arrive within two weeks of the due date. One polite reminder on day one does more than a stern one on day thirty.",
+    "ig_id": "18120827663054801"
   }
 ]
