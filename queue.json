@@ -1,9 +1,5 @@
 [
   {
-    "mood": "script",
-    "text": "Right-to-left isn't just left-to-right mirrored. Reading starts top right, so the logo, page numbers and the 'next' arrow move. But URLs, emails and English names inside the line still run left to right. Good bilingual design handles both directions in one sentence."
-  },
-  {
     "mood": "late",
     "text": "In 1927 Bluma Zeigarnik found people remember unfinished tasks better than finished ones. Ending a deck on 'Thank you' closes the loop. Ending on the open question, the decision you need from them, leaves something to think about on the drive home."
   },
