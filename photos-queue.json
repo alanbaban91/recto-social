@@ -2,19 +2,6 @@
   {
     "mood": "pitch",
     "kicker": "The Pitch",
-    "color": "signal",
-    "slides": [
-      {
-        "art": "stopwatch",
-        "title": "They read the ones\nthey sign for longer.",
-        "source": "Proposify, 2026"
-      }
-    ],
-    "text": "A yes takes time. Buyers spent 25.3 minutes on the proposals they signed and 15.8 on the ones they turned down, across 742,137 proposals in Proposify's data. Reading time is the closest thing to a heartbeat a proposal has. On a Recto link you can see it, page by page."
-  },
-  {
-    "mood": "pitch",
-    "kicker": "The Pitch",
     "color": "stock",
     "slides": [
       {

@@ -1683,5 +1683,23 @@
     "posted_at": "2026-11-23T12:30:50.325966+00:00",
     "mood": "pitch",
     "text": "Dan Ariely's decoy test: web-only $59, print-only $125, print and web $125. 84% chose print and web. Remove the print-only option, which nobody chose, and only 32% did. The option nobody picks still shapes the choice. Design your middle package with care."
+  },
+  {
+    "ids": [
+      "18224730688344647"
+    ],
+    "posted_at": "2026-11-23T15:01:02.331358+00:00",
+    "mood": "pitch",
+    "kicker": "The Pitch",
+    "color": "signal",
+    "slides": [
+      {
+        "art": "stopwatch",
+        "title": "They read the ones\nthey sign for longer.",
+        "source": "Proposify, 2026"
+      }
+    ],
+    "text": "A yes takes time. Buyers spent 25.3 minutes on the proposals they signed and 15.8 on the ones they turned down, across 742,137 proposals in Proposify's data. Reading time is the closest thing to a heartbeat a proposal has. On a Recto link you can see it, page by page.",
+    "ig_id": "18134695822832151"
   }
 ]
