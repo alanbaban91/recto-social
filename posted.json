@@ -1667,5 +1667,13 @@
     "posted_at": "2026-11-23T07:30:34.425705+00:00",
     "mood": "late",
     "text": "Daniel Kahneman's peak-end rule: we judge an experience mostly by its most intense moment and by how it ends. A proposal ends on terms, a payment schedule and a signature. Make the last page as considered as the cover."
+  },
+  {
+    "ids": [
+      "18176089471457207"
+    ],
+    "posted_at": "2026-11-23T10:00:42.283275+00:00",
+    "mood": "page",
+    "text": "Nielsen Norman Group's eye-tracking found people scan pages in an F shape: across the top, across again, then down the left edge. So the first words of each line matter most. 'Deposit: 40%' gets read. 'We would kindly ask for a deposit of 40%' gets skipped."
   }
 ]

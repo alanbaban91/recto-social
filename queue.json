@@ -1,9 +1,5 @@
 [
   {
-    "mood": "page",
-    "text": "Nielsen Norman Group's eye-tracking found people scan pages in an F shape: across the top, across again, then down the left edge. So the first words of each line matter most. 'Deposit: 40%' gets read. 'We would kindly ask for a deposit of 40%' gets skipped."
-  },
-  {
     "mood": "pitch",
     "text": "Dan Ariely's decoy test: web-only $59, print-only $125, print and web $125. 84% chose print and web. Remove the print-only option, which nobody chose, and only 32% did. The option nobody picks still shapes the choice. Design your middle package with care."
   },
