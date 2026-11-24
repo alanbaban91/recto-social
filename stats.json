@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-24T00:22:17+00:00",
+ "updated": "2026-11-24T10:26:06+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18112335275633019",
+   "at": "2026-11-24T10:00:41+0000",
+   "text": "A4 is 210 by 297 mm, and every ISO paper size keeps the same 1:√2 ratio. Fold A4 in half and you get A5 with identical proportions. A proposal designed on A4 scales down to an A5 leave-behind without a single layout change.",
+   "link": "https://www.threads.com/@just.recto/post/DgHsPYelWlD"
+  },
+  {
+   "id": "18131524954849575",
+   "at": "2026-11-24T07:30:30+0000",
+   "text": "The average deal won through Proposify was worth $16,388 (2026). Most proposals take under twenty minutes to make. That's a five-figure document, built in less time than a lunch break. Spend the extra hour.",
+   "link": "https://www.threads.com/@just.recto/post/DgHbDX2lsC1"
+  },
+  {
+   "id": "18127554275294607",
+   "at": "2026-11-24T05:00:34+0000",
+   "text": "One language, two scripts. In Iraq and Iran, Kurdish is mostly written in an Arabic-based script. In Turkey and Syria, Kurmanji is written in the Latin Hawar alphabet, with letters like ç, ê, î, ş and û. A Kurdish brand with readers on both sides may need both.",
+   "link": "https://www.threads.com/@just.recto/post/DgHJ5J8Dlls"
+  },
   {
    "id": "17991695538083181",
    "at": "2026-11-23T19:30:36+0000",
@@ -225,24 +243,6 @@
    "at": "2026-11-18T10:38:59+0000",
    "text": "Nobody adds two pages on purpose. They arrive one worried paragraph at a time. Proposify looked at 742,137 proposals sent in 2025: the average winner ran 11 pages, the average loser 13. Before you send, find the two pages you wrote for yourself.",
    "link": "https://www.threads.com/@just.recto/post/Df4T2T5EZub"
-  },
-  {
-   "id": "17893314396686536",
-   "at": "2026-11-18T10:00:39+0000",
-   "text": "People read about 20% of the words on a web page. Jakob Nielsen's 2008 analysis put the ceiling at 28%. Assume your proposal gets the same treatment on screen. Headings, short paragraphs and one bold number do more than a perfect paragraph nobody reaches.",
-   "link": "https://www.threads.com/@just.recto/post/Df4PdtGFec_"
-  },
-  {
-   "id": "18128971567687439",
-   "at": "2026-11-18T07:30:26+0000",
-   "text": "Agencies in the ANA and 4A's study put an average of 11 people on a new-business pitch, and 18 when defending an existing account (2023). Before you say yes to the next one, count the people, not just the hours.",
-   "link": "https://www.threads.com/@just.recto/post/Df3-RkblZv6"
-  },
-  {
-   "id": "17986186263023231",
-   "at": "2026-11-18T05:00:32+0000",
-   "text": "Arabic script has no capital letters. In English, capitals do much of the hierarchy: headings, names, emphasis. In Kurdish and Arabic that job falls to size, weight and space. If your English headings lean on ALL CAPS, the other side of the page needs its own plan.",
-   "link": "https://www.threads.com/@just.recto/post/Df3tHvEG3cG"
   }
  ],
  "instagram": [
@@ -253,8 +253,8 @@
    "link": "https://www.instagram.com/p/DgFpym6EboD/",
    "likes": 1,
    "replies": 0,
-   "views": 8,
-   "reach": 5,
+   "views": 9,
+   "reach": 6,
    "saved": 0,
    "shares": 0
   },
