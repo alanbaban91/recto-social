@@ -1797,5 +1797,24 @@
     "posted_at": "2026-11-25T12:30:35.089382+00:00",
     "mood": "pitch",
     "text": "Order matters in a pitch line-up. Wändi Bruine de Bruin's 2005 study of Eurovision and figure skating found later performers got higher scores. If the client lets you choose a slot, ask to go last. If you can't, end on your strongest page."
+  },
+  {
+    "ids": [
+      "17883825618631189"
+    ],
+    "posted_at": "2026-11-25T15:01:01.447080+00:00",
+    "mood": "pitch",
+    "kicker": "The Pitch",
+    "color": "stock",
+    "slides": [
+      {
+        "art": "plane",
+        "title": "Seventeen minutes to make.\nTwo and a half days to decide.",
+        "source": "Proposify, 2026",
+        "sub": "Averages across 742,137 proposals sent in 2025."
+      }
+    ],
+    "text": "The average proposal took 17 minutes to make. The buyer opened it 34 minutes after it was sent, and closed the deal two and a half days after opening it (Proposify, 2026). The decision is quick. The document that decides months of work deserves more than a lunch break.",
+    "ig_id": "18124102004287323"
   }
 ]

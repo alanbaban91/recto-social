@@ -1,19 +1,5 @@
 [
   {
-    "mood": "pitch",
-    "kicker": "The Pitch",
-    "color": "stock",
-    "slides": [
-      {
-        "art": "plane",
-        "title": "Seventeen minutes to make.\nTwo and a half days to decide.",
-        "source": "Proposify, 2026",
-        "sub": "Averages across 742,137 proposals sent in 2025."
-      }
-    ],
-    "text": "The average proposal took 17 minutes to make. The buyer opened it 34 minutes after it was sent, and closed the deal two and a half days after opening it (Proposify, 2026). The decision is quick. The document that decides months of work deserves more than a lunch break."
-  },
-  {
     "mood": "page",
     "kicker": "The Page",
     "color": "ink",
