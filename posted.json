@@ -1832,5 +1832,13 @@
     "posted_at": "2026-11-25T19:30:39.008340+00:00",
     "mood": "studio",
     "text": "IPSE's research found freelancers hold back from chasing invoices or charging interest because they fear looking 'difficult' and losing the relationship. A clear payment schedule in the proposal does the chasing for you. The terms were agreed before anyone was late."
+  },
+  {
+    "ids": [
+      "17885804286629716"
+    ],
+    "posted_at": "2026-11-26T05:00:36.086072+00:00",
+    "mood": "script",
+    "text": "Arabic-script text set at the same point size as Latin often looks smaller, because the letters sit differently around the baseline. On a bilingual page, size the Kurdish or Arabic by eye until both lines look equally important, not by matching numbers."
   }
 ]
