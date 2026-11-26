@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-25T21:58:39+00:00",
+ "updated": "2026-11-26T08:53:50+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "17954732229050007",
+   "at": "2026-11-26T07:31:36+0000",
+   "text": "In 2003 Edward Tufte showed how a Boeing slide for NASA about the Columbia foam strike buried the key warning under nested bullet points. Bullets hide relationships between ideas. If something matters, give it a sentence, not a bullet.",
+   "link": "https://www.threads.com/@just.recto/post/DgMkxN0G1MB"
+  },
+  {
+   "id": "17885804286629716",
+   "at": "2026-11-26T05:00:33+0000",
+   "text": "Arabic-script text set at the same point size as Latin often looks smaller, because the letters sit differently around the baseline. On a bilingual page, size the Kurdish or Arabic by eye until both lines look equally important, not by matching numbers.",
+   "link": "https://www.threads.com/@just.recto/post/DgMTe4ClpzR"
+  },
   {
    "id": "18095022986205692",
    "at": "2026-11-25T19:30:35+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-20T07:30:29+0000",
    "text": "54% of agency respondents told ANA and the 4A's that being put up for review had a major or moderate impact on their decision to resign the account (2023). A review tests the relationship before it tests the work.",
    "link": "https://www.threads.com/@just.recto/post/Df9H3jIHDOr"
-  },
-  {
-   "id": "18185371177438073",
-   "at": "2026-11-20T05:00:34+0000",
-   "text": "Numbers run left to right, even inside right-to-left text. ٢٥٠ and 250 are both read from the left, in the middle of a Kurdish or Arabic sentence that reads from the right. Prices, dates and phone numbers are where bilingual layouts usually break. Check them first.",
-   "link": "https://www.threads.com/@just.recto/post/Df82tlwFKW3"
-  },
-  {
-   "id": "18108104419992807",
-   "at": "2026-11-19T19:30:30+0000",
-   "text": "Bonsai's late-payment rates by work type: developers 29%, designers 28%, writers 26%, photographers 24%. Whatever you do, roughly one invoice in four arrives late. Put the due date and the deposit on page one of the proposal, not in the small print.",
-   "link": "https://www.threads.com/@just.recto/post/Df71eVamP5T"
   }
  ],
  "instagram": [
@@ -278,7 +278,7 @@
    "likes": 2,
    "replies": 0,
    "views": 81,
-   "reach": 45,
+   "reach": 46,
    "saved": 0,
    "shares": 1
   },
