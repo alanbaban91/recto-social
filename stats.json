@@ -1,9 +1,33 @@
 {
- "updated": "2026-11-26T08:53:50+00:00",
+ "updated": "2026-11-26T21:55:35+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18080090354749635",
+   "at": "2026-11-26T19:30:32+0000",
+   "text": "C. Northcote Parkinson, 1955: work expands to fill the time available for its completion. That's true for feedback too. Give every revision round a date, not just a number.",
+   "link": "https://www.threads.com/@just.recto/post/DgN3CtXINyc"
+  },
+  {
+   "id": "17994869910116630",
+   "at": "2026-11-26T17:00:34+0000",
+   "text": "45% of clients in ANA and 4A's research named creative execution as a top factor in choosing an agency, second only to price. Show the work the way it ran. Recto case study blocks hold the before and after, the metrics and a testimonial on one page.",
+   "link": "https://www.threads.com/@just.recto/post/DgNl4zZER6c"
+  },
+  {
+   "id": "18029289395943279",
+   "at": "2026-11-26T12:30:34+0000",
+   "text": "In Anderson and Simester's 2003 field test, a dress priced at $39 outsold the same dress at $34. Price endings carry meaning. In client work, round numbers read as considered, precise ones as calculated. Choose on purpose.",
+   "link": "https://www.threads.com/@just.recto/post/DgNG-qOlXdV"
+  },
+  {
+   "id": "18064834754556104",
+   "at": "2026-11-26T10:00:37+0000",
+   "text": "Richard Mayer's research on multimedia learning found people learn less when the same words are on screen and spoken at the same time. It's called the redundancy effect. Presenters: if you'll say it, don't also put the paragraph on the slide.",
+   "link": "https://www.threads.com/@just.recto/post/DgM10WhFv3h"
+  },
   {
    "id": "17954732229050007",
    "at": "2026-11-26T07:31:36+0000",
@@ -219,30 +243,6 @@
    "at": "2026-11-20T19:30:34+0000",
    "text": "Half of freelancers had trouble collecting payment in a single year. Freelancers Union found 50% struggled in 2014. Of those, 81% were paid late and 34% weren't paid at all for at least one job. A contract isn't paranoia. It's manners, in writing.",
    "link": "https://www.threads.com/@just.recto/post/Df-aRn4mbtD"
-  },
-  {
-   "id": "18111269618339031",
-   "at": "2026-11-20T17:00:38+0000",
-   "text": "Bonsai found 90% of late invoices were paid within a month of the due date. Most late payers aren't refusing. They forgot. A Recto invoice moves from draft to sent, viewed, overdue and paid, so you know who opened it and who needs a nudge.",
-   "link": "https://www.threads.com/@just.recto/post/Df-JHc9GnYE"
-  },
-  {
-   "id": "18182309473450903",
-   "at": "2026-11-20T12:30:33+0000",
-   "text": "Price the after. Proposify saw an 18x lift in deal value on proposals with recurring fees (2026). Better Proposals found monthly fees sold for 28.5% more than one-off fees (2020). If the work continues after launch, the proposal should say so.",
-   "link": "https://www.threads.com/@just.recto/post/Df9qNYsHPkN"
-  },
-  {
-   "id": "17981924540922302",
-   "at": "2026-11-20T10:00:35+0000",
-   "text": "Only 20% of proposals include video, Proposify found. When the buyer watches it, the proposal is 3.3x more likely to close (2026). Short, personal, near the top. Thirty seconds of you explaining the idea beats three pages describing it.",
-   "link": "https://www.threads.com/@just.recto/post/Df9ZDKiFmQs"
-  },
-  {
-   "id": "18343378699258588",
-   "at": "2026-11-20T07:30:29+0000",
-   "text": "54% of agency respondents told ANA and the 4A's that being put up for review had a major or moderate impact on their decision to resign the account (2023). A review tests the relationship before it tests the work.",
-   "link": "https://www.threads.com/@just.recto/post/Df9H3jIHDOr"
   }
  ],
  "instagram": [
@@ -251,12 +251,12 @@
    "at": "2026-11-25T15:00:42+0000",
    "text": "The average proposal took 17 minutes to make. The buyer opened it 34 minutes after it was sent, and closed the deal two and a half days after opening it (Proposify, 2026). The decision is quick. The document that decides months of work deserves more than a lunch break.",
    "link": "https://www.instagram.com/p/DgKzYMIoJZR/",
-   "likes": 0,
+   "likes": 4,
    "replies": 0,
-   "views": 5,
-   "reach": 4,
+   "views": 50,
+   "reach": 25,
    "saved": 0,
-   "shares": 0
+   "shares": 1
   },
   {
    "id": "18134695822832151",
@@ -265,8 +265,8 @@
    "link": "https://www.instagram.com/p/DgFpym6EboD/",
    "likes": 1,
    "replies": 0,
-   "views": 12,
-   "reach": 9,
+   "views": 20,
+   "reach": 11,
    "saved": 0,
    "shares": 0
   },
@@ -277,7 +277,7 @@
    "link": "https://www.instagram.com/p/DgAgMKXIOsM/",
    "likes": 2,
    "replies": 0,
-   "views": 81,
+   "views": 83,
    "reach": 46,
    "saved": 0,
    "shares": 1
