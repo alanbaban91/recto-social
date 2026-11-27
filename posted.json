@@ -1912,5 +1912,23 @@
     "posted_at": "2026-11-27T12:30:44.101207+00:00",
     "mood": "pitch",
     "text": "The serial position effect: people remember the first and last items in a list best. In a proposal with three case studies, put the strongest first and the second strongest last. The middle one is the safest place for the weakest."
+  },
+  {
+    "ids": [
+      "18149787715579983"
+    ],
+    "posted_at": "2026-11-27T15:01:00.974583+00:00",
+    "mood": "page",
+    "kicker": "The Page",
+    "color": "ink",
+    "slides": [
+      {
+        "art": "printer",
+        "title": "Paper means a meeting\nyou're not in.",
+        "source": "Better Proposals, 2020"
+      }
+    ],
+    "text": "Somewhere a proposal is being passed around a table, annotated in someone else's pen. Better Proposals found that when a client prints your proposal, you're 84% less likely to win. You can't stop the printer. You can make page one speak for you when you're not there.",
+    "ig_id": "18059173904586819"
   }
 ]

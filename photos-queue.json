@@ -1,18 +1,5 @@
 [
   {
-    "mood": "page",
-    "kicker": "The Page",
-    "color": "ink",
-    "slides": [
-      {
-        "art": "printer",
-        "title": "Paper means a meeting\nyou're not in.",
-        "source": "Better Proposals, 2020"
-      }
-    ],
-    "text": "Somewhere a proposal is being passed around a table, annotated in someone else's pen. Better Proposals found that when a client prints your proposal, you're 84% less likely to win. You can't stop the printer. You can make page one speak for you when you're not there."
-  },
-  {
     "mood": "studio",
     "kicker": "Studio Life",
     "color": "stock",
