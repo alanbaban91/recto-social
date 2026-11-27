@@ -1,9 +1,39 @@
 {
- "updated": "2026-11-27T09:05:28+00:00",
+ "updated": "2026-11-27T21:38:33+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18117880355129834",
+   "at": "2026-11-27T19:30:32+0000",
+   "text": "Freelancers in the US earned $1.27 trillion in 2023, according to Upwork's Freelance Forward report. That isn't a side economy. Charge like you're part of it.",
+   "link": "https://www.threads.com/@just.recto/post/DgQb1ggGRxt"
+  },
+  {
+   "id": "18100914089216322",
+   "at": "2026-11-27T17:00:41+0000",
+   "text": "New in Recto Studio: folio. You finish an identity, then spend another day making the presentation. Upload the logo, guidelines and mockups, and one click turns them into an animated presentation page in that brand, built on your device and downloaded as one file.",
+   "link": "https://www.threads.com/@just.recto/post/DgQKrzKm1TI"
+  },
+  {
+   "id": "18149787715579983",
+   "at": "2026-11-27T15:00:58+0000",
+   "text": "Somewhere a proposal is being passed around a table, annotated in someone else's pen. Better Proposals found that when a client prints your proposal, you're 84% less likely to win. You can't stop the printer. You can make page one speak for you when you're not there.",
+   "link": "https://www.threads.com/@just.recto/post/DgP8_HtFYS6"
+  },
+  {
+   "id": "18119385035012082",
+   "at": "2026-11-27T12:30:41+0000",
+   "text": "The serial position effect: people remember the first and last items in a list best. In a proposal with three case studies, put the strongest first and the second strongest last. The middle one is the safest place for the weakest.",
+   "link": "https://www.threads.com/@just.recto/post/DgPryZMm_UA"
+  },
+  {
+   "id": "17982745526918223",
+   "at": "2026-11-27T10:00:40+0000",
+   "text": "The picture superiority effect: people remember pictures better than words, a finding Allan Paivio explained in the 1970s with his dual-coding theory. The page they remember from your proposal will probably be an image. Choose which one.",
+   "link": "https://www.threads.com/@just.recto/post/DgPanlfIDQT"
+  },
   {
    "id": "17959369485273310",
    "at": "2026-11-27T07:31:31+0000",
@@ -213,39 +243,21 @@
    "at": "2026-11-21T19:30:32+0000",
    "text": "32% of UK freelancers had a client pay late in the past year, according to IPSE's Freelancer Confidence Index (Q1 2024). In 2022 it was 35%. Barely moving. The fix is still in the paperwork: due dates, deposits, written terms.",
    "link": "https://www.threads.com/@just.recto/post/DgA_EX0mUH2"
-  },
-  {
-   "id": "17878265007594808",
-   "at": "2026-11-21T17:00:37+0000",
-   "text": "The first number sets the frame. In Tversky and Kahneman's 1974 experiment, people who watched a wheel stop on 65 guessed far more African countries were in the UN than people who saw 10. In a Recto pricing table, lead with the full scope. Everything after reads against it.",
-   "link": "https://www.threads.com/@just.recto/post/DgAt6XtGv-a"
-  },
-  {
-   "id": "18012231056779154",
-   "at": "2026-11-21T15:00:56+0000",
-   "text": "The work is done. The invoice is sent. And then the waiting starts. Bonsai analysed three years of freelance invoices: 29% were paid at least a day late. The same data says most arrive within two weeks of the due date. One polite reminder on day one does more than a stern one on day thirty.",
-   "link": "https://www.threads.com/@just.recto/post/DgAgNpdILhd"
-  },
-  {
-   "id": "17907492027601031",
-   "at": "2026-11-21T12:30:28+0000",
-   "text": "Proposals with discounts had a 75% higher average value in Proposify's data: $20K up to $35K (2026). Bigger deals attract discounts, so don't read it as cause. Read it as craft: show the full price first, then the reduction.",
-   "link": "https://www.threads.com/@just.recto/post/DgAPAOFoByY"
-  },
-  {
-   "id": "18110666297340235",
-   "at": "2026-11-21T10:01:37+0000",
-   "text": "Give the client something to fill in. Proposify's 2026 data puts the close rate of proposals with client input forms at 41%, against a 34% average. A start date, a package choice, a name for the project. Filling in turns reading into deciding.",
-   "link": "https://www.threads.com/@just.recto/post/Df_99ieFRIY"
-  },
-  {
-   "id": "18111673703205427",
-   "at": "2026-11-21T07:30:33+0000",
-   "text": "Agency reviews average about 2.5 months when the incumbent takes part and 3.2 months when it doesn't, according to clients in the ANA and 4A's study. Waiting on a yes? Silence isn't a no. It's usually a calendar.",
-   "link": "https://www.threads.com/@just.recto/post/Df_sq-8EWNH"
   }
  ],
  "instagram": [
+  {
+   "id": "18059173904586819",
+   "at": "2026-11-27T15:00:46+0000",
+   "text": "Somewhere a proposal is being passed around a table, annotated in someone else's pen. Better Proposals found that when a client prints your proposal, you're 84% less likely to win. You can't stop the printer. You can make page one speak for you when you're not there.",
+   "link": "https://www.instagram.com/p/DgP89mSFemk/",
+   "likes": 1,
+   "replies": 0,
+   "views": 9,
+   "reach": 4,
+   "saved": 0,
+   "shares": 0
+  },
   {
    "id": "18124102004287323",
    "at": "2026-11-25T15:00:42+0000",
@@ -253,7 +265,7 @@
    "link": "https://www.instagram.com/p/DgKzYMIoJZR/",
    "likes": 4,
    "replies": 0,
-   "views": 55,
+   "views": 57,
    "reach": 27,
    "saved": 0,
    "shares": 1
@@ -263,9 +275,9 @@
    "at": "2026-11-23T15:00:51+0000",
    "text": "A yes takes time. Buyers spent 25.3 minutes on the proposals they signed and 15.8 on the ones they turned down, across 742,137 proposals in Proposify's data. Reading time is the closest thing to a heartbeat a proposal has. On a Recto link you can see it, page by page.",
    "link": "https://www.instagram.com/p/DgFpym6EboD/",
-   "likes": 1,
+   "likes": 2,
    "replies": 0,
-   "views": 20,
+   "views": 24,
    "reach": 11,
    "saved": 0,
    "shares": 0
@@ -713,18 +725,6 @@
    "reach": 50,
    "saved": 0,
    "shares": 1
-  },
-  {
-   "id": "18089007176242456",
-   "at": "2026-10-01T12:58:08+0000",
-   "text": "No attachments. No downloads. One link that opens anywhere. #creativeprocess #creativecommunity #designagency #designboom",
-   "link": "https://www.instagram.com/p/Dd89ooTCHMV/",
-   "likes": 4,
-   "replies": 0,
-   "views": 38,
-   "reach": 16,
-   "saved": 1,
-   "shares": 0
   }
  ]
 }
