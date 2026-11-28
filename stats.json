@@ -1,9 +1,21 @@
 {
- "updated": "2026-11-27T21:38:33+00:00",
+ "updated": "2026-11-28T08:27:10+00:00",
  "errors": [
   "Threads insights: 403: Application does not have permission for this action"
  ],
  "threads": [
+  {
+   "id": "18026813321712817",
+   "at": "2026-11-28T07:30:29+0000",
+   "text": "The last slide of most decks says 'Thank you' and an email address. The recency effect says the last thing they see is what they'll remember. End on the decision you want them to make.",
+   "link": "https://www.threads.com/@just.recto/post/DgRuOv4Fl3K"
+  },
+  {
+   "id": "18424555624156146",
+   "at": "2026-11-28T05:00:37+0000",
+   "text": "Arabic-script letters change shape depending on where they sit: isolated, initial, medial or final. That's why you can't letter-space Kurdish or Arabic like English. Tracking breaks the joins. Let the words breathe with space between them, not inside them.",
+   "link": "https://www.threads.com/@just.recto/post/DgRdFEXjr_n"
+  },
   {
    "id": "18117880355129834",
    "at": "2026-11-27T19:30:32+0000",
@@ -231,18 +243,6 @@
    "at": "2026-11-22T07:30:29+0000",
    "text": "In 1927 Bluma Zeigarnik found people remember unfinished tasks better than finished ones. Ending a deck on 'Thank you' closes the loop. Ending on the open question, the decision you need from them, leaves something to think about on the drive home.",
    "link": "https://www.threads.com/@just.recto/post/DgCRdc3FiOK"
-  },
-  {
-   "id": "18136239061743144",
-   "at": "2026-11-22T05:00:36+0000",
-   "text": "Right-to-left isn't just left-to-right mirrored. Reading starts top right, so the logo, page numbers and the 'next' arrow move. But URLs, emails and English names inside the line still run left to right. Good bilingual design handles both directions in one sentence.",
-   "link": "https://www.threads.com/@just.recto/post/DgCATr-FgR9"
-  },
-  {
-   "id": "18103021889453835",
-   "at": "2026-11-21T19:30:32+0000",
-   "text": "32% of UK freelancers had a client pay late in the past year, according to IPSE's Freelancer Confidence Index (Q1 2024). In 2022 it was 35%. Barely moving. The fix is still in the paperwork: due dates, deposits, written terms.",
-   "link": "https://www.threads.com/@just.recto/post/DgA_EX0mUH2"
   }
  ],
  "instagram": [
