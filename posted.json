@@ -1954,5 +1954,13 @@
     "posted_at": "2026-11-28T05:00:40.801068+00:00",
     "mood": "script",
     "text": "Arabic-script letters change shape depending on where they sit: isolated, initial, medial or final. That's why you can't letter-space Kurdish or Arabic like English. Tracking breaks the joins. Let the words breathe with space between them, not inside them."
+  },
+  {
+    "ids": [
+      "18026813321712817"
+    ],
+    "posted_at": "2026-11-28T07:30:31.482417+00:00",
+    "mood": "late",
+    "text": "The last slide of most decks says 'Thank you' and an email address. The recency effect says the last thing they see is what they'll remember. End on the decision you want them to make."
   }
 ]
